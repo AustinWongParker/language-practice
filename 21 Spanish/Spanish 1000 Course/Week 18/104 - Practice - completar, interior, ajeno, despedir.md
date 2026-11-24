@@ -1,0 +1,106 @@
+---
+type: lesson
+course: Spanish 1000 Course
+lesson: 104
+week: 18
+status: todo
+done_on:
+minutes:
+difficulty:
+reflection:
+---
+# Lesson 104 · Practice - completar, interior, ajeno, despedir
+**Week 18 · Formal commands** · about 30 min · [[Spanish 1000 Course|Course overview]] · ← [[103 - Practice - experimentar, conocido, mezclar, paz|Lesson 103]] · [[105 - Formal and plural commands - hable, coman|Lesson 105]] →
+
+> [!tip] Today
+> Learn 10 new words in context, then use them out loud.
+> **10 new words** · 870 of 1000 after today
+
+## 1 · Review (7 min)
+- **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
+- **Quick recall:** say what each word means, and use one in a sentence: **funcionar** · **señalar** · **departamento** · **durar** · **médico** · **director** · **ocasión** · **premio** · **bueno** · **propiedad**
+
+> [!check]- Recall answers
+> - **funcionar** = to work, to function ([[101 - Adverbs with -mente and very, very with -ísimo|lesson 101]])
+> - **señalar** = to point out, to signal ([[101 - Adverbs with -mente and very, very with -ísimo|lesson 101]])
+> - **departamento** = apartment (Latin America); department ([[098 - Practice - impresión, respuesta, culpa, interesante|lesson 98]])
+> - **durar** = to last ([[098 - Practice - impresión, respuesta, culpa, interesante|lesson 98]])
+> - **médico** = doctor ([[089 - The conditional - hablaría|lesson 89]])
+> - **director** = director, manager ([[089 - The conditional - hablaría|lesson 89]])
+> - **ocasión** = occasion ([[074 - Practice - ocasión, premio, visita, tu|lesson 74]])
+> - **premio** = prize, award ([[074 - Practice - ocasión, premio, visita, tu|lesson 74]])
+> - **bueno** = well... (filler); okay ([[044 - Practice - lanzar, diferencia, bueno, propiedad|lesson 44]])
+> - **propiedad** = property ([[044 - Practice - lanzar, diferencia, bueno, propiedad|lesson 44]])
+
+## 2 · Learn (5 min)
+**Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
+
+| # | Spanish | English | In a phrase |
+|---|---|---|---|
+| 844 | **completar** | to complete | completar el formulario = _to fill out the form_ |
+| 845 | **interior** | interior, inside | ropa interior = _underwear_ |
+| 846 | **ajeno** | someone else's, other people's | problemas ajenos = _other people's problems_ |
+| 847 | **despedir** | to fire; despedirse = to say goodbye | me despido = _I'll say goodbye_ |
+| 848 | **chico** | boy, kid | un chico simpático = _a nice guy_ |
+| 849 | **nacimiento** | birth | fecha de nacimiento = _date of birth_ |
+| 850 | **seco** | dry | ropa seca = _dry clothes_ |
+| 851 | **apoyo** | support | gracias por tu apoyo = _thanks for your support_ |
+| 852 | **dividir** | to divide | dividir en dos = _to split in two_ |
+| 853 | **pesado** | heavy; annoying | ¡qué pesado! = _how annoying!_ |
+
+**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+
+1. 
+2. 
+3. 
+
+## 3 · Listen (8 min)
+Watch a **Beginner or Intermediate** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Listen for:** any of today's words, especially **completar**, **interior**, **ajeno**, **despedir**.
+
+## 4 · Talk with your partner (10 min)
+See the [[Conversation Partner Guide]] for how to run this.
+
+**Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
+
+1. to fill out the form
+2. underwear
+3. other people's problems
+4. I'll say goodbye
+5. a nice guy
+6. date of birth
+7. dry clothes
+8. thanks for your support
+9. to split in two
+10. how annoying!
+
+> [!check]- Answer key (for your partner)
+> 1. completar el formulario
+> 2. ropa interior
+> 3. problemas ajenos
+> 4. me despido
+> 5. un chico simpático
+> 6. fecha de nacimiento
+> 7. ropa seca
+> 8. gracias por tu apoyo
+> 9. dividir en dos
+> 10. ¡qué pesado!
+
+**Conversation (7 min):** your partner asks, you answer in full sentences. Try to use at least three of today's words.
+
+- **¿Cómo te despides de tus amigos?** _(How do you say goodbye to your friends?)_
+- **¿Quién te apoya?** _(Who supports you?)_
+- Then switch: you ask your partner the same questions.
+
+Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
+
+> [!info]- No partner today?
+> Answer the questions out loud anyway and record yourself on your phone. Listen back once and note one thing to fix. Or book a session with a tutor (italki, Preply) or a language exchange partner (Tandem, HelloTalk).
+
+## ✅ Finish
+- [ ] Anki: every due card, plus today's new cards
+- [ ] Quick recall
+- [ ] Read today's words and phrases out loud
+- [ ] Listening
+- [ ] 10-minute conversation, and one correction logged
+- [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

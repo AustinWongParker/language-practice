@@ -1,0 +1,96 @@
+---
+type: lesson
+course: Spanish 1000 Course
+lesson: 60
+week: 10
+status: todo
+done_on:
+minutes:
+difficulty:
+reflection:
+---
+# Lesson 60 · Week 10 review - compare and describe
+**Week 10 · -ing, comparisons and weather** · about 30 min · [[Spanish 1000 Course|Course overview]] · ← [[059 - Weather and seasons|Lesson 59]] · [[061 - Preterite - regular -AR verbs|Lesson 61]] →
+
+> [!tip] Today
+> No new words. Lock in this week's 50 words and put the week together out loud.
+
+## 1 · Review (8 min)
+- **Anki:** do every due card, but **no new cards today**: stop once only new (blue) cards are left.
+- **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
+
+**solamente** · **directamente** · **lenguaje** · **ello** · **difícil** · **ofrecer** · **sistema** · **correr** · **cantar** · **llorar** · **enorme** · **realmente** · **social** · **abierto** · **subir** · **evitar** · **superar** · **papel** · **surgir** · **rojo** · **pasado** · **favor** · **siguiente** · **miembro** · **suponer** · **puro** · **carga** · **calor** · **enemigo** · **tender** · **serio** · **mover** · **demasiado** · **ganar** · **lleno** · **altura** · **civil** · **niña** · **cara** · **metro** · **cuidado** · **dios** · **participar** · **explicar** · **libertad** · **sol** · **verano** · **frío** · **temperatura** · **estación**
+
+> [!check]- Answers
+> - **solamente** = only
+> - **directamente** = directly, straight
+> - **lenguaje** = language (way of speaking)
+> - **ello** = it (formal, abstract)
+> - **difícil** = difficult, hard
+> - **ofrecer** = to offer
+> - **sistema** = system
+> - **correr** = to run
+> - **cantar** = to sing
+> - **llorar** = to cry
+> - **enorme** = huge, enormous
+> - **realmente** = really, actually
+> - **social** = social
+> - **abierto** = open
+> - **subir** = to go up, to get on
+> - **evitar** = to avoid
+> - **superar** = to overcome, to beat
+> - **papel** = paper; role
+> - **surgir** = to arise, to come up
+> - **rojo** = red
+> - **pasado** = past; last (week, year)
+> - **favor** = favor
+> - **siguiente** = next, following
+> - **miembro** = member
+> - **suponer** = to suppose
+> - **puro** = pure
+> - **carga** = load, charge
+> - **calor** = heat
+> - **enemigo** = enemy
+> - **tender** = to tend to; to hang out (laundry)
+> - **serio** = serious
+> - **mover** = to move
+> - **demasiado** = too, too much
+> - **ganar** = to win; to earn
+> - **lleno** = full
+> - **altura** = height
+> - **civil** = civil
+> - **niña** = girl, child
+> - **cara** = face
+> - **metro** = meter; subway
+> - **cuidado** = care; ¡cuidado! = careful!
+> - **dios** = God
+> - **participar** = to take part
+> - **explicar** = to explain
+> - **libertad** = freedom
+> - **sol** = sun
+> - **verano** = summer
+> - **frío** = cold
+> - **temperatura** = temperature
+> - **estación** = season; station
+
+This week's lessons: [[055 - Present progressive (-ing)|Lesson 55]] · [[056 - Practice - enorme, realmente, social, abierto|Lesson 56]] · [[057 - Comparisons|Lesson 57]] · [[058 - Practice - serio, mover, demasiado, ganar|Lesson 58]] · [[059 - Weather and seasons|Lesson 59]]
+
+## 2 · Talk with your partner (10 min)
+See the [[Conversation Partner Guide]] for how to run this.
+
+Compare two cities you know: size, weather, food, people (**más... que, menos... que, tan... como**). Then describe what people around you are doing right now (**está hablando, están comiendo**).
+
+Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
+
+> [!info]- No partner today?
+> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
+
+## 3 · Listen (12 min)
+A longer session today: watch [Dreaming Spanish](https://www.dreaming.com/spanish) at **Beginner** level, or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
+
+## ✅ Finish
+- [ ] Anki reviews (no new cards)
+- [ ] Week test
+- [ ] 10-minute conversation task, and corrections logged
+- [ ] 12 minutes of listening
+- [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

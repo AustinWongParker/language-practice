@@ -1,0 +1,96 @@
+---
+type: lesson
+course: Spanish 1000 Course
+lesson: 30
+week: 5
+status: todo
+done_on:
+minutes:
+difficulty:
+reflection:
+---
+# Lesson 30 · Week 5 review - at the restaurant
+**Week 5 · Describing, likes and food** · about 30 min · [[Spanish 1000 Course|Course overview]] · ← [[029 - Food and ordering|Lesson 29]] · [[031 - Stem changers e to ie|Lesson 31]] →
+
+> [!tip] Today
+> No new words. Lock in this week's 50 words and put the week together out loud.
+
+## 1 · Review (8 min)
+- **Anki:** do every due card, but **no new cards today**: stop once only new (blue) cards are left.
+- **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
+
+**esperar** · **aceptar** · **formar** · **hacia** · **sino** · **bueno** · **nuevo** · **viejo** · **alto** · **malo** · **aún** · **nunca** · **caso** · **mano** · **pueblo** · **cuanto** · **solo** · **sentir** · **medio** · **alcanzar** · **cuyo** · **jugar** · **fuerza** · **tarde** · **tal** · **gustar** · **juego** · **cine** · **gusto** · **música** · **posible** · **ejemplo** · **tratar** · **crear** · **encontrar** · **ante** · **ser** · **aire** · **venir** · **palabra** · **obra** · **ninguno** · **mí** · **pues** · **situación** · **agua** · **rico** · **comida** · **vino** · **leche**
+
+> [!check]- Answers
+> - **esperar** = to wait; to hope; to expect
+> - **aceptar** = to accept
+> - **formar** = to form
+> - **hacia** = toward
+> - **sino** = but rather
+> - **bueno** = good
+> - **nuevo** = new
+> - **viejo** = old
+> - **alto** = tall, high
+> - **malo** = bad
+> - **aún** = still, yet
+> - **nunca** = never
+> - **caso** = case
+> - **mano** = hand
+> - **pueblo** = town, village; a people
+> - **cuanto** = as much as; en cuanto = as soon as
+> - **solo** = alone; only
+> - **sentir** = to feel; to be sorry
+> - **medio** = half; middle; medium
+> - **alcanzar** = to reach
+> - **cuyo** = whose
+> - **jugar** = to play (a sport, a game)
+> - **fuerza** = strength, force
+> - **tarde** = afternoon; late
+> - **tal** = such, such a
+> - **gustar** = to like (to be pleasing to)
+> - **juego** = game; set
+> - **cine** = cinema, movies
+> - **gusto** = taste, pleasure
+> - **música** = music
+> - **posible** = possible
+> - **ejemplo** = example
+> - **tratar** = to treat, to deal with; tratar de = to try to
+> - **crear** = to create
+> - **encontrar** = to find
+> - **ante** = before, in front of (formal)
+> - **ser** = being (noun)
+> - **aire** = air
+> - **venir** = to come
+> - **palabra** = word
+> - **obra** = work (of art), play; construction work
+> - **ninguno** = none, no, not any
+> - **mí** = me (after a preposition)
+> - **pues** = well, then
+> - **situación** = situation
+> - **agua** = water
+> - **rico** = delicious; rich
+> - **comida** = food; meal
+> - **vino** = wine
+> - **leche** = milk
+
+This week's lessons: [[025 - Adjectives and agreement|Lesson 25]] · [[026 - Practice - aún, nunca, caso, mano|Lesson 26]] · [[027 - Gustar for likes and dislikes|Lesson 27]] · [[028 - Practice - posible, ejemplo, tratar, crear|Lesson 28]] · [[029 - Food and ordering|Lesson 29]]
+
+## 2 · Talk with your partner (10 min)
+See the [[Conversation Partner Guide]] for how to run this.
+
+Role-play a restaurant. Your partner is the waiter: order a drink, a meal and a dessert, ask what they recommend, say what you like and don't like (gustar), then ask for the check (**la cuenta, por favor**). Swap roles.
+
+Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
+
+> [!info]- No partner today?
+> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
+
+## 3 · Listen (12 min)
+A longer session today: watch [Dreaming Spanish](https://www.dreaming.com/spanish) at **Superbeginner or Beginner** level, or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
+
+## ✅ Finish
+- [ ] Anki reviews (no new cards)
+- [ ] Week test
+- [ ] 10-minute conversation task, and corrections logged
+- [ ] 12 minutes of listening
+- [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

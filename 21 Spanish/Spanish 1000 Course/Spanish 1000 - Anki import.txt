@@ -1,0 +1,1005 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Spanish 1000
+#tags column:3
+<b>la</b><br><i>la casa</i>	the (fem.); her, it (object)<br><i>the house</i><br><small>#1 · lesson 1</small>	Spanish1000::week01 Spanish1000::lesson001
+<b>el</b><br><i>el perro</i>	the (masc.)<br><i>the dog</i><br><small>#2 · lesson 1</small>	Spanish1000::week01 Spanish1000::lesson001
+<b>que</b><br><i>creo que sí</i>	that, which; than<br><i>I think so</i><br><small>#3 · lesson 1</small>	Spanish1000::week01 Spanish1000::lesson001
+<b>de</b><br><i>soy de Texas</i>	of, from<br><i>I&#x27;m from Texas</i><br><small>#4 · lesson 1</small>	Spanish1000::week01 Spanish1000::lesson001
+<b>en</b><br><i>en casa</i>	in, on, at<br><i>at home</i><br><small>#5 · lesson 1</small>	Spanish1000::week01 Spanish1000::lesson001
+<b>hasta</b><br><i>hasta mañana</i>	until, up to; even<br><i>see you tomorrow</i><br><small>#63 · lesson 1</small>	Spanish1000::week01 Spanish1000::lesson001
+<b>bien</b><br><i>estoy bien</i>	well, fine<br><i>I&#x27;m fine</i><br><small>#114 · lesson 1</small>	Spanish1000::week01 Spanish1000::lesson001
+<b>gracia</b><br><i>muchas gracias</i>	grace; gracias = thank you<br><i>thank you very much</i><br><small>#216 · lesson 1</small>	Spanish1000::week01 Spanish1000::lesson001
+<b>noche</b><br><i>buenas noches</i>	night<br><i>good night</i><br><small>#293 · lesson 1</small>	Spanish1000::week01 Spanish1000::lesson001
+<b>mañana</b><br><i>hasta mañana</i>	tomorrow; morning<br><i>see you tomorrow</i><br><small>#538 · lesson 1</small>	Spanish1000::week01 Spanish1000::lesson001
+<b>y</b><br><i>tú y yo</i>	and<br><i>you and me</i><br><small>#6 · lesson 2</small>	Spanish1000::week01 Spanish1000::lesson002
+<b>a</b><br><i>voy a la playa</i>	to, at<br><i>I&#x27;m going to the beach</i><br><small>#7 · lesson 2</small>	Spanish1000::week01 Spanish1000::lesson002
+<b>no</b><br><i>no sé</i>	no, not<br><i>I don&#x27;t know</i><br><small>#9 · lesson 2</small>	Spanish1000::week01 Spanish1000::lesson002
+<b>se</b><br><i>se llama Ana</i>	himself, herself, itself (reflexive)<br><i>her name is Ana</i><br><small>#10 · lesson 2</small>	Spanish1000::week01 Spanish1000::lesson002
+<b>un</b><br><i>un café</i>	a, an (masc.)<br><i>a coffee</i><br><small>#11 · lesson 2</small>	Spanish1000::week01 Spanish1000::lesson002
+<b>lo</b><br><i>lo sé</i>	it, him (object); the (+ adjective)<br><i>I know it</i><br><small>#12 · lesson 2</small>	Spanish1000::week01 Spanish1000::lesson002
+<b>decir</b><br><i>decir la verdad</i>	to say, to tell<br><i>to tell the truth</i><br><small>#13 · lesson 2</small>	Spanish1000::week01 Spanish1000::lesson002
+<b>hacer</b><br><i>¿qué haces?</i>	to do, to make<br><i>what are you doing?</i><br><small>#14 · lesson 2</small>	Spanish1000::week01 Spanish1000::lesson002
+<b>su</b><br><i>su casa</i>	his, her, their, your (formal)<br><i>his/her/their house</i><br><small>#15 · lesson 2</small>	Spanish1000::week01 Spanish1000::lesson002
+<b>haber</b><br><i>hay un problema</i>	to have (helper verb); hay = there is/are<br><i>there&#x27;s a problem</i><br><small>#16 · lesson 2</small>	Spanish1000::week01 Spanish1000::lesson002
+<b>ser</b><br><i>soy estudiante</i>	to be (who/what something is)<br><i>I&#x27;m a student</i><br><small>#8 · lesson 3</small>	Spanish1000::week01 Spanish1000::lesson003
+<b>tener</b><br><i>tengo dos hermanos</i>	to have<br><i>I have two siblings</i><br><small>#17 · lesson 3</small>	Spanish1000::week01 Spanish1000::lesson003
+<b>me</b><br><i>me gusta</i>	me, to me<br><i>I like it</i><br><small>#18 · lesson 3</small>	Spanish1000::week01 Spanish1000::lesson003
+<b>otro</b><br><i>otra vez</i>	other, another<br><i>again (another time)</i><br><small>#19 · lesson 3</small>	Spanish1000::week01 Spanish1000::lesson003
+<b>yo</b><br><i>yo también</i>	I<br><i>me too</i><br><small>#25 · lesson 3</small>	Spanish1000::week01 Spanish1000::lesson003
+<b>él</b><br><i>él es mi amigo</i>	he<br><i>he is my friend</i><br><small>#76 · lesson 3</small>	Spanish1000::week01 Spanish1000::lesson003
+<b>ella</b><br><i>ella es médica</i>	she<br><i>she is a doctor</i><br><small>#83 · lesson 3</small>	Spanish1000::week01 Spanish1000::lesson003
+<b>usted</b><br><i>¿y usted?</i>	you (formal)<br><i>and you?</i><br><small>#307 · lesson 3</small>	Spanish1000::week01 Spanish1000::lesson003
+<b>nosotros</b><br><i>nosotros también</i>	we<br><i>us too</i><br><small>#324 · lesson 3</small>	Spanish1000::week01 Spanish1000::lesson003
+<b>tú</b><br><i>¿y tú?</i>	you (informal)<br><i>and you?</i><br><small>#612 · lesson 3</small>	Spanish1000::week01 Spanish1000::lesson003
+<b>por</b><br><i>por la mañana</i>	for, by, through, because of<br><i>in the morning</i><br><small>#20 · lesson 4</small>	Spanish1000::week01 Spanish1000::lesson004
+<b>con</b><br><i>con leche</i>	with<br><i>with milk</i><br><small>#21 · lesson 4</small>	Spanish1000::week01 Spanish1000::lesson004
+<b>todo</b><br><i>todo el día</i>	all, every<br><i>all day</i><br><small>#22 · lesson 4</small>	Spanish1000::week01 Spanish1000::lesson004
+<b>más</b><br><i>más o menos</i>	more<br><i>more or less</i><br><small>#23 · lesson 4</small>	Spanish1000::week01 Spanish1000::lesson004
+<b>para</b><br><i>para ti</i>	for, in order to<br><i>for you</i><br><small>#24 · lesson 4</small>	Spanish1000::week01 Spanish1000::lesson004
+<b>como</b><br><i>como siempre</i>	like, as<br><i>as always</i><br><small>#26 · lesson 4</small>	Spanish1000::week01 Spanish1000::lesson004
+<b>si</b><br><i>si quieres</i>	if<br><i>if you want</i><br><small>#27 · lesson 4</small>	Spanish1000::week01 Spanish1000::lesson004
+<b>poder</b><br><i>¿puedo pasar?</i>	can, to be able to<br><i>can I come in?</i><br><small>#28 · lesson 4</small>	Spanish1000::week01 Spanish1000::lesson004
+<b>dar</b><br><i>dame un minuto</i>	to give<br><i>give me a minute</i><br><small>#29 · lesson 4</small>	Spanish1000::week01 Spanish1000::lesson004
+<b>le</b><br><i>le digo</i>	to him, to her, to you (formal)<br><i>I tell him/her</i><br><small>#30 · lesson 4</small>	Spanish1000::week01 Spanish1000::lesson004
+<b>estar</b><br><i>estoy cansado</i>	to be (how/where something is)<br><i>I&#x27;m tired</i><br><small>#31 · lesson 5</small>	Spanish1000::week01 Spanish1000::lesson005
+<b>pero</b><br><i>pero no tengo tiempo</i>	but<br><i>but I don&#x27;t have time</i><br><small>#32 · lesson 5</small>	Spanish1000::week01 Spanish1000::lesson005
+<b>qué</b><br><i>¿qué es esto?</i>	what?, which?; how...!<br><i>what is this?</i><br><small>#33 · lesson 5</small>	Spanish1000::week01 Spanish1000::lesson005
+<b>este</b><br><i>este libro</i>	this (masc.); esta = this (fem.)<br><i>this book</i><br><small>#34 · lesson 5</small>	Spanish1000::week01 Spanish1000::lesson005
+<b>entre</b><br><i>entre amigos</i>	between, among<br><i>among friends</i><br><small>#35 · lesson 5</small>	Spanish1000::week01 Spanish1000::lesson005
+<b>pasar</b><br><i>¿qué pasa?</i>	to pass, to happen, to spend (time)<br><i>what&#x27;s happening?</i><br><small>#36 · lesson 5</small>	Spanish1000::week01 Spanish1000::lesson005
+<b>allí</b><br><i>allá arriba</i>	there, over there<br><i>up there</i><br><small>#98 · lesson 5</small>	Spanish1000::week01 Spanish1000::lesson005
+<b>aquí</b><br><i>ven aquí</i>	here<br><i>come here</i><br><small>#148 · lesson 5</small>	Spanish1000::week01 Spanish1000::lesson005
+<b>ahí</b><br><i>ahí está</i>	there<br><i>there it is</i><br><small>#235 · lesson 5</small>	Spanish1000::week01 Spanish1000::lesson005
+<b>enfermo</b><br><i>estoy enfermo</i>	sick, ill<br><i>I&#x27;m sick</i><br><small>#707 · lesson 5</small>	Spanish1000::week01 Spanish1000::lesson005
+<b>mi</b><br><i>mi casa</i>	my<br><i>my house</i><br><small>#37 · lesson 7</small>	Spanish1000::week02 Spanish1000::lesson007
+<b>uno</b><br><i>uno, dos, tres</i>	one<br><i>one, two, three</i><br><small>#38 · lesson 7</small>	Spanish1000::week02 Spanish1000::lesson007
+<b>primero</b><br><i>la primera vez</i>	first<br><i>the first time</i><br><small>#39 · lesson 7</small>	Spanish1000::week02 Spanish1000::lesson007
+<b>donde</b><br><i>la casa donde vivo</i>	where (in a statement)<br><i>the house where I live</i><br><small>#40 · lesson 7</small>	Spanish1000::week02 Spanish1000::lesson007
+<b>porque</b><br><i>porque sí</i>	because<br><i>just because</i><br><small>#41 · lesson 7</small>	Spanish1000::week02 Spanish1000::lesson007
+<b>deber</b><br><i>debo estudiar</i>	should, must; to owe<br><i>I should study</i><br><small>#42 · lesson 7</small>	Spanish1000::week02 Spanish1000::lesson007
+<b>ese</b><br><i>ese coche</i>	that (masc.); esa = that (fem.)<br><i>that car</i><br><small>#43 · lesson 7</small>	Spanish1000::week02 Spanish1000::lesson007
+<b>sí</b><br><i>sí, claro</i>	yes<br><i>yes, of course</i><br><small>#44 · lesson 7</small>	Spanish1000::week02 Spanish1000::lesson007
+<b>nos</b><br><i>nos vemos</i>	us, to us<br><i>see you (we&#x27;ll see each other)</i><br><small>#45 · lesson 7</small>	Spanish1000::week02 Spanish1000::lesson007
+<b>querer</b><br><i>quiero un café</i>	to want; to love<br><i>I want a coffee</i><br><small>#102 · lesson 7</small>	Spanish1000::week02 Spanish1000::lesson007
+<b>ni</b><br><i>ni idea</i>	neither, nor, not even<br><i>no idea</i><br><small>#46 · lesson 8</small>	Spanish1000::week02 Spanish1000::lesson008
+<b>sobre</b><br><i>hablar sobre el tema</i>	about, on, over<br><i>to talk about the topic</i><br><small>#47 · lesson 8</small>	Spanish1000::week02 Spanish1000::lesson008
+<b>o</b><br><i>té o café</i>	or<br><i>tea or coffee</i><br><small>#48 · lesson 8</small>	Spanish1000::week02 Spanish1000::lesson008
+<b>cuando</b><br><i>cuando llego a casa</i>	when (in a statement)<br><i>when I get home</i><br><small>#49 · lesson 8</small>	Spanish1000::week02 Spanish1000::lesson008
+<b>hombre</b><br><i>un hombre alto</i>	man<br><i>a tall man</i><br><small>#50 · lesson 8</small>	Spanish1000::week02 Spanish1000::lesson008
+<b>grande</b><br><i>una casa grande</i>	big, large; great<br><i>a big house</i><br><small>#51 · lesson 8</small>	Spanish1000::week02 Spanish1000::lesson008
+<b>ir</b><br><i>voy a casa</i>	to go<br><i>I&#x27;m going home</i><br><small>#52 · lesson 8</small>	Spanish1000::week02 Spanish1000::lesson008
+<b>alguno</b><br><i>algún día</i>	some, any<br><i>some day</i><br><small>#53 · lesson 8</small>	Spanish1000::week02 Spanish1000::lesson008
+<b>muy</b><br><i>muy bien</i>	very<br><i>very well</i><br><small>#54 · lesson 8</small>	Spanish1000::week02 Spanish1000::lesson008
+<b>forma</b><br><i>de esta forma</i>	way, form, shape<br><i>this way</i><br><small>#55 · lesson 8</small>	Spanish1000::week02 Spanish1000::lesson008
+<b>cada</b><br><i>cada día</i>	each, every<br><i>every day</i><br><small>#56 · lesson 9</small>	Spanish1000::week02 Spanish1000::lesson009
+<b>tres</b><br><i>tres veces</i>	three<br><i>three times</i><br><small>#58 · lesson 9</small>	Spanish1000::week02 Spanish1000::lesson009
+<b>dos</b><br><i>dos cafés</i>	two<br><i>two coffees</i><br><small>#60 · lesson 9</small>	Spanish1000::week02 Spanish1000::lesson009
+<b>cuatro</b><br><i>cuatro días</i>	four<br><i>four days</i><br><small>#131 · lesson 9</small>	Spanish1000::week02 Spanish1000::lesson009
+<b>cinco</b><br><i>cinco minutos</i>	five<br><i>five minutes</i><br><small>#226 · lesson 9</small>	Spanish1000::week02 Spanish1000::lesson009
+<b>seis</b><br><i>a las seis</i>	six<br><i>at six</i><br><small>#297 · lesson 9</small>	Spanish1000::week02 Spanish1000::lesson009
+<b>diez</b><br><i>diez euros</i>	ten<br><i>ten euros</i><br><small>#325 · lesson 9</small>	Spanish1000::week02 Spanish1000::lesson009
+<b>ocho</b><br><i>ocho horas</i>	eight<br><i>eight hours</i><br><small>#334 · lesson 9</small>	Spanish1000::week02 Spanish1000::lesson009
+<b>nueve</b><br><i>las nueve</i>	nine<br><i>nine o&#x27;clock</i><br><small>#621 · lesson 9</small>	Spanish1000::week02 Spanish1000::lesson009
+<b>siete</b><br><i>siete días</i>	seven<br><i>seven days</i><br><small>#732 · lesson 9</small>	Spanish1000::week02 Spanish1000::lesson009
+<b>algo</b><br><i>algo más</i>	something<br><i>something else</i><br><small>#57 · lesson 10</small>	Spanish1000::week02 Spanish1000::lesson010
+<b>ya</b><br><i>ya está</i>	already; now<br><i>that&#x27;s it / it&#x27;s done</i><br><small>#59 · lesson 10</small>	Spanish1000::week02 Spanish1000::lesson010
+<b>momento</b><br><i>un momento</i>	moment<br><i>one moment</i><br><small>#61 · lesson 10</small>	Spanish1000::week02 Spanish1000::lesson010
+<b>menos</b><br><i>más o menos</i>	less, fewer<br><i>more or less</i><br><small>#62 · lesson 10</small>	Spanish1000::week02 Spanish1000::lesson010
+<b>vez</b><br><i>a veces</i>	time (occasion)<br><i>sometimes</i><br><small>#64 · lesson 10</small>	Spanish1000::week02 Spanish1000::lesson010
+<b>así</b><br><i>así es</i>	like this, like that, so<br><i>that&#x27;s how it is</i><br><small>#65 · lesson 10</small>	Spanish1000::week02 Spanish1000::lesson010
+<b>esto</b><br><i>¿qué es esto?</i>	this (thing, idea)<br><i>what is this?</i><br><small>#66 · lesson 10</small>	Spanish1000::week02 Spanish1000::lesson010
+<b>ver</b><br><i>ver la tele</i>	to see; to watch<br><i>to watch TV</i><br><small>#67 · lesson 10</small>	Spanish1000::week02 Spanish1000::lesson010
+<b>cierto</b><br><i>es cierto</i>	certain, true<br><i>it&#x27;s true</i><br><small>#68 · lesson 10</small>	Spanish1000::week02 Spanish1000::lesson010
+<b>mundo</b><br><i>todo el mundo</i>	world<br><i>everybody</i><br><small>#69 · lesson 10</small>	Spanish1000::week02 Spanish1000::lesson010
+<b>poner</b><br><i>poner la mesa</i>	to put; ponerse = to put on, to become<br><i>to set the table</i><br><small>#70 · lesson 11</small>	Spanish1000::week02 Spanish1000::lesson011
+<b>sin</b><br><i>sin azúcar</i>	without<br><i>without sugar</i><br><small>#71 · lesson 11</small>	Spanish1000::week02 Spanish1000::lesson011
+<b>punto</b><br><i>en punto</i>	point, dot, period<br><i>on the dot (o&#x27;clock)</i><br><small>#72 · lesson 11</small>	Spanish1000::week02 Spanish1000::lesson011
+<b>mucho</b><br><i>muchas gracias</i>	a lot, much, many<br><i>thank you very much</i><br><small>#73 · lesson 11</small>	Spanish1000::week02 Spanish1000::lesson011
+<b>después</b><br><i>después de comer</i>	after, afterwards<br><i>after eating</i><br><small>#74 · lesson 11</small>	Spanish1000::week02 Spanish1000::lesson011
+<b>hablar</b><br><i>hablar español</i>	to speak, to talk<br><i>to speak Spanish</i><br><small>#81 · lesson 11</small>	Spanish1000::week02 Spanish1000::lesson011
+<b>trabajar</b><br><i>trabajar en casa</i>	to work<br><i>to work from home</i><br><small>#159 · lesson 11</small>	Spanish1000::week02 Spanish1000::lesson011
+<b>escuchar</b><br><i>escuchar música</i>	to listen to<br><i>to listen to music</i><br><small>#215 · lesson 11</small>	Spanish1000::week02 Spanish1000::lesson011
+<b>estudiar</b><br><i>estudiar español</i>	to study<br><i>to study Spanish</i><br><small>#258 · lesson 11</small>	Spanish1000::week02 Spanish1000::lesson011
+<b>comprar</b><br><i>comprar pan</i>	to buy<br><i>to buy bread</i><br><small>#401 · lesson 11</small>	Spanish1000::week02 Spanish1000::lesson011
+<b>cosa</b><br><i>una cosa más</i>	thing<br><i>one more thing</i><br><small>#75 · lesson 13</small>	Spanish1000::week03 Spanish1000::lesson013
+<b>casi</b><br><i>casi siempre</i>	almost<br><i>almost always</i><br><small>#77 · lesson 13</small>	Spanish1000::week03 Spanish1000::lesson013
+<b>llegar</b><br><i>llegar tarde</i>	to arrive<br><i>to arrive late</i><br><small>#78 · lesson 13</small>	Spanish1000::week03 Spanish1000::lesson013
+<b>tan</b><br><i>tan grande como</i>	so, as (tan... como)<br><i>as big as</i><br><small>#79 · lesson 13</small>	Spanish1000::week03 Spanish1000::lesson013
+<b>también</b><br><i>yo también</i>	also, too<br><i>me too</i><br><small>#80 · lesson 13</small>	Spanish1000::week03 Spanish1000::lesson013
+<b>creer</b><br><i>creo que no</i>	to believe, to think<br><i>I don&#x27;t think so</i><br><small>#144 · lesson 13</small>	Spanish1000::week03 Spanish1000::lesson013
+<b>comer</b><br><i>comer en casa</i>	to eat<br><i>to eat at home</i><br><small>#230 · lesson 13</small>	Spanish1000::week03 Spanish1000::lesson013
+<b>leer</b><br><i>leer un libro</i>	to read<br><i>to read a book</i><br><small>#250 · lesson 13</small>	Spanish1000::week03 Spanish1000::lesson013
+<b>aprender</b><br><i>aprender español</i>	to learn<br><i>to learn Spanish</i><br><small>#498 · lesson 13</small>	Spanish1000::week03 Spanish1000::lesson013
+<b>vender</b><br><i>vender la casa</i>	to sell<br><i>to sell the house</i><br><small>#885 · lesson 13</small>	Spanish1000::week03 Spanish1000::lesson013
+<b>mujer</b><br><i>una mujer simpática</i>	woman; wife<br><i>a nice woman</i><br><small>#82 · lesson 14</small>	Spanish1000::week03 Spanish1000::lesson014
+<b>hora</b><br><i>¿qué hora es?</i>	hour; time (on the clock)<br><i>what time is it?</i><br><small>#84 · lesson 14</small>	Spanish1000::week03 Spanish1000::lesson014
+<b>ahora</b><br><i>ahora mismo</i>	now<br><i>right now</i><br><small>#85 · lesson 14</small>	Spanish1000::week03 Spanish1000::lesson014
+<b>propio</b><br><i>mi propia casa</i>	own; typical<br><i>my own house</i><br><small>#86 · lesson 14</small>	Spanish1000::week03 Spanish1000::lesson014
+<b>saber</b><br><i>no sé nadar</i>	to know (a fact, how to)<br><i>I can&#x27;t swim (don&#x27;t know how)</i><br><small>#87 · lesson 14</small>	Spanish1000::week03 Spanish1000::lesson014
+<b>tanto</b><br><i>tanto trabajo</i>	so much, so many<br><i>so much work</i><br><small>#88 · lesson 14</small>	Spanish1000::week03 Spanish1000::lesson014
+<b>pensar</b><br><i>pienso que sí</i>	to think<br><i>I think so</i><br><small>#89 · lesson 14</small>	Spanish1000::week03 Spanish1000::lesson014
+<b>desde</b><br><i>desde casa</i>	since, from<br><i>from home</i><br><small>#90 · lesson 14</small>	Spanish1000::week03 Spanish1000::lesson014
+<b>mejor</b><br><i>mucho mejor</i>	better, best<br><i>much better</i><br><small>#91 · lesson 14</small>	Spanish1000::week03 Spanish1000::lesson014
+<b>niño</b><br><i>un niño pequeño</i>	boy, child<br><i>a little boy</i><br><small>#92 · lesson 14</small>	Spanish1000::week03 Spanish1000::lesson014
+<b>mismo</b><br><i>lo mismo</i>	same; -self<br><i>the same thing</i><br><small>#93 · lesson 15</small>	Spanish1000::week03 Spanish1000::lesson015
+<b>tipo</b><br><i>¿qué tipo de música?</i>	type, kind; guy<br><i>what kind of music?</i><br><small>#94 · lesson 15</small>	Spanish1000::week03 Spanish1000::lesson015
+<b>pequeño</b><br><i>un perro pequeño</i>	small, little; young<br><i>a small dog</i><br><small>#95 · lesson 15</small>	Spanish1000::week03 Spanish1000::lesson015
+<b>te</b><br><i>te quiero</i>	you, to you (informal)<br><i>I love you</i><br><small>#96 · lesson 15</small>	Spanish1000::week03 Spanish1000::lesson015
+<b>año</b><br><i>tengo treinta años</i>	year<br><i>I&#x27;m thirty years old</i><br><small>#97 · lesson 15</small>	Spanish1000::week03 Spanish1000::lesson015
+<b>vivir</b><br><i>vivo en Texas</i>	to live<br><i>I live in Texas</i><br><small>#125 · lesson 15</small>	Spanish1000::week03 Spanish1000::lesson015
+<b>recibir</b><br><i>recibir un mensaje</i>	to receive, to get<br><i>to get a message</i><br><small>#156 · lesson 15</small>	Spanish1000::week03 Spanish1000::lesson015
+<b>escribir</b><br><i>escribir una carta</i>	to write<br><i>to write a letter</i><br><small>#191 · lesson 15</small>	Spanish1000::week03 Spanish1000::lesson015
+<b>abrir</b><br><i>abre la puerta</i>	to open<br><i>open the door</i><br><small>#240 · lesson 15</small>	Spanish1000::week03 Spanish1000::lesson015
+<b>decidir</b><br><i>no puedo decidir</i>	to decide<br><i>I can&#x27;t decide</i><br><small>#337 · lesson 15</small>	Spanish1000::week03 Spanish1000::lesson015
+<b>parte</b><br><i>en parte</i>	part<br><i>partly</i><br><small>#99 · lesson 16</small>	Spanish1000::week03 Spanish1000::lesson016
+<b>vida</b><br><i>así es la vida</i>	life<br><i>that&#x27;s life</i><br><small>#100 · lesson 16</small>	Spanish1000::week03 Spanish1000::lesson016
+<b>trabajo</b><br><i>voy al trabajo</i>	work, job<br><i>I&#x27;m going to work</i><br><small>#101 · lesson 16</small>	Spanish1000::week03 Spanish1000::lesson016
+<b>nombre</b><br><i>mi nombre es Austin</i>	name; noun<br><i>my name is Austin</i><br><small>#103 · lesson 16</small>	Spanish1000::week03 Spanish1000::lesson016
+<b>casa</b><br><i>en casa</i>	house, home<br><i>at home</i><br><small>#104 · lesson 16</small>	Spanish1000::week03 Spanish1000::lesson016
+<b>país</b><br><i>un país bonito</i>	country<br><i>a beautiful country</i><br><small>#105 · lesson 16</small>	Spanish1000::week03 Spanish1000::lesson016
+<b>siempre</b><br><i>como siempre</i>	always<br><i>as always</i><br><small>#106 · lesson 16</small>	Spanish1000::week03 Spanish1000::lesson016
+<b>volver</b><br><i>vuelvo pronto</i>	to return, to come back; volver a = to do again<br><i>I&#x27;ll be back soon</i><br><small>#107 · lesson 16</small>	Spanish1000::week03 Spanish1000::lesson016
+<b>tiempo</b><br><i>no tengo tiempo</i>	time; weather<br><i>I don&#x27;t have time</i><br><small>#108 · lesson 16</small>	Spanish1000::week03 Spanish1000::lesson016
+<b>mayor</b><br><i>mi hermano mayor</i>	older, bigger; main<br><i>my older brother</i><br><small>#109 · lesson 16</small>	Spanish1000::week03 Spanish1000::lesson016
+<b>eso</b><br><i>eso es</i>	that (thing, idea)<br><i>that&#x27;s it</i><br><small>#110 · lesson 17</small>	Spanish1000::week03 Spanish1000::lesson017
+<b>bajo</b><br><i>bajo la mesa</i>	under, below<br><i>under the table</i><br><small>#111 · lesson 17</small>	Spanish1000::week03 Spanish1000::lesson017
+<b>nada</b><br><i>de nada</i>	nothing<br><i>you&#x27;re welcome</i><br><small>#112 · lesson 17</small>	Spanish1000::week03 Spanish1000::lesson017
+<b>persona</b><br><i>una buena persona</i>	person<br><i>a good person</i><br><small>#113 · lesson 17</small>	Spanish1000::week03 Spanish1000::lesson017
+<b>nuestro</b><br><i>nuestro perro</i>	our<br><i>our dog</i><br><small>#115 · lesson 17</small>	Spanish1000::week03 Spanish1000::lesson017
+<b>antes</b><br><i>antes de dormir</i>	before<br><i>before sleeping</i><br><small>#116 · lesson 17</small>	Spanish1000::week03 Spanish1000::lesson017
+<b>historia</b><br><i>una historia larga</i>	story, history<br><i>a long story</i><br><small>#117 · lesson 17</small>	Spanish1000::week03 Spanish1000::lesson017
+<b>mesa</b><br><i>en la mesa</i>	table<br><i>on the table</i><br><small>#254 · lesson 17</small>	Spanish1000::week03 Spanish1000::lesson017
+<b>puerta</b><br><i>cierra la puerta</i>	door<br><i>close the door</i><br><small>#406 · lesson 17</small>	Spanish1000::week03 Spanish1000::lesson017
+<b>libro</b><br><i>un buen libro</i>	book<br><i>a good book</i><br><small>#418 · lesson 17</small>	Spanish1000::week03 Spanish1000::lesson017
+<b>poco</b><br><i>un poco</i>	little, not much; a bit<br><i>a little</i><br><small>#118 · lesson 19</small>	Spanish1000::week04 Spanish1000::lesson019
+<b>durante</b><br><i>durante la semana</i>	during<br><i>during the week</i><br><small>#119 · lesson 19</small>	Spanish1000::week04 Spanish1000::lesson019
+<b>quien</b><br><i>el chico con quien hablo</i>	who (in a statement)<br><i>the guy I&#x27;m talking with</i><br><small>#120 · lesson 19</small>	Spanish1000::week04 Spanish1000::lesson019
+<b>lugar</b><br><i>un lugar tranquilo</i>	place<br><i>a quiet place</i><br><small>#121 · lesson 19</small>	Spanish1000::week04 Spanish1000::lesson019
+<b>cómo</b><br><i>¿cómo estás?</i>	how?<br><i>how are you?</i><br><small>#228 · lesson 19</small>	Spanish1000::week04 Spanish1000::lesson019
+<b>quién</b><br><i>¿quién es?</i>	who?<br><i>who is it?</i><br><small>#265 · lesson 19</small>	Spanish1000::week04 Spanish1000::lesson019
+<b>dónde</b><br><i>¿dónde vives?</i>	where?<br><i>where do you live?</i><br><small>#462 · lesson 19</small>	Spanish1000::week04 Spanish1000::lesson019
+<b>cuál</b><br><i>¿cuál prefieres?</i>	which?, what?<br><i>which one do you prefer?</i><br><small>#617 · lesson 19</small>	Spanish1000::week04 Spanish1000::lesson019
+<b>cuándo</b><br><i>¿cuándo vienes?</i>	when?<br><i>when are you coming?</i><br><small>#633 · lesson 19</small>	Spanish1000::week04 Spanish1000::lesson019
+<b>cuánto</b><br><i>¿cuánto es?</i>	how much?, how many?<br><i>how much is it?</i><br><small>#716 · lesson 19</small>	Spanish1000::week04 Spanish1000::lesson019
+<b>realidad</b><br><i>en realidad</i>	reality<br><i>actually</i><br><small>#122 · lesson 20</small>	Spanish1000::week04 Spanish1000::lesson020
+<b>presentar</b><br><i>te presento a mi amigo</i>	to present, to introduce<br><i>let me introduce my friend</i><br><small>#123 · lesson 20</small>	Spanish1000::week04 Spanish1000::lesson020
+<b>conocer</b><br><i>¿conoces Madrid?</i>	to know (a person, a place)<br><i>do you know Madrid?</i><br><small>#124 · lesson 20</small>	Spanish1000::week04 Spanish1000::lesson020
+<b>hecho</b><br><i>de hecho</i>	fact; done, made<br><i>in fact</i><br><small>#126 · lesson 20</small>	Spanish1000::week04 Spanish1000::lesson020
+<b>entonces</b><br><i>entonces, ¿qué hacemos?</i>	then, so<br><i>so, what do we do?</i><br><small>#127 · lesson 20</small>	Spanish1000::week04 Spanish1000::lesson020
+<b>día</b><br><i>buenos días</i>	day<br><i>good morning</i><br><small>#128 · lesson 20</small>	Spanish1000::week04 Spanish1000::lesson020
+<b>salir</b><br><i>salir con amigos</i>	to go out, to leave<br><i>to go out with friends</i><br><small>#129 · lesson 20</small>	Spanish1000::week04 Spanish1000::lesson020
+<b>llamar</b><br><i>te llamo mañana</i>	to call; llamarse = to be named<br><i>I&#x27;ll call you tomorrow</i><br><small>#130 · lesson 20</small>	Spanish1000::week04 Spanish1000::lesson020
+<b>seguir</b><br><i>sigue recto</i>	to follow, to keep going<br><i>go straight ahead</i><br><small>#132 · lesson 20</small>	Spanish1000::week04 Spanish1000::lesson020
+<b>recordar</b><br><i>no recuerdo</i>	to remember<br><i>I don&#x27;t remember</i><br><small>#133 · lesson 20</small>	Spanish1000::week04 Spanish1000::lesson020
+<b>cambio</b><br><i>un cambio grande</i>	change<br><i>a big change</i><br><small>#134 · lesson 21</small>	Spanish1000::week04 Spanish1000::lesson021
+<b>blanco</b><br><i>vino blanco</i>	white<br><i>white wine</i><br><small>#135 · lesson 21</small>	Spanish1000::week04 Spanish1000::lesson021
+<b>sacar</b><br><i>sacar fotos</i>	to take out, to get (a grade, a photo)<br><i>to take photos</i><br><small>#136 · lesson 21</small>	Spanish1000::week04 Spanish1000::lesson021
+<b>conseguir</b><br><i>conseguir trabajo</i>	to get, to manage to<br><i>to get a job</i><br><small>#137 · lesson 21</small>	Spanish1000::week04 Spanish1000::lesson021
+<b>aquel</b><br><i>aquel edificio</i>	that (over there)<br><i>that building over there</i><br><small>#138 · lesson 21</small>	Spanish1000::week04 Spanish1000::lesson021
+<b>empezar</b><br><i>empieza a llover</i>	to begin, to start<br><i>it&#x27;s starting to rain</i><br><small>#139 · lesson 21</small>	Spanish1000::week04 Spanish1000::lesson021
+<b>viaje</b><br><i>¡buen viaje!</i>	trip<br><i>have a good trip!</i><br><small>#323 · lesson 21</small>	Spanish1000::week04 Spanish1000::lesson021
+<b>visitar</b><br><i>visitar a mi familia</i>	to visit<br><i>to visit my family</i><br><small>#572 · lesson 21</small>	Spanish1000::week04 Spanish1000::lesson021
+<b>viajar</b><br><i>me gusta viajar</i>	to travel<br><i>I like to travel</i><br><small>#641 · lesson 21</small>	Spanish1000::week04 Spanish1000::lesson021
+<b>plan</b><br><i>¿cuál es el plan?</i>	plan<br><i>what&#x27;s the plan?</i><br><small>#891 · lesson 21</small>	Spanish1000::week04 Spanish1000::lesson021
+<b>modo</b><br><i>de todos modos</i>	way, manner<br><i>anyway</i><br><small>#140 · lesson 22</small>	Spanish1000::week04 Spanish1000::lesson022
+<b>llevar</b><br><i>llevar a los niños</i>	to carry, to take; to wear<br><i>to take the kids</i><br><small>#141 · lesson 22</small>	Spanish1000::week04 Spanish1000::lesson022
+<b>amigo</b><br><i>mi mejor amigo</i>	friend<br><i>my best friend</i><br><small>#142 · lesson 22</small>	Spanish1000::week04 Spanish1000::lesson022
+<b>tema</b><br><i>cambiar de tema</i>	topic, subject<br><i>to change the subject</i><br><small>#143 · lesson 22</small>	Spanish1000::week04 Spanish1000::lesson022
+<b>dejar</b><br><i>déjame pensar</i>	to leave, to let; dejar de = to stop doing<br><i>let me think</i><br><small>#145 · lesson 22</small>	Spanish1000::week04 Spanish1000::lesson022
+<b>existir</b><br><i>no existe</i>	to exist<br><i>it doesn&#x27;t exist</i><br><small>#146 · lesson 22</small>	Spanish1000::week04 Spanish1000::lesson022
+<b>verdad</b><br><i>¿de verdad?</i>	truth<br><i>really?</i><br><small>#147 · lesson 22</small>	Spanish1000::week04 Spanish1000::lesson022
+<b>ciudad</b><br><i>una ciudad grande</i>	city<br><i>a big city</i><br><small>#149 · lesson 22</small>	Spanish1000::week04 Spanish1000::lesson022
+<b>general</b><br><i>en general</i>	general<br><i>in general</i><br><small>#150 · lesson 22</small>	Spanish1000::week04 Spanish1000::lesson022
+<b>sólo</b><br><i>sólo un poco</i>	only, just<br><i>just a little</i><br><small>#151 · lesson 22</small>	Spanish1000::week04 Spanish1000::lesson022
+<b>aunque</b><br><i>aunque llueva</i>	although, even though<br><i>even if it rains</i><br><small>#152 · lesson 23</small>	Spanish1000::week04 Spanish1000::lesson023
+<b>calle</b><br><i>en la calle</i>	street<br><i>in the street</i><br><small>#153 · lesson 23</small>	Spanish1000::week04 Spanish1000::lesson023
+<b>parecer</b><br><i>parece fácil</i>	to seem; to look like<br><i>it seems easy</i><br><small>#154 · lesson 23</small>	Spanish1000::week04 Spanish1000::lesson023
+<b>manera</b><br><i>de esta manera</i>	way, manner<br><i>this way</i><br><small>#155 · lesson 23</small>	Spanish1000::week04 Spanish1000::lesson023
+<b>quedar</b><br><i>quedar con amigos</i>	to stay, to remain; to meet up<br><i>to meet up with friends</i><br><small>#157 · lesson 23</small>	Spanish1000::week04 Spanish1000::lesson023
+<b>preguntar</b><br><i>preguntar por alguien</i>	to ask (a question)<br><i>to ask about someone</i><br><small>#158 · lesson 23</small>	Spanish1000::week04 Spanish1000::lesson023
+<b>hoy</b><br><i>hoy no</i>	today<br><i>not today</i><br><small>#253 · lesson 23</small>	Spanish1000::week04 Spanish1000::lesson023
+<b>mes</b><br><i>el mes que viene</i>	month<br><i>next month</i><br><small>#368 · lesson 23</small>	Spanish1000::week04 Spanish1000::lesson023
+<b>minuto</b><br><i>cinco minutos</i>	minute<br><i>five minutes</i><br><small>#382 · lesson 23</small>	Spanish1000::week04 Spanish1000::lesson023
+<b>semana</b><br><i>el fin de semana</i>	week<br><i>the weekend</i><br><small>#438 · lesson 23</small>	Spanish1000::week04 Spanish1000::lesson023
+<b>esperar</b><br><i>espera un momento</i>	to wait; to hope; to expect<br><i>wait a moment</i><br><small>#160 · lesson 25</small>	Spanish1000::week05 Spanish1000::lesson025
+<b>aceptar</b><br><i>acepto tarjeta</i>	to accept<br><i>I accept cards</i><br><small>#161 · lesson 25</small>	Spanish1000::week05 Spanish1000::lesson025
+<b>formar</b><br><i>formar parte de</i>	to form<br><i>to be part of</i><br><small>#162 · lesson 25</small>	Spanish1000::week05 Spanish1000::lesson025
+<b>hacia</b><br><i>hacia el norte</i>	toward<br><i>toward the north</i><br><small>#163 · lesson 25</small>	Spanish1000::week05 Spanish1000::lesson025
+<b>sino</b><br><i>no uno sino dos</i>	but rather<br><i>not one but two</i><br><small>#164 · lesson 25</small>	Spanish1000::week05 Spanish1000::lesson025
+<b>bueno</b><br><i>buena idea</i>	good<br><i>good idea</i><br><small>#167 · lesson 25</small>	Spanish1000::week05 Spanish1000::lesson025
+<b>nuevo</b><br><i>un coche nuevo</i>	new<br><i>a new car</i><br><small>#170 · lesson 25</small>	Spanish1000::week05 Spanish1000::lesson025
+<b>viejo</b><br><i>un amigo viejo</i>	old<br><i>an old friend</i><br><small>#192 · lesson 25</small>	Spanish1000::week05 Spanish1000::lesson025
+<b>alto</b><br><i>un hombre alto</i>	tall, high<br><i>a tall man</i><br><small>#266 · lesson 25</small>	Spanish1000::week05 Spanish1000::lesson025
+<b>malo</b><br><i>mala suerte</i>	bad<br><i>bad luck</i><br><small>#312 · lesson 25</small>	Spanish1000::week05 Spanish1000::lesson025
+<b>aún</b><br><i>aún no</i>	still, yet<br><i>not yet</i><br><small>#165 · lesson 26</small>	Spanish1000::week05 Spanish1000::lesson026
+<b>nunca</b><br><i>nunca jamás</i>	never<br><i>never ever</i><br><small>#166 · lesson 26</small>	Spanish1000::week05 Spanish1000::lesson026
+<b>caso</b><br><i>en ese caso</i>	case<br><i>in that case</i><br><small>#168 · lesson 26</small>	Spanish1000::week05 Spanish1000::lesson026
+<b>mano</b><br><i>lávate las manos</i>	hand<br><i>wash your hands</i><br><small>#169 · lesson 26</small>	Spanish1000::week05 Spanish1000::lesson026
+<b>pueblo</b><br><i>un pueblo pequeño</i>	town, village; a people<br><i>a small town</i><br><small>#171 · lesson 26</small>	Spanish1000::week05 Spanish1000::lesson026
+<b>cuanto</b><br><i>en cuanto llegue</i>	as much as; en cuanto = as soon as<br><i>as soon as I arrive</i><br><small>#172 · lesson 26</small>	Spanish1000::week05 Spanish1000::lesson026
+<b>solo</b><br><i>estoy solo</i>	alone; only<br><i>I&#x27;m alone</i><br><small>#173 · lesson 26</small>	Spanish1000::week05 Spanish1000::lesson026
+<b>sentir</b><br><i>lo siento</i>	to feel; to be sorry<br><i>I&#x27;m sorry</i><br><small>#174 · lesson 26</small>	Spanish1000::week05 Spanish1000::lesson026
+<b>medio</b><br><i>y media</i>	half; middle; medium<br><i>half past</i><br><small>#175 · lesson 26</small>	Spanish1000::week05 Spanish1000::lesson026
+<b>alcanzar</b><br><i>alcanzar la meta</i>	to reach<br><i>to reach the goal</i><br><small>#176 · lesson 26</small>	Spanish1000::week05 Spanish1000::lesson026
+<b>cuyo</b><br><i>el hombre cuyo hijo</i>	whose<br><i>the man whose son</i><br><small>#177 · lesson 27</small>	Spanish1000::week05 Spanish1000::lesson027
+<b>jugar</b><br><i>jugar al fútbol</i>	to play (a sport, a game)<br><i>to play soccer</i><br><small>#178 · lesson 27</small>	Spanish1000::week05 Spanish1000::lesson027
+<b>fuerza</b><br><i>con fuerza</i>	strength, force<br><i>strongly</i><br><small>#179 · lesson 27</small>	Spanish1000::week05 Spanish1000::lesson027
+<b>tarde</b><br><i>buenas tardes</i>	afternoon; late<br><i>good afternoon</i><br><small>#180 · lesson 27</small>	Spanish1000::week05 Spanish1000::lesson027
+<b>tal</b><br><i>¿qué tal?</i>	such, such a<br><i>how&#x27;s it going?</i><br><small>#181 · lesson 27</small>	Spanish1000::week05 Spanish1000::lesson027
+<b>gustar</b><br><i>me gusta el café</i>	to like (to be pleasing to)<br><i>I like coffee</i><br><small>#218 · lesson 27</small>	Spanish1000::week05 Spanish1000::lesson027
+<b>juego</b><br><i>un juego de mesa</i>	game; set<br><i>a board game</i><br><small>#586 · lesson 27</small>	Spanish1000::week05 Spanish1000::lesson027
+<b>cine</b><br><i>ir al cine</i>	cinema, movies<br><i>to go to the movies</i><br><small>#700 · lesson 27</small>	Spanish1000::week05 Spanish1000::lesson027
+<b>gusto</b><br><i>mucho gusto</i>	taste, pleasure<br><i>nice to meet you</i><br><small>#951 · lesson 27</small>	Spanish1000::week05 Spanish1000::lesson027
+<b>música</b><br><i>escuchar música</i>	music<br><i>to listen to music</i><br><small>#966 · lesson 27</small>	Spanish1000::week05 Spanish1000::lesson027
+<b>posible</b><br><i>lo antes posible</i>	possible<br><i>as soon as possible</i><br><small>#182 · lesson 28</small>	Spanish1000::week05 Spanish1000::lesson028
+<b>ejemplo</b><br><i>por ejemplo</i>	example<br><i>for example</i><br><small>#183 · lesson 28</small>	Spanish1000::week05 Spanish1000::lesson028
+<b>tratar</b><br><i>trato de dormir</i>	to treat, to deal with; tratar de = to try to<br><i>I try to sleep</i><br><small>#184 · lesson 28</small>	Spanish1000::week05 Spanish1000::lesson028
+<b>crear</b><br><i>crear algo nuevo</i>	to create<br><i>to create something new</i><br><small>#185 · lesson 28</small>	Spanish1000::week05 Spanish1000::lesson028
+<b>encontrar</b><br><i>no encuentro mis llaves</i>	to find<br><i>I can&#x27;t find my keys</i><br><small>#186 · lesson 28</small>	Spanish1000::week05 Spanish1000::lesson028
+<b>ante</b><br><i>ante todo</i>	before, in front of (formal)<br><i>above all</i><br><small>#187 · lesson 28</small>	Spanish1000::week05 Spanish1000::lesson028
+<b>ser</b><br><i>un ser humano</i>	being (noun)<br><i>a human being</i><br><small>#188 · lesson 28</small>	Spanish1000::week05 Spanish1000::lesson028
+<b>aire</b><br><i>al aire libre</i>	air<br><i>outdoors</i><br><small>#189 · lesson 28</small>	Spanish1000::week05 Spanish1000::lesson028
+<b>venir</b><br><i>ven conmigo</i>	to come<br><i>come with me</i><br><small>#190 · lesson 28</small>	Spanish1000::week05 Spanish1000::lesson028
+<b>palabra</b><br><i>una palabra nueva</i>	word<br><i>a new word</i><br><small>#193 · lesson 28</small>	Spanish1000::week05 Spanish1000::lesson028
+<b>obra</b><br><i>una obra de teatro</i>	work (of art), play; construction work<br><i>a play</i><br><small>#194 · lesson 29</small>	Spanish1000::week05 Spanish1000::lesson029
+<b>ninguno</b><br><i>ningún problema</i>	none, no, not any<br><i>no problem</i><br><small>#195 · lesson 29</small>	Spanish1000::week05 Spanish1000::lesson029
+<b>mí</b><br><i>para mí</i>	me (after a preposition)<br><i>for me</i><br><small>#196 · lesson 29</small>	Spanish1000::week05 Spanish1000::lesson029
+<b>pues</b><br><i>pues nada</i>	well, then<br><i>well, anyway</i><br><small>#197 · lesson 29</small>	Spanish1000::week05 Spanish1000::lesson029
+<b>situación</b><br><i>una situación difícil</i>	situation<br><i>a difficult situation</i><br><small>#198 · lesson 29</small>	Spanish1000::week05 Spanish1000::lesson029
+<b>agua</b><br><i>un vaso de agua</i>	water<br><i>a glass of water</i><br><small>#239 · lesson 29</small>	Spanish1000::week05 Spanish1000::lesson029
+<b>rico</b><br><i>¡qué rico!</i>	delicious; rich<br><i>how tasty!</i><br><small>#475 · lesson 29</small>	Spanish1000::week05 Spanish1000::lesson029
+<b>comida</b><br><i>la comida está lista</i>	food; meal<br><i>the food is ready</i><br><small>#606 · lesson 29</small>	Spanish1000::week05 Spanish1000::lesson029
+<b>vino</b><br><i>vino tinto</i>	wine<br><i>red wine</i><br><small>#644 · lesson 29</small>	Spanish1000::week05 Spanish1000::lesson029
+<b>leche</b><br><i>café con leche</i>	milk<br><i>coffee with milk</i><br><small>#719 · lesson 29</small>	Spanish1000::week05 Spanish1000::lesson029
+<b>campo</b><br><i>vivir en el campo</i>	countryside; field<br><i>to live in the country</i><br><small>#199 · lesson 31</small>	Spanish1000::week06 Spanish1000::lesson031
+<b>luego</b><br><i>hasta luego</i>	later, then<br><i>see you later</i><br><small>#200 · lesson 31</small>	Spanish1000::week06 Spanish1000::lesson031
+<b>dentro</b><br><i>dentro de la casa</i>	inside<br><i>inside the house</i><br><small>#201 · lesson 31</small>	Spanish1000::week06 Spanish1000::lesson031
+<b>cuenta</b><br><i>la cuenta, por favor</i>	bill, account; darse cuenta = to realize<br><i>the check, please</i><br><small>#202 · lesson 31</small>	Spanish1000::week06 Spanish1000::lesson031
+<b>cuerpo</b><br><i>el cuerpo humano</i>	body<br><i>the human body</i><br><small>#203 · lesson 31</small>	Spanish1000::week06 Spanish1000::lesson031
+<b>segundo</b><br><i>el segundo piso</i>	second (ordinal)<br><i>the second floor</i><br><small>#204 · lesson 31</small>	Spanish1000::week06 Spanish1000::lesson031
+<b>cual</b><br><i>lo cual</i>	which, who (el cual)<br><i>which (referring to an idea)</i><br><small>#205 · lesson 31</small>	Spanish1000::week06 Spanish1000::lesson031
+<b>perder</b><br><i>perder el tren</i>	to lose; to miss (a bus)<br><i>to miss the train</i><br><small>#286 · lesson 31</small>	Spanish1000::week06 Spanish1000::lesson031
+<b>entender</b><br><i>no entiendo</i>	to understand<br><i>I don&#x27;t understand</i><br><small>#317 · lesson 31</small>	Spanish1000::week06 Spanish1000::lesson031
+<b>cerrar</b><br><i>cierra la ventana</i>	to close<br><i>close the window</i><br><small>#778 · lesson 31</small>	Spanish1000::week06 Spanish1000::lesson031
+<b>cambiar</b><br><i>cambiar de idea</i>	to change<br><i>to change your mind</i><br><small>#206 · lesson 32</small>	Spanish1000::week06 Spanish1000::lesson032
+<b>ocurrir</b><br><i>¿qué ocurrió?</i>	to happen, to occur<br><i>what happened?</i><br><small>#207 · lesson 32</small>	Spanish1000::week06 Spanish1000::lesson032
+<b>luz</b><br><i>apaga la luz</i>	light<br><i>turn off the light</i><br><small>#208 · lesson 32</small>	Spanish1000::week06 Spanish1000::lesson032
+<b>anterior</b><br><i>el día anterior</i>	previous<br><i>the day before</i><br><small>#209 · lesson 32</small>	Spanish1000::week06 Spanish1000::lesson032
+<b>menor</b><br><i>mi hermana menor</i>	younger, smaller; minor<br><i>my younger sister</i><br><small>#210 · lesson 32</small>	Spanish1000::week06 Spanish1000::lesson032
+<b>aparecer</b><br><i>aparecer de repente</i>	to appear, to show up<br><i>to suddenly appear</i><br><small>#211 · lesson 32</small>	Spanish1000::week06 Spanish1000::lesson032
+<b>éste</b><br><i>éste es mío</i>	this one<br><i>this one is mine</i><br><small>#212 · lesson 32</small>	Spanish1000::week06 Spanish1000::lesson032
+<b>gente</b><br><i>mucha gente</i>	people<br><i>a lot of people</i><br><small>#213 · lesson 32</small>	Spanish1000::week06 Spanish1000::lesson032
+<b>tomar</b><br><i>tomar un café</i>	to take; to drink<br><i>to have a coffee</i><br><small>#214 · lesson 32</small>	Spanish1000::week06 Spanish1000::lesson032
+<b>además</b><br><i>además, es barato</i>	besides, also<br><i>besides, it&#x27;s cheap</i><br><small>#217 · lesson 32</small>	Spanish1000::week06 Spanish1000::lesson032
+<b>varios</b><br><i>varias veces</i>	several, various<br><i>several times</i><br><small>#219 · lesson 33</small>	Spanish1000::week06 Spanish1000::lesson033
+<b>cabeza</b><br><i>me duele la cabeza</i>	head<br><i>my head hurts</i><br><small>#220 · lesson 33</small>	Spanish1000::week06 Spanish1000::lesson033
+<b>efecto</b><br><i>en efecto</i>	effect<br><i>indeed</i><br><small>#221 · lesson 33</small>	Spanish1000::week06 Spanish1000::lesson033
+<b>mantener</b><br><i>mantener la calma</i>	to keep, to maintain<br><i>to keep calm</i><br><small>#222 · lesson 33</small>	Spanish1000::week06 Spanish1000::lesson033
+<b>santo</b><br><i>el día de su santo</i>	saint (masc.)<br><i>his saint&#x27;s day</i><br><small>#223 · lesson 33</small>	Spanish1000::week06 Spanish1000::lesson033
+<b>quizás</b><br><i>quizás mañana</i>	maybe, perhaps<br><i>maybe tomorrow</i><br><small>#224 · lesson 33</small>	Spanish1000::week06 Spanish1000::lesson033
+<b>servicio</b><br><i>el servicio es bueno</i>	service; servicios = restroom<br><i>the service is good</i><br><small>#225 · lesson 33</small>	Spanish1000::week06 Spanish1000::lesson033
+<b>tierra</b><br><i>la Tierra</i>	land, earth, ground<br><i>the Earth</i><br><small>#227 · lesson 33</small>	Spanish1000::week06 Spanish1000::lesson033
+<b>contar</b><br><i>cuéntame</i>	to count; to tell (a story)<br><i>tell me</i><br><small>#231 · lesson 33</small>	Spanish1000::week06 Spanish1000::lesson033
+<b>costar</b><br><i>¿cuánto cuesta?</i>	to cost<br><i>how much does it cost?</i><br><small>#688 · lesson 33</small>	Spanish1000::week06 Spanish1000::lesson033
+<b>comprender</b><br><i>no comprendo</i>	to understand<br><i>I don&#x27;t understand</i><br><small>#229 · lesson 34</small>	Spanish1000::week06 Spanish1000::lesson034
+<b>mil</b><br><i>mil gracias</i>	thousand<br><i>thanks a million</i><br><small>#232 · lesson 34</small>	Spanish1000::week06 Spanish1000::lesson034
+<b>programa</b><br><i>un programa de televisión</i>	program, show<br><i>a TV show</i><br><small>#233 · lesson 34</small>	Spanish1000::week06 Spanish1000::lesson034
+<b>distinto</b><br><i>algo distinto</i>	different<br><i>something different</i><br><small>#234 · lesson 34</small>	Spanish1000::week06 Spanish1000::lesson034
+<b>último</b><br><i>la última vez</i>	last, latest<br><i>the last time</i><br><small>#236 · lesson 34</small>	Spanish1000::week06 Spanish1000::lesson034
+<b>don</b><br><i>don Pedro</i>	Mr. (with first name); gift<br><i>Mr. Pedro</i><br><small>#237 · lesson 34</small>	Spanish1000::week06 Spanish1000::lesson034
+<b>pedir</b><br><i>pedir la cuenta</i>	to ask for, to order<br><i>to ask for the check</i><br><small>#238 · lesson 34</small>	Spanish1000::week06 Spanish1000::lesson034
+<b>valor</b><br><i>el valor del dinero</i>	value; courage<br><i>the value of money</i><br><small>#241 · lesson 34</small>	Spanish1000::week06 Spanish1000::lesson034
+<b>embargo</b><br><i>sin embargo, no vino</i>	sin embargo = however<br><i>however, he didn&#x27;t come</i><br><small>#242 · lesson 34</small>	Spanish1000::week06 Spanish1000::lesson034
+<b>fácil</b><br><i>es muy fácil</i>	easy<br><i>it&#x27;s very easy</i><br><small>#243 · lesson 34</small>	Spanish1000::week06 Spanish1000::lesson034
+<b>nadie</b><br><i>no hay nadie</i>	nobody<br><i>there&#x27;s nobody</i><br><small>#244 · lesson 35</small>	Spanish1000::week06 Spanish1000::lesson035
+<b>contrario</b><br><i>al contrario</i>	contrary, opposite<br><i>on the contrary</i><br><small>#245 · lesson 35</small>	Spanish1000::week06 Spanish1000::lesson035
+<b>imaginar</b><br><i>imagínate</i>	to imagine<br><i>just imagine</i><br><small>#246 · lesson 35</small>	Spanish1000::week06 Spanish1000::lesson035
+<b>junto</b><br><i>junto a la ventana</i>	together; junto a = next to<br><i>next to the window</i><br><small>#247 · lesson 35</small>	Spanish1000::week06 Spanish1000::lesson035
+<b>partido</b><br><i>un partido de fútbol</i>	game, match; political party<br><i>a soccer match</i><br><small>#248 · lesson 35</small>	Spanish1000::week06 Spanish1000::lesson035
+<b>ciento</b><br><i>por ciento</i>	hundred (cien)<br><i>percent</i><br><small>#249 · lesson 35</small>	Spanish1000::week06 Spanish1000::lesson035
+<b>pregunta</b><br><i>una buena pregunta</i>	question<br><i>a good question</i><br><small>#251 · lesson 35</small>	Spanish1000::week06 Spanish1000::lesson035
+<b>español</b><br><i>hablo español</i>	Spanish<br><i>I speak Spanish</i><br><small>#252 · lesson 35</small>	Spanish1000::week06 Spanish1000::lesson035
+<b>repetir</b><br><i>¿puede repetir?</i>	to repeat<br><i>can you repeat?</i><br><small>#322 · lesson 35</small>	Spanish1000::week06 Spanish1000::lesson035
+<b>servir</b><br><i>no sirve</i>	to serve; to be useful<br><i>it&#x27;s no use</i><br><small>#329 · lesson 35</small>	Spanish1000::week06 Spanish1000::lesson035
+<b>cualquier</b><br><i>cualquier día</i>	any<br><i>any day</i><br><small>#255 · lesson 37</small>	Spanish1000::week07 Spanish1000::lesson037
+<b>seguridad</b><br><i>con seguridad</i>	safety, security<br><i>for sure</i><br><small>#256 · lesson 37</small>	Spanish1000::week07 Spanish1000::lesson037
+<b>mirar</b><br><i>mira esto</i>	to look at, to watch<br><i>look at this</i><br><small>#257 · lesson 37</small>	Spanish1000::week07 Spanish1000::lesson037
+<b>lado</b><br><i>al lado de</i>	side<br><i>next to</i><br><small>#259 · lesson 37</small>	Spanish1000::week07 Spanish1000::lesson037
+<b>mientras</b><br><i>mientras como</i>	while<br><i>while I eat</i><br><small>#260 · lesson 37</small>	Spanish1000::week07 Spanish1000::lesson037
+<b>base</b><br><i>a base de</i>	base, basis<br><i>based on</i><br><small>#261 · lesson 37</small>	Spanish1000::week07 Spanish1000::lesson037
+<b>época</b><br><i>en esa época</i>	era, time, period<br><i>back then</i><br><small>#262 · lesson 37</small>	Spanish1000::week07 Spanish1000::lesson037
+<b>levantar</b><br><i>levanta la mano</i>	to raise, to lift; levantarse = to get up<br><i>raise your hand</i><br><small>#458 · lesson 37</small>	Spanish1000::week07 Spanish1000::lesson037
+<b>sentar</b><br><i>siéntate</i>	to seat; sentarse = to sit down<br><i>sit down</i><br><small>#524 · lesson 37</small>	Spanish1000::week07 Spanish1000::lesson037
+<b>despertar</b><br><i>me despierto a las siete</i>	to wake up; despertarse = to wake (yourself) up<br><i>I wake up at seven</i><br><small>#579 · lesson 37</small>	Spanish1000::week07 Spanish1000::lesson037
+<b>claro</b><br><i>está claro</i>	clear; light (color)<br><i>it&#x27;s clear</i><br><small>#263 · lesson 38</small>	Spanish1000::week07 Spanish1000::lesson038
+<b>clase</b><br><i>todo tipo de clase</i>	class; kind<br><i>every kind</i><br><small>#264 · lesson 38</small>	Spanish1000::week07 Spanish1000::lesson038
+<b>problema</b><br><i>no hay problema</i>	problem<br><i>no problem</i><br><small>#267 · lesson 38</small>	Spanish1000::week07 Spanish1000::lesson038
+<b>antiguo</b><br><i>la ciudad antigua</i>	old, ancient; former<br><i>the old city</i><br><small>#268 · lesson 38</small>	Spanish1000::week07 Spanish1000::lesson038
+<b>posibilidad</b><br><i>hay una posibilidad</i>	possibility<br><i>there&#x27;s a chance</i><br><small>#269 · lesson 38</small>	Spanish1000::week07 Spanish1000::lesson038
+<b>vista</b><br><i>hasta la vista</i>	view, sight<br><i>see you</i><br><small>#270 · lesson 38</small>	Spanish1000::week07 Spanish1000::lesson038
+<b>obtener</b><br><i>obtener un resultado</i>	to obtain, to get<br><i>to get a result</i><br><small>#271 · lesson 38</small>	Spanish1000::week07 Spanish1000::lesson038
+<b>centro</b><br><i>en el centro</i>	center, downtown<br><i>downtown</i><br><small>#272 · lesson 38</small>	Spanish1000::week07 Spanish1000::lesson038
+<b>carta</b><br><i>la carta, por favor</i>	letter; menu<br><i>the menu, please</i><br><small>#273 · lesson 38</small>	Spanish1000::week07 Spanish1000::lesson038
+<b>pobre</b><br><i>pobre gente</i>	poor<br><i>poor people</i><br><small>#274 · lesson 38</small>	Spanish1000::week07 Spanish1000::lesson038
+<b>contra</b><br><i>en contra</i>	against<br><i>against it</i><br><small>#275 · lesson 39</small>	Spanish1000::week07 Spanish1000::lesson039
+<b>hijo</b><br><i>mi hijo</i>	son; hijos = children<br><i>my son</i><br><small>#276 · lesson 39</small>	Spanish1000::week07 Spanish1000::lesson039
+<b>mostrar</b><br><i>muéstrame</i>	to show<br><i>show me</i><br><small>#277 · lesson 39</small>	Spanish1000::week07 Spanish1000::lesson039
+<b>interés</b><br><i>no tengo interés</i>	interest<br><i>I&#x27;m not interested</i><br><small>#278 · lesson 39</small>	Spanish1000::week07 Spanish1000::lesson039
+<b>término</b><br><i>términos y condiciones</i>	term; end<br><i>terms and conditions</i><br><small>#279 · lesson 39</small>	Spanish1000::week07 Spanish1000::lesson039
+<b>buscar</b><br><i>busco trabajo</i>	to look for<br><i>I&#x27;m looking for work</i><br><small>#280 · lesson 39</small>	Spanish1000::week07 Spanish1000::lesson039
+<b>especial</b><br><i>algo especial</i>	special<br><i>something special</i><br><small>#281 · lesson 39</small>	Spanish1000::week07 Spanish1000::lesson039
+<b>político</b><br><i>un problema político</i>	political; politician<br><i>a political problem</i><br><small>#282 · lesson 39</small>	Spanish1000::week07 Spanish1000::lesson039
+<b>desear</b><br><i>¿desea algo más?</i>	to wish, to desire<br><i>would you like anything else?</i><br><small>#283 · lesson 39</small>	Spanish1000::week07 Spanish1000::lesson039
+<b>necesario</b><br><i>no es necesario</i>	necessary<br><i>it&#x27;s not necessary</i><br><small>#284 · lesson 39</small>	Spanish1000::week07 Spanish1000::lesson039
+<b>terminar</b><br><i>terminar el trabajo</i>	to finish, to end<br><i>to finish work</i><br><small>#285 · lesson 40</small>	Spanish1000::week07 Spanish1000::lesson040
+<b>deseo</b><br><i>tengo deseos de verte</i>	wish, desire<br><i>I&#x27;m looking forward to seeing you</i><br><small>#287 · lesson 40</small>	Spanish1000::week07 Spanish1000::lesson040
+<b>padre</b><br><i>mi padre</i>	father; padres = parents<br><i>my father</i><br><small>#288 · lesson 40</small>	Spanish1000::week07 Spanish1000::lesson040
+<b>tampoco</b><br><i>yo tampoco</i>	neither, not either<br><i>me neither</i><br><small>#289 · lesson 40</small>	Spanish1000::week07 Spanish1000::lesson040
+<b>señor</b><br><i>el señor García</i>	Mr., sir<br><i>Mr. García</i><br><small>#290 · lesson 40</small>	Spanish1000::week07 Spanish1000::lesson040
+<b>resultar</b><br><i>resulta que...</i>	to turn out, to result<br><i>it turns out that...</i><br><small>#291 · lesson 40</small>	Spanish1000::week07 Spanish1000::lesson040
+<b>función</b><br><i>en función de</i>	function; show (theater)<br><i>depending on</i><br><small>#292 · lesson 40</small>	Spanish1000::week07 Spanish1000::lesson040
+<b>largo</b><br><i>un día largo</i>	long<br><i>a long day</i><br><small>#294 · lesson 40</small>	Spanish1000::week07 Spanish1000::lesson040
+<b>familia</b><br><i>mi familia</i>	family<br><i>my family</i><br><small>#295 · lesson 40</small>	Spanish1000::week07 Spanish1000::lesson040
+<b>desarrollar</b><br><i>desarrollar una idea</i>	to develop<br><i>to develop an idea</i><br><small>#296 · lesson 40</small>	Spanish1000::week07 Spanish1000::lesson040
+<b>bajo</b><br><i>un precio bajo</i>	short (height); low<br><i>a low price</i><br><small>#298 · lesson 41</small>	Spanish1000::week07 Spanish1000::lesson041
+<b>producir</b><br><i>producir energía</i>	to produce<br><i>to produce energy</i><br><small>#299 · lesson 41</small>	Spanish1000::week07 Spanish1000::lesson041
+<b>segundo</b><br><i>un segundo</i>	second (of time)<br><i>just a second</i><br><small>#300 · lesson 41</small>	Spanish1000::week07 Spanish1000::lesson041
+<b>inglés</b><br><i>¿hablas inglés?</i>	English<br><i>do you speak English?</i><br><small>#301 · lesson 41</small>	Spanish1000::week07 Spanish1000::lesson041
+<b>negro</b><br><i>café negro</i>	black<br><i>black coffee</i><br><small>#302 · lesson 41</small>	Spanish1000::week07 Spanish1000::lesson041
+<b>miedo</b><br><i>tengo miedo</i>	fear<br><i>I&#x27;m scared</i><br><small>#303 · lesson 41</small>	Spanish1000::week07 Spanish1000::lesson041
+<b>entrar</b><br><i>entrar en la casa</i>	to enter, to go in<br><i>to go into the house</i><br><small>#304 · lesson 41</small>	Spanish1000::week07 Spanish1000::lesson041
+<b>dedicar</b><br><i>¿a qué te dedicas?</i>	to dedicate; dedicarse a = to do for a living<br><i>what do you do (for work)?</i><br><small>#305 · lesson 41</small>	Spanish1000::week07 Spanish1000::lesson041
+<b>traer</b><br><i>trae tu libro</i>	to bring<br><i>bring your book</i><br><small>#384 · lesson 41</small>	Spanish1000::week07 Spanish1000::lesson041
+<b>caer</b><br><i>me caí</i>	to fall<br><i>I fell</i><br><small>#391 · lesson 41</small>	Spanish1000::week07 Spanish1000::lesson041
+<b>paso</b><br><i>paso a paso</i>	step<br><i>step by step</i><br><small>#306 · lesson 43</small>	Spanish1000::week08 Spanish1000::lesson043
+<b>río</b><br><i>el río Grande</i>	river<br><i>the Rio Grande</i><br><small>#308 · lesson 43</small>	Spanish1000::week08 Spanish1000::lesson043
+<b>dirección</b><br><i>mi dirección</i>	address; direction<br><i>my address</i><br><small>#309 · lesson 43</small>	Spanish1000::week08 Spanish1000::lesson043
+<b>cuestión</b><br><i>es cuestión de tiempo</i>	issue, question, matter<br><i>it&#x27;s a matter of time</i><br><small>#310 · lesson 43</small>	Spanish1000::week08 Spanish1000::lesson043
+<b>derecho</b><br><i>tengo derecho</i>	right (legal); law<br><i>I have the right</i><br><small>#311 · lesson 43</small>	Spanish1000::week08 Spanish1000::lesson043
+<b>principio</b><br><i>al principio</i>	beginning; principle<br><i>at first</i><br><small>#313 · lesson 43</small>	Spanish1000::week08 Spanish1000::lesson043
+<b>guerra</b><br><i>la guerra</i>	war<br><i>the war</i><br><small>#314 · lesson 43</small>	Spanish1000::week08 Spanish1000::lesson043
+<b>único</b><br><i>hijo único</i>	only, unique<br><i>only child</i><br><small>#315 · lesson 43</small>	Spanish1000::week08 Spanish1000::lesson043
+<b>avanzar</b><br><i>avanzar rápido</i>	to advance, to move forward<br><i>to make fast progress</i><br><small>#316 · lesson 43</small>	Spanish1000::week08 Spanish1000::lesson043
+<b>oír</b><br><i>¿me oyes?</i>	to hear<br><i>can you hear me?</i><br><small>#411 · lesson 43</small>	Spanish1000::week08 Spanish1000::lesson043
+<b>lanzar</b><br><i>lanzar la pelota</i>	to throw, to launch<br><i>to throw the ball</i><br><small>#318 · lesson 44</small>	Spanish1000::week08 Spanish1000::lesson044
+<b>diferencia</b><br><i>¿cuál es la diferencia?</i>	difference<br><i>what&#x27;s the difference?</i><br><small>#319 · lesson 44</small>	Spanish1000::week08 Spanish1000::lesson044
+<b>bueno</b><br><i>bueno, vamos</i>	well... (filler); okay<br><i>okay, let&#x27;s go</i><br><small>#320 · lesson 44</small>	Spanish1000::week08 Spanish1000::lesson044
+<b>propiedad</b><br><i>propiedad privada</i>	property<br><i>private property</i><br><small>#321 · lesson 44</small>	Spanish1000::week08 Spanish1000::lesson044
+<b>indicar</b><br><i>indicar el camino</i>	to indicate, to point out<br><i>to show the way</i><br><small>#326 · lesson 44</small>	Spanish1000::week08 Spanish1000::lesson044
+<b>capaz</b><br><i>soy capaz</i>	capable, able<br><i>I can do it</i><br><small>#327 · lesson 44</small>	Spanish1000::week08 Spanish1000::lesson044
+<b>todavía</b><br><i>todavía no</i>	still, yet<br><i>not yet</i><br><small>#328 · lesson 44</small>	Spanish1000::week08 Spanish1000::lesson044
+<b>joven</b><br><i>los jóvenes</i>	young person<br><i>young people</i><br><small>#330 · lesson 44</small>	Spanish1000::week08 Spanish1000::lesson044
+<b>comenzar</b><br><i>comenzar de nuevo</i>	to begin<br><i>to start again</i><br><small>#331 · lesson 44</small>	Spanish1000::week08 Spanish1000::lesson044
+<b>idea</b><br><i>buena idea</i>	idea<br><i>good idea</i><br><small>#332 · lesson 44</small>	Spanish1000::week08 Spanish1000::lesson044
+<b>peso</b><br><i>perder peso</i>	weight; peso (currency)<br><i>to lose weight</i><br><small>#333 · lesson 45</small>	Spanish1000::week08 Spanish1000::lesson045
+<b>estudio</b><br><i>mis estudios</i>	study<br><i>my studies</i><br><small>#335 · lesson 45</small>	Spanish1000::week08 Spanish1000::lesson045
+<b>grupo</b><br><i>un grupo de amigos</i>	group<br><i>a group of friends</i><br><small>#336 · lesson 45</small>	Spanish1000::week08 Spanish1000::lesson045
+<b>considerar</b><br><i>considerar la idea</i>	to consider<br><i>to consider the idea</i><br><small>#338 · lesson 45</small>	Spanish1000::week08 Spanish1000::lesson045
+<b>allá</b><br><i>más allá</i>	over there (allá: a second time)<br><i>beyond, further</i><br><small>#339 · lesson 45</small>	Spanish1000::week08 Spanish1000::lesson045
+<b>mal</b><br><i>me siento mal</i>	badly<br><i>I feel bad</i><br><small>#340 · lesson 45</small>	Spanish1000::week08 Spanish1000::lesson045
+<b>anunciar</b><br><i>anunciar la noticia</i>	to announce<br><i>to announce the news</i><br><small>#341 · lesson 45</small>	Spanish1000::week08 Spanish1000::lesson045
+<b>sociedad</b><br><i>la sociedad</i>	society<br><i>society</i><br><small>#342 · lesson 45</small>	Spanish1000::week08 Spanish1000::lesson045
+<b>política</b><br><i>hablar de política</i>	politics; policy<br><i>to talk politics</i><br><small>#343 · lesson 45</small>	Spanish1000::week08 Spanish1000::lesson045
+<b>detener</b><br><i>detener el coche</i>	to stop, to arrest<br><i>to stop the car</i><br><small>#344 · lesson 45</small>	Spanish1000::week08 Spanish1000::lesson045
+<b>camino</b><br><i>en el camino</i>	road, path, way<br><i>on the way</i><br><small>#345 · lesson 46</small>	Spanish1000::week08 Spanish1000::lesson046
+<b>duda</b><br><i>sin duda</i>	doubt<br><i>without a doubt</i><br><small>#346 · lesson 46</small>	Spanish1000::week08 Spanish1000::lesson046
+<b>dinero</b><br><i>no tengo dinero</i>	money<br><i>I don&#x27;t have money</i><br><small>#347 · lesson 46</small>	Spanish1000::week08 Spanish1000::lesson046
+<b>millón</b><br><i>un millón de dólares</i>	million<br><i>a million dollars</i><br><small>#348 · lesson 46</small>	Spanish1000::week08 Spanish1000::lesson046
+<b>abandonar</b><br><i>abandonar el plan</i>	to abandon, to leave<br><i>to give up the plan</i><br><small>#349 · lesson 46</small>	Spanish1000::week08 Spanish1000::lesson046
+<b>pieza</b><br><i>una pieza</i>	piece; part<br><i>a piece</i><br><small>#350 · lesson 46</small>	Spanish1000::week08 Spanish1000::lesson046
+<b>claro</b><br><i>¡claro!</i>	of course; clearly<br><i>of course!</i><br><small>#351 · lesson 46</small>	Spanish1000::week08 Spanish1000::lesson046
+<b>movimiento</b><br><i>en movimiento</i>	movement<br><i>moving</i><br><small>#352 · lesson 46</small>	Spanish1000::week08 Spanish1000::lesson046
+<b>sitio</b><br><i>en algún sitio</i>	place, spot<br><i>somewhere</i><br><small>#353 · lesson 46</small>	Spanish1000::week08 Spanish1000::lesson046
+<b>arriba</b><br><i>arriba y abajo</i>	up, above, upstairs<br><i>up and down</i><br><small>#354 · lesson 46</small>	Spanish1000::week08 Spanish1000::lesson046
+<b>crecer</b><br><i>crecer rápido</i>	to grow<br><i>to grow fast</i><br><small>#355 · lesson 47</small>	Spanish1000::week08 Spanish1000::lesson047
+<b>siglo</b><br><i>el siglo veintiuno</i>	century<br><i>the 21st century</i><br><small>#356 · lesson 47</small>	Spanish1000::week08 Spanish1000::lesson047
+<b>necesidad</b><br><i>no hay necesidad</i>	need, necessity<br><i>there&#x27;s no need</i><br><small>#357 · lesson 47</small>	Spanish1000::week08 Spanish1000::lesson047
+<b>verdadero</b><br><i>un amigo verdadero</i>	true, real<br><i>a true friend</i><br><small>#358 · lesson 47</small>	Spanish1000::week08 Spanish1000::lesson047
+<b>doctor</b><br><i>ir al doctor</i>	doctor<br><i>to go to the doctor</i><br><small>#359 · lesson 47</small>	Spanish1000::week08 Spanish1000::lesson047
+<b>natural</b><br><i>es natural</i>	natural<br><i>it&#x27;s natural</i><br><small>#360 · lesson 47</small>	Spanish1000::week08 Spanish1000::lesson047
+<b>contestar</b><br><i>contestar el teléfono</i>	to answer<br><i>to answer the phone</i><br><small>#361 · lesson 47</small>	Spanish1000::week08 Spanish1000::lesson047
+<b>mercado</b><br><i>ir al mercado</i>	market<br><i>to go to the market</i><br><small>#362 · lesson 47</small>	Spanish1000::week08 Spanish1000::lesson047
+<b>madre</b><br><i>mi madre</i>	mother<br><i>my mother</i><br><small>#447 · lesson 47</small>	Spanish1000::week08 Spanish1000::lesson047
+<b>hermano</b><br><i>mi hermano</i>	brother; hermanos = siblings<br><i>my brother</i><br><small>#460 · lesson 47</small>	Spanish1000::week08 Spanish1000::lesson047
+<b>reconocer</b><br><i>no te reconocí</i>	to recognize; to admit<br><i>I didn&#x27;t recognize you</i><br><small>#363 · lesson 49</small>	Spanish1000::week09 Spanish1000::lesson049
+<b>importante</b><br><i>es muy importante</i>	important<br><i>it&#x27;s very important</i><br><small>#364 · lesson 49</small>	Spanish1000::week09 Spanish1000::lesson049
+<b>recurso</b><br><i>recursos naturales</i>	resource<br><i>natural resources</i><br><small>#365 · lesson 49</small>	Spanish1000::week09 Spanish1000::lesson049
+<b>intentar</b><br><i>intenta otra vez</i>	to try<br><i>try again</i><br><small>#366 · lesson 49</small>	Spanish1000::week09 Spanish1000::lesson049
+<b>realizar</b><br><i>realizar un sueño</i>	to carry out, to do<br><i>to make a dream come true</i><br><small>#367 · lesson 49</small>	Spanish1000::week09 Spanish1000::lesson049
+<b>golpe</b><br><i>de golpe</i>	blow, hit<br><i>all of a sudden</i><br><small>#369 · lesson 49</small>	Spanish1000::week09 Spanish1000::lesson049
+<b>grado</b><br><i>dos grados</i>	degree; grade<br><i>two degrees</i><br><small>#370 · lesson 49</small>	Spanish1000::week09 Spanish1000::lesson049
+<b>morir</b><br><i>morir de hambre</i>	to die<br><i>to starve (to be starving)</i><br><small>#371 · lesson 49</small>	Spanish1000::week09 Spanish1000::lesson049
+<b>ojo</b><br><i>ojos azules</i>	eye<br><i>blue eyes</i><br><small>#372 · lesson 49</small>	Spanish1000::week09 Spanish1000::lesson049
+<b>permitir</b><br><i>no se permite</i>	to allow, to permit<br><i>it&#x27;s not allowed</i><br><small>#373 · lesson 49</small>	Spanish1000::week09 Spanish1000::lesson049
+<b>humano</b><br><i>el cuerpo humano</i>	human<br><i>the human body</i><br><small>#374 · lesson 50</small>	Spanish1000::week09 Spanish1000::lesson050
+<b>físico</b><br><i>actividad física</i>	physical<br><i>physical activity</i><br><small>#375 · lesson 50</small>	Spanish1000::week09 Spanish1000::lesson050
+<b>convertir</b><br><i>se convirtió en</i>	to convert; convertirse en = to become<br><i>it became</i><br><small>#376 · lesson 50</small>	Spanish1000::week09 Spanish1000::lesson050
+<b>voz</b><br><i>en voz alta</i>	voice<br><i>out loud</i><br><small>#377 · lesson 50</small>	Spanish1000::week09 Spanish1000::lesson050
+<b>incluso</b><br><i>incluso los niños</i>	even; including<br><i>even the kids</i><br><small>#378 · lesson 50</small>	Spanish1000::week09 Spanish1000::lesson050
+<b>responsabilidad</b><br><i>es mi responsabilidad</i>	responsibility<br><i>it&#x27;s my responsibility</i><br><small>#379 · lesson 50</small>	Spanish1000::week09 Spanish1000::lesson050
+<b>bastante</b><br><i>bastante bien</i>	quite, enough<br><i>pretty good</i><br><small>#380 · lesson 50</small>	Spanish1000::week09 Spanish1000::lesson050
+<b>profundo</b><br><i>agua profunda</i>	deep<br><i>deep water</i><br><small>#381 · lesson 50</small>	Spanish1000::week09 Spanish1000::lesson050
+<b>suelo</b><br><i>en el suelo</i>	floor, ground<br><i>on the floor</i><br><small>#383 · lesson 50</small>	Spanish1000::week09 Spanish1000::lesson050
+<b>asegurar</b><br><i>te lo aseguro</i>	to assure, to make sure<br><i>I assure you</i><br><small>#385 · lesson 50</small>	Spanish1000::week09 Spanish1000::lesson050
+<b>brazo</b><br><i>el brazo derecho</i>	arm<br><i>the right arm</i><br><small>#386 · lesson 51</small>	Spanish1000::week09 Spanish1000::lesson051
+<b>uso</b><br><i>de uso diario</i>	use<br><i>for everyday use</i><br><small>#387 · lesson 51</small>	Spanish1000::week09 Spanish1000::lesson051
+<b>parecido</b><br><i>muy parecido</i>	similar, alike<br><i>very similar</i><br><small>#388 · lesson 51</small>	Spanish1000::week09 Spanish1000::lesson051
+<b>imagen</b><br><i>una imagen bonita</i>	image, picture<br><i>a pretty picture</i><br><small>#389 · lesson 51</small>	Spanish1000::week09 Spanish1000::lesson051
+<b>origen</b><br><i>de origen mexicano</i>	origin<br><i>of Mexican origin</i><br><small>#390 · lesson 51</small>	Spanish1000::week09 Spanish1000::lesson051
+<b>relación</b><br><i>una buena relación</i>	relationship<br><i>a good relationship</i><br><small>#392 · lesson 51</small>	Spanish1000::week09 Spanish1000::lesson051
+<b>apoyar</b><br><i>te apoyo</i>	to support<br><i>I support you</i><br><small>#393 · lesson 51</small>	Spanish1000::week09 Spanish1000::lesson051
+<b>sangre</b><br><i>sangre fría</i>	blood<br><i>cold blood</i><br><small>#394 · lesson 51</small>	Spanish1000::week09 Spanish1000::lesson051
+<b>demás</b><br><i>los demás</i>	the rest, the others<br><i>the others</i><br><small>#395 · lesson 51</small>	Spanish1000::week09 Spanish1000::lesson051
+<b>igual</b><br><i>me da igual</i>	equal, the same<br><i>I don&#x27;t mind</i><br><small>#396 · lesson 51</small>	Spanish1000::week09 Spanish1000::lesson051
+<b>edad</b><br><i>¿qué edad tienes?</i>	age<br><i>how old are you?</i><br><small>#397 · lesson 52</small>	Spanish1000::week09 Spanish1000::lesson052
+<b>cantidad</b><br><i>una gran cantidad</i>	amount, quantity<br><i>a large amount</i><br><small>#398 · lesson 52</small>	Spanish1000::week09 Spanish1000::lesson052
+<b>actuar</b><br><i>actuar rápido</i>	to act<br><i>to act fast</i><br><small>#399 · lesson 52</small>	Spanish1000::week09 Spanish1000::lesson052
+<b>comprobar</b><br><i>comprobar los datos</i>	to check, to verify<br><i>to check the information</i><br><small>#400 · lesson 52</small>	Spanish1000::week09 Spanish1000::lesson052
+<b>según</b><br><i>según él</i>	according to<br><i>according to him</i><br><small>#402 · lesson 52</small>	Spanish1000::week09 Spanish1000::lesson052
+<b>observar</b><br><i>observar con atención</i>	to observe<br><i>to watch closely</i><br><small>#403 · lesson 52</small>	Spanish1000::week09 Spanish1000::lesson052
+<b>frente</b><br><i>frente a la casa</i>	front; frente a = facing<br><i>across from the house</i><br><small>#404 · lesson 52</small>	Spanish1000::week09 Spanish1000::lesson052
+<b>lograr</b><br><i>lo logré</i>	to achieve, to manage to<br><i>I did it</i><br><small>#405 · lesson 52</small>	Spanish1000::week09 Spanish1000::lesson052
+<b>completo</b><br><i>el nombre completo</i>	complete; full<br><i>the full name</i><br><small>#407 · lesson 52</small>	Spanish1000::week09 Spanish1000::lesson052
+<b>moderno</b><br><i>una casa moderna</i>	modern<br><i>a modern house</i><br><small>#408 · lesson 52</small>	Spanish1000::week09 Spanish1000::lesson052
+<b>atravesar</b><br><i>atravesar el río</i>	to cross, to go through<br><i>to cross the river</i><br><small>#409 · lesson 53</small>	Spanish1000::week09 Spanish1000::lesson053
+<b>maestro</b><br><i>el maestro de música</i>	teacher; master<br><i>the music teacher</i><br><small>#410 · lesson 53</small>	Spanish1000::week09 Spanish1000::lesson053
+<b>adelante</b><br><i>seguir adelante</i>	forward, ahead; ¡adelante! = come in!<br><i>to keep going</i><br><small>#412 · lesson 53</small>	Spanish1000::week09 Spanish1000::lesson053
+<b>diferente</b><br><i>algo diferente</i>	different<br><i>something different</i><br><small>#413 · lesson 53</small>	Spanish1000::week09 Spanish1000::lesson053
+<b>delante</b><br><i>delante de la casa</i>	in front<br><i>in front of the house</i><br><small>#414 · lesson 53</small>	Spanish1000::week09 Spanish1000::lesson053
+<b>sentido</b><br><i>no tiene sentido</i>	sense, meaning; feeling<br><i>it makes no sense</i><br><small>#415 · lesson 53</small>	Spanish1000::week09 Spanish1000::lesson053
+<b>imposible</b><br><i>es imposible</i>	impossible<br><i>it&#x27;s impossible</i><br><small>#416 · lesson 53</small>	Spanish1000::week09 Spanish1000::lesson053
+<b>faltar</b><br><i>falta sal</i>	to be missing, to lack<br><i>it needs salt</i><br><small>#493 · lesson 53</small>	Spanish1000::week09 Spanish1000::lesson053
+<b>importar</b><br><i>no importa</i>	to matter<br><i>it doesn&#x27;t matter</i><br><small>#547 · lesson 53</small>	Spanish1000::week09 Spanish1000::lesson053
+<b>preocupar</b><br><i>no te preocupes</i>	to worry<br><i>don&#x27;t worry</i><br><small>#679 · lesson 53</small>	Spanish1000::week09 Spanish1000::lesson053
+<b>solamente</b><br><i>solamente un día</i>	only<br><i>only one day</i><br><small>#417 · lesson 55</small>	Spanish1000::week10 Spanish1000::lesson055
+<b>directamente</b><br><i>directamente a casa</i>	directly, straight<br><i>straight home</i><br><small>#419 · lesson 55</small>	Spanish1000::week10 Spanish1000::lesson055
+<b>lenguaje</b><br><i>lenguaje corporal</i>	language (way of speaking)<br><i>body language</i><br><small>#420 · lesson 55</small>	Spanish1000::week10 Spanish1000::lesson055
+<b>ello</b><br><i>por ello</i>	it (formal, abstract)<br><i>for that reason</i><br><small>#421 · lesson 55</small>	Spanish1000::week10 Spanish1000::lesson055
+<b>difícil</b><br><i>es difícil</i>	difficult, hard<br><i>it&#x27;s hard</i><br><small>#422 · lesson 55</small>	Spanish1000::week10 Spanish1000::lesson055
+<b>ofrecer</b><br><i>¿te ofrezco algo?</i>	to offer<br><i>can I offer you something?</i><br><small>#423 · lesson 55</small>	Spanish1000::week10 Spanish1000::lesson055
+<b>sistema</b><br><i>el sistema</i>	system<br><i>the system</i><br><small>#424 · lesson 55</small>	Spanish1000::week10 Spanish1000::lesson055
+<b>correr</b><br><i>correr por el parque</i>	to run<br><i>to run in the park</i><br><small>#496 · lesson 55</small>	Spanish1000::week10 Spanish1000::lesson055
+<b>cantar</b><br><i>cantar en la ducha</i>	to sing<br><i>to sing in the shower</i><br><small>#765 · lesson 55</small>	Spanish1000::week10 Spanish1000::lesson055
+<b>llorar</b><br><i>no llores</i>	to cry<br><i>don&#x27;t cry</i><br><small>#789 · lesson 55</small>	Spanish1000::week10 Spanish1000::lesson055
+<b>enorme</b><br><i>una casa enorme</i>	huge, enormous<br><i>a huge house</i><br><small>#425 · lesson 56</small>	Spanish1000::week10 Spanish1000::lesson056
+<b>realmente</b><br><i>¿realmente?</i>	really, actually<br><i>really?</i><br><small>#426 · lesson 56</small>	Spanish1000::week10 Spanish1000::lesson056
+<b>social</b><br><i>las redes sociales</i>	social<br><i>social media</i><br><small>#427 · lesson 56</small>	Spanish1000::week10 Spanish1000::lesson056
+<b>abierto</b><br><i>está abierto</i>	open<br><i>it&#x27;s open</i><br><small>#428 · lesson 56</small>	Spanish1000::week10 Spanish1000::lesson056
+<b>subir</b><br><i>subir la escalera</i>	to go up, to get on<br><i>to go up the stairs</i><br><small>#429 · lesson 56</small>	Spanish1000::week10 Spanish1000::lesson056
+<b>evitar</b><br><i>evitar el tráfico</i>	to avoid<br><i>to avoid traffic</i><br><small>#430 · lesson 56</small>	Spanish1000::week10 Spanish1000::lesson056
+<b>superar</b><br><i>superar el miedo</i>	to overcome, to beat<br><i>to overcome fear</i><br><small>#431 · lesson 56</small>	Spanish1000::week10 Spanish1000::lesson056
+<b>papel</b><br><i>un papel importante</i>	paper; role<br><i>an important role</i><br><small>#432 · lesson 56</small>	Spanish1000::week10 Spanish1000::lesson056
+<b>surgir</b><br><i>surgió un problema</i>	to arise, to come up<br><i>a problem came up</i><br><small>#433 · lesson 56</small>	Spanish1000::week10 Spanish1000::lesson056
+<b>rojo</b><br><i>un coche rojo</i>	red<br><i>a red car</i><br><small>#434 · lesson 56</small>	Spanish1000::week10 Spanish1000::lesson056
+<b>pasado</b><br><i>la semana pasada</i>	past; last (week, year)<br><i>last week</i><br><small>#435 · lesson 57</small>	Spanish1000::week10 Spanish1000::lesson057
+<b>favor</b><br><i>por favor</i>	favor<br><i>please</i><br><small>#436 · lesson 57</small>	Spanish1000::week10 Spanish1000::lesson057
+<b>siguiente</b><br><i>al día siguiente</i>	next, following<br><i>the next day</i><br><small>#437 · lesson 57</small>	Spanish1000::week10 Spanish1000::lesson057
+<b>miembro</b><br><i>un miembro de la familia</i>	member<br><i>a family member</i><br><small>#439 · lesson 57</small>	Spanish1000::week10 Spanish1000::lesson057
+<b>suponer</b><br><i>supongo que sí</i>	to suppose<br><i>I suppose so</i><br><small>#440 · lesson 57</small>	Spanish1000::week10 Spanish1000::lesson057
+<b>puro</b><br><i>aire puro</i>	pure<br><i>fresh air</i><br><small>#441 · lesson 57</small>	Spanish1000::week10 Spanish1000::lesson057
+<b>carga</b><br><i>una carga pesada</i>	load, charge<br><i>a heavy load</i><br><small>#442 · lesson 57</small>	Spanish1000::week10 Spanish1000::lesson057
+<b>calor</b><br><i>hace calor</i>	heat<br><i>it&#x27;s hot</i><br><small>#443 · lesson 57</small>	Spanish1000::week10 Spanish1000::lesson057
+<b>enemigo</b><br><i>mi enemigo</i>	enemy<br><i>my enemy</i><br><small>#444 · lesson 57</small>	Spanish1000::week10 Spanish1000::lesson057
+<b>tender</b><br><i>tiende a llegar tarde</i>	to tend to; to hang out (laundry)<br><i>he tends to arrive late</i><br><small>#445 · lesson 57</small>	Spanish1000::week10 Spanish1000::lesson057
+<b>serio</b><br><i>¿en serio?</i>	serious<br><i>seriously?</i><br><small>#446 · lesson 58</small>	Spanish1000::week10 Spanish1000::lesson058
+<b>mover</b><br><i>no te muevas</i>	to move<br><i>don&#x27;t move</i><br><small>#448 · lesson 58</small>	Spanish1000::week10 Spanish1000::lesson058
+<b>demasiado</b><br><i>demasiado caro</i>	too, too much<br><i>too expensive</i><br><small>#449 · lesson 58</small>	Spanish1000::week10 Spanish1000::lesson058
+<b>ganar</b><br><i>ganar dinero</i>	to win; to earn<br><i>to earn money</i><br><small>#450 · lesson 58</small>	Spanish1000::week10 Spanish1000::lesson058
+<b>lleno</b><br><i>estoy lleno</i>	full<br><i>I&#x27;m full</i><br><small>#451 · lesson 58</small>	Spanish1000::week10 Spanish1000::lesson058
+<b>altura</b><br><i>a la altura de</i>	height<br><i>at the level of</i><br><small>#452 · lesson 58</small>	Spanish1000::week10 Spanish1000::lesson058
+<b>civil</b><br><i>la guerra civil</i>	civil<br><i>the civil war</i><br><small>#453 · lesson 58</small>	Spanish1000::week10 Spanish1000::lesson058
+<b>niña</b><br><i>una niña pequeña</i>	girl, child<br><i>a little girl</i><br><small>#454 · lesson 58</small>	Spanish1000::week10 Spanish1000::lesson058
+<b>cara</b><br><i>lavarse la cara</i>	face<br><i>to wash your face</i><br><small>#455 · lesson 58</small>	Spanish1000::week10 Spanish1000::lesson058
+<b>metro</b><br><i>en metro</i>	meter; subway<br><i>by subway</i><br><small>#456 · lesson 58</small>	Spanish1000::week10 Spanish1000::lesson058
+<b>cuidado</b><br><i>ten cuidado</i>	care; ¡cuidado! = careful!<br><i>be careful</i><br><small>#457 · lesson 59</small>	Spanish1000::week10 Spanish1000::lesson059
+<b>dios</b><br><i>gracias a Dios</i>	God<br><i>thank God</i><br><small>#459 · lesson 59</small>	Spanish1000::week10 Spanish1000::lesson059
+<b>participar</b><br><i>participar en clase</i>	to take part<br><i>to take part in class</i><br><small>#461 · lesson 59</small>	Spanish1000::week10 Spanish1000::lesson059
+<b>explicar</b><br><i>explícame</i>	to explain<br><i>explain it to me</i><br><small>#463 · lesson 59</small>	Spanish1000::week10 Spanish1000::lesson059
+<b>libertad</b><br><i>libertad de expresión</i>	freedom<br><i>freedom of speech</i><br><small>#464 · lesson 59</small>	Spanish1000::week10 Spanish1000::lesson059
+<b>sol</b><br><i>hace sol</i>	sun<br><i>it&#x27;s sunny</i><br><small>#466 · lesson 59</small>	Spanish1000::week10 Spanish1000::lesson059
+<b>verano</b><br><i>en verano</i>	summer<br><i>in summer</i><br><small>#552 · lesson 59</small>	Spanish1000::week10 Spanish1000::lesson059
+<b>frío</b><br><i>hace frío</i>	cold<br><i>it&#x27;s cold</i><br><small>#911 · lesson 59</small>	Spanish1000::week10 Spanish1000::lesson059
+<b>temperatura</b><br><i>la temperatura</i>	temperature<br><i>the temperature</i><br><small>#946 · lesson 59</small>	Spanish1000::week10 Spanish1000::lesson059
+<b>estación</b><br><i>la estación de tren</i>	season; station<br><i>the train station</i><br><small>#967 · lesson 59</small>	Spanish1000::week10 Spanish1000::lesson059
+<b>naturaleza</b><br><i>la naturaleza</i>	nature<br><i>nature</i><br><small>#465 · lesson 61</small>	Spanish1000::week11 Spanish1000::lesson061
+<b>popular</b><br><i>una canción popular</i>	popular<br><i>a popular song</i><br><small>#467 · lesson 61</small>	Spanish1000::week11 Spanish1000::lesson061
+<b>utilizar</b><br><i>utilizar el ordenador</i>	to use<br><i>to use the computer</i><br><small>#468 · lesson 61</small>	Spanish1000::week11 Spanish1000::lesson061
+<b>voluntad</b><br><i>buena voluntad</i>	will, willpower<br><i>goodwill</i><br><small>#469 · lesson 61</small>	Spanish1000::week11 Spanish1000::lesson061
+<b>verde</b><br><i>ojos verdes</i>	green<br><i>green eyes</i><br><small>#470 · lesson 61</small>	Spanish1000::week11 Spanish1000::lesson061
+<b>extraño</b><br><i>qué extraño</i>	strange<br><i>how strange</i><br><small>#471 · lesson 61</small>	Spanish1000::week11 Spanish1000::lesson061
+<b>accidente</b><br><i>un accidente de coche</i>	accident<br><i>a car accident</i><br><small>#472 · lesson 61</small>	Spanish1000::week11 Spanish1000::lesson061
+<b>económico</b><br><i>precio económico</i>	economic; cheap<br><i>affordable price</i><br><small>#473 · lesson 61</small>	Spanish1000::week11 Spanish1000::lesson061
+<b>desaparecer</b><br><i>desaparecer sin rastro</i>	to disappear<br><i>to vanish without a trace</i><br><small>#474 · lesson 61</small>	Spanish1000::week11 Spanish1000::lesson061
+<b>pagar</b><br><i>pagar la cuenta</i>	to pay<br><i>to pay the bill</i><br><small>#488 · lesson 61</small>	Spanish1000::week11 Spanish1000::lesson061
+<b>olvidar</b><br><i>no lo olvides</i>	to forget<br><i>don&#x27;t forget it</i><br><small>#476 · lesson 62</small>	Spanish1000::week11 Spanish1000::lesson062
+<b>zona</b><br><i>en esta zona</i>	area, zone<br><i>in this area</i><br><small>#477 · lesson 62</small>	Spanish1000::week11 Spanish1000::lesson062
+<b>fuera</b><br><i>fuera de casa</i>	outside, out<br><i>out of the house</i><br><small>#478 · lesson 62</small>	Spanish1000::week11 Spanish1000::lesson062
+<b>número</b><br><i>mi número de teléfono</i>	number<br><i>my phone number</i><br><small>#479 · lesson 62</small>	Spanish1000::week11 Spanish1000::lesson062
+<b>estado</b><br><i>en buen estado</i>	state; condition<br><i>in good condition</i><br><small>#480 · lesson 62</small>	Spanish1000::week11 Spanish1000::lesson062
+<b>través</b><br><i>a través de la ventana</i>	a través de = through, across<br><i>through the window</i><br><small>#481 · lesson 62</small>	Spanish1000::week11 Spanish1000::lesson062
+<b>especie</b><br><i>una especie de</i>	species, kind<br><i>a kind of</i><br><small>#482 · lesson 62</small>	Spanish1000::week11 Spanish1000::lesson062
+<b>empresa</b><br><i>una empresa grande</i>	company, business<br><i>a big company</i><br><small>#483 · lesson 62</small>	Spanish1000::week11 Spanish1000::lesson062
+<b>cincuenta</b><br><i>cincuenta años</i>	fifty<br><i>fifty years</i><br><small>#484 · lesson 62</small>	Spanish1000::week11 Spanish1000::lesson062
+<b>nacer</b><br><i>nací en 1997</i>	to be born<br><i>I was born in 1997</i><br><small>#485 · lesson 62</small>	Spanish1000::week11 Spanish1000::lesson062
+<b>lengua</b><br><i>lengua materna</i>	tongue; language<br><i>native language</i><br><small>#486 · lesson 63</small>	Spanish1000::week11 Spanish1000::lesson063
+<b>usar</b><br><i>¿puedo usar el baño?</i>	to use<br><i>can I use the bathroom?</i><br><small>#487 · lesson 63</small>	Spanish1000::week11 Spanish1000::lesson063
+<b>tamaño</b><br><i>¿qué tamaño?</i>	size<br><i>what size?</i><br><small>#489 · lesson 63</small>	Spanish1000::week11 Spanish1000::lesson063
+<b>revista</b><br><i>una revista</i>	magazine<br><i>a magazine</i><br><small>#490 · lesson 63</small>	Spanish1000::week11 Spanish1000::lesson063
+<b>cerrado</b><br><i>está cerrado</i>	closed<br><i>it&#x27;s closed</i><br><small>#491 · lesson 63</small>	Spanish1000::week11 Spanish1000::lesson063
+<b>frontera</b><br><i>la frontera</i>	border<br><i>the border</i><br><small>#492 · lesson 63</small>	Spanish1000::week11 Spanish1000::lesson063
+<b>animal</b><br><i>me gustan los animales</i>	animal<br><i>I like animals</i><br><small>#494 · lesson 63</small>	Spanish1000::week11 Spanish1000::lesson063
+<b>suceder</b><br><i>¿qué sucede?</i>	to happen<br><i>what&#x27;s going on?</i><br><small>#509 · lesson 63</small>	Spanish1000::week11 Spanish1000::lesson063
+<b>descubrir</b><br><i>descubrir algo nuevo</i>	to discover<br><i>to discover something new</i><br><small>#623 · lesson 63</small>	Spanish1000::week11 Spanish1000::lesson063
+<b>romper</b><br><i>romper el vaso</i>	to break<br><i>to break the glass</i><br><small>#902 · lesson 63</small>	Spanish1000::week11 Spanish1000::lesson063
+<b>acción</b><br><i>película de acción</i>	action<br><i>action movie</i><br><small>#495 · lesson 64</small>	Spanish1000::week11 Spanish1000::lesson064
+<b>corazón</b><br><i>de todo corazón</i>	heart<br><i>with all my heart</i><br><small>#497 · lesson 64</small>	Spanish1000::week11 Spanish1000::lesson064
+<b>enseñar</b><br><i>enseñar inglés</i>	to teach; to show<br><i>to teach English</i><br><small>#499 · lesson 64</small>	Spanish1000::week11 Spanish1000::lesson064
+<b>quitar</b><br><i>quítate los zapatos</i>	to remove, to take away<br><i>take off your shoes</i><br><small>#500 · lesson 64</small>	Spanish1000::week11 Spanish1000::lesson064
+<b>mensaje</b><br><i>mandar un mensaje</i>	message<br><i>to send a message</i><br><small>#501 · lesson 64</small>	Spanish1000::week11 Spanish1000::lesson064
+<b>analizar</b><br><i>analizar el problema</i>	to analyze<br><i>to analyze the problem</i><br><small>#502 · lesson 64</small>	Spanish1000::week11 Spanish1000::lesson064
+<b>bien</b><br><i>bienes y servicios</i>	goods, property (bienes)<br><i>goods and services</i><br><small>#503 · lesson 64</small>	Spanish1000::week11 Spanish1000::lesson064
+<b>público</b><br><i>transporte público</i>	public<br><i>public transport</i><br><small>#504 · lesson 64</small>	Spanish1000::week11 Spanish1000::lesson064
+<b>elegir</b><br><i>elegir bien</i>	to choose<br><i>to choose well</i><br><small>#505 · lesson 64</small>	Spanish1000::week11 Spanish1000::lesson064
+<b>región</b><br><i>la región</i>	region<br><i>the region</i><br><small>#506 · lesson 64</small>	Spanish1000::week11 Spanish1000::lesson064
+<b>policía</b><br><i>llamar a la policía</i>	police; police officer<br><i>to call the police</i><br><small>#507 · lesson 65</small>	Spanish1000::week11 Spanish1000::lesson065
+<b>comienzo</b><br><i>al comienzo</i>	beginning, start<br><i>at the start</i><br><small>#508 · lesson 65</small>	Spanish1000::week11 Spanish1000::lesson065
+<b>fondo</b><br><i>en el fondo</i>	bottom; back; background<br><i>deep down</i><br><small>#510 · lesson 65</small>	Spanish1000::week11 Spanish1000::lesson065
+<b>amor</b><br><i>mi amor</i>	love<br><i>my love</i><br><small>#511 · lesson 65</small>	Spanish1000::week11 Spanish1000::lesson065
+<b>resolver</b><br><i>resolver el problema</i>	to solve, to resolve<br><i>to solve the problem</i><br><small>#512 · lesson 65</small>	Spanish1000::week11 Spanish1000::lesson065
+<b>vecino</b><br><i>mi vecino</i>	neighbor<br><i>my neighbor</i><br><small>#513 · lesson 65</small>	Spanish1000::week11 Spanish1000::lesson065
+<b>actividad</b><br><i>una actividad divertida</i>	activity<br><i>a fun activity</i><br><small>#514 · lesson 65</small>	Spanish1000::week11 Spanish1000::lesson065
+<b>diciembre</b><br><i>en diciembre</i>	December<br><i>in December</i><br><small>#712 · lesson 65</small>	Spanish1000::week11 Spanish1000::lesson065
+<b>agosto</b><br><i>en agosto</i>	August<br><i>in August</i><br><small>#881 · lesson 65</small>	Spanish1000::week11 Spanish1000::lesson065
+<b>rato</b><br><i>un rato</i>	a while, a short time<br><i>a little while</i><br><small>#977 · lesson 65</small>	Spanish1000::week11 Spanish1000::lesson065
+<b>corto</b><br><i>pelo corto</i>	short (length)<br><i>short hair</i><br><small>#515 · lesson 67</small>	Spanish1000::week12 Spanish1000::lesson067
+<b>oportunidad</b><br><i>una oportunidad</i>	opportunity, chance<br><i>a chance</i><br><small>#516 · lesson 67</small>	Spanish1000::week12 Spanish1000::lesson067
+<b>derecha</b><br><i>a la derecha</i>	right (direction)<br><i>on the right</i><br><small>#517 · lesson 67</small>	Spanish1000::week12 Spanish1000::lesson067
+<b>dirigir</b><br><i>dirigir una empresa</i>	to direct, to lead<br><i>to run a company</i><br><small>#518 · lesson 67</small>	Spanish1000::week12 Spanish1000::lesson067
+<b>unir</b><br><i>unir fuerzas</i>	to unite, to join<br><i>to join forces</i><br><small>#519 · lesson 67</small>	Spanish1000::week12 Spanish1000::lesson067
+<b>muerte</b><br><i>la muerte</i>	death<br><i>death</i><br><small>#520 · lesson 67</small>	Spanish1000::week12 Spanish1000::lesson067
+<b>plantear</b><br><i>plantear una pregunta</i>	to raise, to propose (an idea)<br><i>to raise a question</i><br><small>#521 · lesson 67</small>	Spanish1000::week12 Spanish1000::lesson067
+<b>gobierno</b><br><i>el gobierno</i>	government<br><i>the government</i><br><small>#522 · lesson 67</small>	Spanish1000::week12 Spanish1000::lesson067
+<b>compartir</b><br><i>compartir la comida</i>	to share<br><i>to share the food</i><br><small>#523 · lesson 67</small>	Spanish1000::week12 Spanish1000::lesson067
+<b>pensamiento</b><br><i>un pensamiento</i>	thought<br><i>a thought</i><br><small>#525 · lesson 67</small>	Spanish1000::week12 Spanish1000::lesson067
+<b>ley</b><br><i>la ley</i>	law<br><i>the law</i><br><small>#526 · lesson 68</small>	Spanish1000::week12 Spanish1000::lesson068
+<b>plano</b><br><i>un plano de la ciudad</i>	map, plan; flat<br><i>a city map</i><br><small>#527 · lesson 68</small>	Spanish1000::week12 Spanish1000::lesson068
+<b>tocar</b><br><i>tocar la guitarra</i>	to touch; to play (an instrument)<br><i>to play the guitar</i><br><small>#528 · lesson 68</small>	Spanish1000::week12 Spanish1000::lesson068
+<b>importancia</b><br><i>no tiene importancia</i>	importance<br><i>it doesn&#x27;t matter</i><br><small>#529 · lesson 68</small>	Spanish1000::week12 Spanish1000::lesson068
+<b>terrible</b><br><i>un día terrible</i>	terrible<br><i>a terrible day</i><br><small>#530 · lesson 68</small>	Spanish1000::week12 Spanish1000::lesson068
+<b>línea</b><br><i>en línea</i>	line<br><i>online</i><br><small>#531 · lesson 68</small>	Spanish1000::week12 Spanish1000::lesson068
+<b>temprano</b><br><i>levantarse temprano</i>	early<br><i>to get up early</i><br><small>#532 · lesson 68</small>	Spanish1000::week12 Spanish1000::lesson068
+<b>andar</b><br><i>andar por la calle</i>	to walk; to go around<br><i>to walk down the street</i><br><small>#533 · lesson 68</small>	Spanish1000::week12 Spanish1000::lesson068
+<b>resultado</b><br><i>el resultado</i>	result<br><i>the result</i><br><small>#534 · lesson 68</small>	Spanish1000::week12 Spanish1000::lesson068
+<b>espacio</b><br><i>no hay espacio</i>	space, room<br><i>there&#x27;s no room</i><br><small>#535 · lesson 68</small>	Spanish1000::week12 Spanish1000::lesson068
+<b>constituir</b><br><i>constituir un problema</i>	to make up, to constitute<br><i>to be a problem</i><br><small>#536 · lesson 69</small>	Spanish1000::week12 Spanish1000::lesson069
+<b>carrera</b><br><i>una carrera universitaria</i>	race; career; degree program<br><i>a college degree</i><br><small>#537 · lesson 69</small>	Spanish1000::week12 Spanish1000::lesson069
+<b>frase</b><br><i>una frase corta</i>	sentence, phrase<br><i>a short sentence</i><br><small>#539 · lesson 69</small>	Spanish1000::week12 Spanish1000::lesson069
+<b>reunión</b><br><i>tengo una reunión</i>	meeting<br><i>I have a meeting</i><br><small>#540 · lesson 69</small>	Spanish1000::week12 Spanish1000::lesson069
+<b>cultura</b><br><i>la cultura española</i>	culture<br><i>Spanish culture</i><br><small>#541 · lesson 69</small>	Spanish1000::week12 Spanish1000::lesson069
+<b>enfermedad</b><br><i>una enfermedad grave</i>	illness, disease<br><i>a serious illness</i><br><small>#542 · lesson 69</small>	Spanish1000::week12 Spanish1000::lesson069
+<b>resto</b><br><i>el resto del día</i>	rest, remainder<br><i>the rest of the day</i><br><small>#543 · lesson 69</small>	Spanish1000::week12 Spanish1000::lesson069
+<b>literatura</b><br><i>la literatura</i>	literature<br><i>literature</i><br><small>#544 · lesson 69</small>	Spanish1000::week12 Spanish1000::lesson069
+<b>fe</b><br><i>tener fe</i>	faith<br><i>to have faith</i><br><small>#545 · lesson 69</small>	Spanish1000::week12 Spanish1000::lesson069
+<b>atrás</b><br><i>mirar atrás</i>	back, behind; ago<br><i>to look back</i><br><small>#680 · lesson 69</small>	Spanish1000::week12 Spanish1000::lesson069
+<b>sueño</b><br><i>tengo sueño</i>	sleep; dream<br><i>I&#x27;m sleepy</i><br><small>#546 · lesson 70</small>	Spanish1000::week12 Spanish1000::lesson070
+<b>dispuesto</b><br><i>estoy dispuesto</i>	willing, ready<br><i>I&#x27;m willing</i><br><small>#548 · lesson 70</small>	Spanish1000::week12 Spanish1000::lesson070
+<b>compañero</b><br><i>compañero de trabajo</i>	classmate, coworker, partner<br><i>coworker</i><br><small>#549 · lesson 70</small>	Spanish1000::week12 Spanish1000::lesson070
+<b>depender</b><br><i>depende</i>	to depend<br><i>it depends</i><br><small>#550 · lesson 70</small>	Spanish1000::week12 Spanish1000::lesson070
+<b>poder</b><br><i>el poder</i>	power (noun)<br><i>power</i><br><small>#551 · lesson 70</small>	Spanish1000::week12 Spanish1000::lesson070
+<b>acontecimiento</b><br><i>un gran acontecimiento</i>	event<br><i>a big event</i><br><small>#553 · lesson 70</small>	Spanish1000::week12 Spanish1000::lesson070
+<b>cumplir</b><br><i>cumplir una promesa</i>	to fulfill; cumplir años = to have a birthday<br><i>to keep a promise</i><br><small>#554 · lesson 70</small>	Spanish1000::week12 Spanish1000::lesson070
+<b>jamás</b><br><i>jamás</i>	never<br><i>never (ever)</i><br><small>#555 · lesson 70</small>	Spanish1000::week12 Spanish1000::lesson070
+<b>tercero</b><br><i>el tercer día</i>	third<br><i>the third day</i><br><small>#556 · lesson 70</small>	Spanish1000::week12 Spanish1000::lesson070
+<b>continuar</b><br><i>continuará</i>	to continue<br><i>to be continued</i><br><small>#557 · lesson 70</small>	Spanish1000::week12 Spanish1000::lesson070
+<b>arma</b><br><i>un arma</i>	weapon<br><i>a weapon</i><br><small>#558 · lesson 71</small>	Spanish1000::week12 Spanish1000::lesson071
+<b>pie</b><br><i>a pie</i>	foot<br><i>on foot</i><br><small>#559 · lesson 71</small>	Spanish1000::week12 Spanish1000::lesson071
+<b>esfuerzo</b><br><i>con esfuerzo</i>	effort<br><i>with effort</i><br><small>#560 · lesson 71</small>	Spanish1000::week12 Spanish1000::lesson071
+<b>condición</b><br><i>en buenas condiciones</i>	condition<br><i>in good shape</i><br><small>#561 · lesson 71</small>	Spanish1000::week12 Spanish1000::lesson071
+<b>contribuir</b><br><i>contribuir con algo</i>	to contribute<br><i>to contribute something</i><br><small>#562 · lesson 71</small>	Spanish1000::week12 Spanish1000::lesson071
+<b>cortar</b><br><i>cortar el pan</i>	to cut<br><i>to cut the bread</i><br><small>#563 · lesson 71</small>	Spanish1000::week12 Spanish1000::lesson071
+<b>hábito</b><br><i>un buen hábito</i>	habit<br><i>a good habit</i><br><small>#738 · lesson 71</small>	Spanish1000::week12 Spanish1000::lesson071
+<b>generalmente</b><br><i>generalmente como a las doce</i>	generally, usually<br><i>I usually eat at twelve</i><br><small>#777 · lesson 71</small>	Spanish1000::week12 Spanish1000::lesson071
+<b>habitual</b><br><i>lo habitual</i>	usual, regular<br><i>the usual</i><br><small>#865 · lesson 71</small>	Spanish1000::week12 Spanish1000::lesson071
+<b>juventud</b><br><i>en mi juventud</i>	youth<br><i>in my youth</i><br><small>#905 · lesson 71</small>	Spanish1000::week12 Spanish1000::lesson071
+<b>atender</b><br><i>atender a los clientes</i>	to attend to, to serve; to pay attention<br><i>to serve customers</i><br><small>#564 · lesson 73</small>	Spanish1000::week13 Spanish1000::lesson073
+<b>ayudar</b><br><i>¿te ayudo?</i>	to help<br><i>can I help you?</i><br><small>#565 · lesson 73</small>	Spanish1000::week13 Spanish1000::lesson073
+<b>color</b><br><i>¿de qué color?</i>	color<br><i>what color?</i><br><small>#566 · lesson 73</small>	Spanish1000::week13 Spanish1000::lesson073
+<b>pasado</b><br><i>en el pasado</i>	the past (noun)<br><i>in the past</i><br><small>#567 · lesson 73</small>	Spanish1000::week13 Spanish1000::lesson073
+<b>lista</b><br><i>la lista de compras</i>	list; ready (estar lista)<br><i>the shopping list</i><br><small>#568 · lesson 73</small>	Spanish1000::week13 Spanish1000::lesson073
+<b>famoso</b><br><i>una persona famosa</i>	famous<br><i>a famous person</i><br><small>#569 · lesson 73</small>	Spanish1000::week13 Spanish1000::lesson073
+<b>falta</b><br><i>hace falta</i>	lack; mistake<br><i>it&#x27;s needed</i><br><small>#570 · lesson 73</small>	Spanish1000::week13 Spanish1000::lesson073
+<b>joven</b><br><i>una mujer joven</i>	young (adjective)<br><i>a young woman</i><br><small>#768 · lesson 73</small>	Spanish1000::week13 Spanish1000::lesson073
+<b>colegio</b><br><i>ir al colegio</i>	school (K–12)<br><i>to go to school</i><br><small>#804 · lesson 73</small>	Spanish1000::week13 Spanish1000::lesson073
+<b>escuela</b><br><i>la escuela</i>	school<br><i>school</i><br><small>#898 · lesson 73</small>	Spanish1000::week13 Spanish1000::lesson073
+<b>ocasión</b><br><i>en esta ocasión</i>	occasion<br><i>this time</i><br><small>#571 · lesson 74</small>	Spanish1000::week13 Spanish1000::lesson074
+<b>premio</b><br><i>ganar un premio</i>	prize, award<br><i>to win a prize</i><br><small>#573 · lesson 74</small>	Spanish1000::week13 Spanish1000::lesson074
+<b>visita</b><br><i>una visita corta</i>	visit<br><i>a short visit</i><br><small>#574 · lesson 74</small>	Spanish1000::week13 Spanish1000::lesson074
+<b>tu</b><br><i>tu casa</i>	your (informal)<br><i>your house</i><br><small>#575 · lesson 74</small>	Spanish1000::week13 Spanish1000::lesson074
+<b>dedo</b><br><i>el dedo</i>	finger, toe<br><i>the finger</i><br><small>#576 · lesson 74</small>	Spanish1000::week13 Spanish1000::lesson074
+<b>quince</b><br><i>quince minutos</i>	fifteen<br><i>fifteen minutes</i><br><small>#577 · lesson 74</small>	Spanish1000::week13 Spanish1000::lesson074
+<b>demostrar</b><br><i>demostrar algo</i>	to show, to prove<br><i>to prove something</i><br><small>#578 · lesson 74</small>	Spanish1000::week13 Spanish1000::lesson074
+<b>existencia</b><br><i>la existencia</i>	existence<br><i>existence</i><br><small>#580 · lesson 74</small>	Spanish1000::week13 Spanish1000::lesson074
+<b>mente</b><br><i>en mente</i>	mind<br><i>in mind</i><br><small>#581 · lesson 74</small>	Spanish1000::week13 Spanish1000::lesson074
+<b>mayoría</b><br><i>la mayoría de la gente</i>	majority, most<br><i>most people</i><br><small>#582 · lesson 74</small>	Spanish1000::week13 Spanish1000::lesson074
+<b>conocimiento</b><br><i>el conocimiento</i>	knowledge<br><i>knowledge</i><br><small>#583 · lesson 75</small>	Spanish1000::week13 Spanish1000::lesson075
+<b>examen</b><br><i>un examen difícil</i>	exam, test<br><i>a hard exam</i><br><small>#584 · lesson 75</small>	Spanish1000::week13 Spanish1000::lesson075
+<b>teléfono</b><br><i>por teléfono</i>	phone<br><i>on the phone</i><br><small>#585 · lesson 75</small>	Spanish1000::week13 Spanish1000::lesson075
+<b>mío</b><br><i>es mío</i>	mine<br><i>it&#x27;s mine</i><br><small>#587 · lesson 75</small>	Spanish1000::week13 Spanish1000::lesson075
+<b>acto</b><br><i>un acto de amor</i>	act, event<br><i>an act of love</i><br><small>#588 · lesson 75</small>	Spanish1000::week13 Spanish1000::lesson075
+<b>rama</b><br><i>una rama del árbol</i>	branch<br><i>a tree branch</i><br><small>#589 · lesson 75</small>	Spanish1000::week13 Spanish1000::lesson075
+<b>libre</b><br><i>tiempo libre</i>	free (not busy); available<br><i>free time</i><br><small>#590 · lesson 75</small>	Spanish1000::week13 Spanish1000::lesson075
+<b>recoger</b><br><i>recoger a los niños</i>	to pick up, to collect<br><i>to pick up the kids</i><br><small>#591 · lesson 75</small>	Spanish1000::week13 Spanish1000::lesson075
+<b>inmediato</b><br><i>de inmediato</i>	immediate<br><i>right away</i><br><small>#592 · lesson 75</small>	Spanish1000::week13 Spanish1000::lesson075
+<b>cuento</b><br><i>un cuento para niños</i>	story, tale<br><i>a children&#x27;s story</i><br><small>#730 · lesson 75</small>	Spanish1000::week13 Spanish1000::lesson075
+<b>nivel</b><br><i>nivel principiante</i>	level<br><i>beginner level</i><br><small>#593 · lesson 76</small>	Spanish1000::week13 Spanish1000::lesson076
+<b>ciencia</b><br><i>ciencia ficción</i>	science<br><i>science fiction</i><br><small>#594 · lesson 76</small>	Spanish1000::week13 Spanish1000::lesson076
+<b>ayuda</b><br><i>necesito ayuda</i>	help<br><i>I need help</i><br><small>#595 · lesson 76</small>	Spanish1000::week13 Spanish1000::lesson076
+<b>ambiente</b><br><i>el medio ambiente</i>	atmosphere, environment<br><i>the environment</i><br><small>#596 · lesson 76</small>	Spanish1000::week13 Spanish1000::lesson076
+<b>imponer</b><br><i>imponer reglas</i>	to impose<br><i>to impose rules</i><br><small>#597 · lesson 76</small>	Spanish1000::week13 Spanish1000::lesson076
+<b>alemán</b><br><i>hablo alemán</i>	German<br><i>I speak German</i><br><small>#598 · lesson 76</small>	Spanish1000::week13 Spanish1000::lesson076
+<b>casar</b><br><i>se casaron</i>	to marry; casarse = to get married<br><i>they got married</i><br><small>#599 · lesson 76</small>	Spanish1000::week13 Spanish1000::lesson076
+<b>masa</b><br><i>la masa</i>	mass; dough<br><i>the dough</i><br><small>#600 · lesson 76</small>	Spanish1000::week13 Spanish1000::lesson076
+<b>clásico</b><br><i>música clásica</i>	classic<br><i>classical music</i><br><small>#601 · lesson 76</small>	Spanish1000::week13 Spanish1000::lesson076
+<b>futuro</b><br><i>en el futuro</i>	future<br><i>in the future</i><br><small>#602 · lesson 76</small>	Spanish1000::week13 Spanish1000::lesson076
+<b>loco</b><br><i>¿estás loco?</i>	crazy<br><i>are you crazy?</i><br><small>#603 · lesson 77</small>	Spanish1000::week13 Spanish1000::lesson077
+<b>atención</b><br><i>presta atención</i>	attention<br><i>pay attention</i><br><small>#604 · lesson 77</small>	Spanish1000::week13 Spanish1000::lesson077
+<b>pegar</b><br><i>pegar una foto</i>	to stick; to hit<br><i>to stick on a photo</i><br><small>#605 · lesson 77</small>	Spanish1000::week13 Spanish1000::lesson077
+<b>capacidad</b><br><i>la capacidad</i>	capacity, ability<br><i>the ability</i><br><small>#607 · lesson 77</small>	Spanish1000::week13 Spanish1000::lesson077
+<b>ambos</b><br><i>ambos lados</i>	both<br><i>both sides</i><br><small>#608 · lesson 77</small>	Spanish1000::week13 Spanish1000::lesson077
+<b>concreto</b><br><i>en concreto</i>	specific, concrete<br><i>specifically</i><br><small>#609 · lesson 77</small>	Spanish1000::week13 Spanish1000::lesson077
+<b>ocupar</b><br><i>ocupar mucho espacio</i>	to occupy, to take up<br><i>to take up a lot of space</i><br><small>#610 · lesson 77</small>	Spanish1000::week13 Spanish1000::lesson077
+<b>entrada</b><br><i>la entrada</i>	entrance; ticket<br><i>the entrance / the ticket</i><br><small>#611 · lesson 77</small>	Spanish1000::week13 Spanish1000::lesson077
+<b>objetivo</b><br><i>mi objetivo</i>	goal, objective<br><i>my goal</i><br><small>#613 · lesson 77</small>	Spanish1000::week13 Spanish1000::lesson077
+<b>disposición</b><br><i>a tu disposición</i>	disposal, arrangement<br><i>at your service</i><br><small>#614 · lesson 77</small>	Spanish1000::week13 Spanish1000::lesson077
+<b>entregar</b><br><i>entregar la tarea</i>	to hand in, to deliver<br><i>to hand in the homework</i><br><small>#615 · lesson 79</small>	Spanish1000::week14 Spanish1000::lesson079
+<b>teatro</b><br><i>ir al teatro</i>	theater<br><i>to go to the theater</i><br><small>#616 · lesson 79</small>	Spanish1000::week14 Spanish1000::lesson079
+<b>volumen</b><br><i>baja el volumen</i>	volume<br><i>turn the volume down</i><br><small>#618 · lesson 79</small>	Spanish1000::week14 Spanish1000::lesson079
+<b>francés</b><br><i>pan francés</i>	French<br><i>French bread</i><br><small>#619 · lesson 79</small>	Spanish1000::week14 Spanish1000::lesson079
+<b>cerca</b><br><i>cerca de aquí</i>	near, close<br><i>near here</i><br><small>#620 · lesson 79</small>	Spanish1000::week14 Spanish1000::lesson079
+<b>experiencia</b><br><i>tengo experiencia</i>	experience<br><i>I have experience</i><br><small>#622 · lesson 79</small>	Spanish1000::week14 Spanish1000::lesson079
+<b>pintura</b><br><i>una pintura bonita</i>	painting; paint<br><i>a beautiful painting</i><br><small>#624 · lesson 79</small>	Spanish1000::week14 Spanish1000::lesson079
+<b>precisamente</b><br><i>precisamente por eso</i>	precisely, exactly<br><i>that&#x27;s exactly why</i><br><small>#625 · lesson 79</small>	Spanish1000::week14 Spanish1000::lesson079
+<b>determinar</b><br><i>determinar la causa</i>	to determine<br><i>to find the cause</i><br><small>#626 · lesson 79</small>	Spanish1000::week14 Spanish1000::lesson079
+<b>descansar</b><br><i>necesito descansar</i>	to rest<br><i>I need to rest</i><br><small>#675 · lesson 79</small>	Spanish1000::week14 Spanish1000::lesson079
+<b>materia</b><br><i>una materia difícil</i>	subject, matter<br><i>a hard subject</i><br><small>#627 · lesson 80</small>	Spanish1000::week14 Spanish1000::lesson080
+<b>televisión</b><br><i>ver la televisión</i>	television<br><i>to watch television</i><br><small>#628 · lesson 80</small>	Spanish1000::week14 Spanish1000::lesson080
+<b>autoridad</b><br><i>las autoridades</i>	authority<br><i>the authorities</i><br><small>#629 · lesson 80</small>	Spanish1000::week14 Spanish1000::lesson080
+<b>hogar</b><br><i>dulce hogar</i>	home<br><i>sweet home</i><br><small>#630 · lesson 80</small>	Spanish1000::week14 Spanish1000::lesson080
+<b>norteamericano</b><br><i>un turista norteamericano</i>	North American, American<br><i>an American tourist</i><br><small>#631 · lesson 80</small>	Spanish1000::week14 Spanish1000::lesson080
+<b>material</b><br><i>material escolar</i>	material<br><i>school supplies</i><br><small>#632 · lesson 80</small>	Spanish1000::week14 Spanish1000::lesson080
+<b>pintar</b><br><i>pintar la casa</i>	to paint<br><i>to paint the house</i><br><small>#634 · lesson 80</small>	Spanish1000::week14 Spanish1000::lesson080
+<b>energía</b><br><i>no tengo energía</i>	energy<br><i>I have no energy</i><br><small>#635 · lesson 80</small>	Spanish1000::week14 Spanish1000::lesson080
+<b>recuerdo</b><br><i>un buen recuerdo</i>	memory; souvenir<br><i>a good memory</i><br><small>#636 · lesson 80</small>	Spanish1000::week14 Spanish1000::lesson080
+<b>conservar</b><br><i>conservar la calma</i>	to keep, to preserve<br><i>to keep calm</i><br><small>#637 · lesson 80</small>	Spanish1000::week14 Spanish1000::lesson080
+<b>meter</b><br><i>meter en la bolsa</i>	to put in<br><i>to put in the bag</i><br><small>#638 · lesson 81</small>	Spanish1000::week14 Spanish1000::lesson081
+<b>santa</b><br><i>Santa Ana</i>	saint (fem.)<br><i>Saint Anne</i><br><small>#639 · lesson 81</small>	Spanish1000::week14 Spanish1000::lesson081
+<b>común</b><br><i>en común</i>	common<br><i>in common</i><br><small>#640 · lesson 81</small>	Spanish1000::week14 Spanish1000::lesson081
+<b>discutir</b><br><i>discutir con alguien</i>	to argue, to discuss<br><i>to argue with someone</i><br><small>#642 · lesson 81</small>	Spanish1000::week14 Spanish1000::lesson081
+<b>pasión</b><br><i>con pasión</i>	passion<br><i>with passion</i><br><small>#643 · lesson 81</small>	Spanish1000::week14 Spanish1000::lesson081
+<b>alma</b><br><i>alma gemela</i>	soul<br><i>soulmate</i><br><small>#645 · lesson 81</small>	Spanish1000::week14 Spanish1000::lesson081
+<b>teoría</b><br><i>en teoría</i>	theory<br><i>in theory</i><br><small>#646 · lesson 81</small>	Spanish1000::week14 Spanish1000::lesson081
+<b>temer</b><br><i>temo que no</i>	to fear<br><i>I&#x27;m afraid not</i><br><small>#647 · lesson 81</small>	Spanish1000::week14 Spanish1000::lesson081
+<b>artista</b><br><i>un artista famoso</i>	artist<br><i>a famous artist</i><br><small>#648 · lesson 81</small>	Spanish1000::week14 Spanish1000::lesson081
+<b>muerto</b><br><i>está muerto</i>	dead<br><i>it&#x27;s dead</i><br><small>#816 · lesson 81</small>	Spanish1000::week14 Spanish1000::lesson081
+<b>junto</b><br><i>vamos juntos</i>	together (juntos)<br><i>let&#x27;s go together</i><br><small>#649 · lesson 82</small>	Spanish1000::week14 Spanish1000::lesson082
+<b>fecha</b><br><i>¿qué fecha es hoy?</i>	date<br><i>what&#x27;s the date today?</i><br><small>#650 · lesson 82</small>	Spanish1000::week14 Spanish1000::lesson082
+<b>sufrir</b><br><i>sufrir mucho</i>	to suffer<br><i>to suffer a lot</i><br><small>#651 · lesson 82</small>	Spanish1000::week14 Spanish1000::lesson082
+<b>cielo</b><br><i>el cielo azul</i>	sky; heaven<br><i>the blue sky</i><br><small>#652 · lesson 82</small>	Spanish1000::week14 Spanish1000::lesson082
+<b>temor</b><br><i>sin temor</i>	fear (formal)<br><i>without fear</i><br><small>#653 · lesson 82</small>	Spanish1000::week14 Spanish1000::lesson082
+<b>jefe</b><br><i>mi jefe</i>	boss<br><i>my boss</i><br><small>#654 · lesson 82</small>	Spanish1000::week14 Spanish1000::lesson082
+<b>capítulo</b><br><i>el primer capítulo</i>	chapter<br><i>the first chapter</i><br><small>#655 · lesson 82</small>	Spanish1000::week14 Spanish1000::lesson082
+<b>profesional</b><br><i>un jugador profesional</i>	professional<br><i>a pro player</i><br><small>#656 · lesson 82</small>	Spanish1000::week14 Spanish1000::lesson082
+<b>techo</b><br><i>bajo el mismo techo</i>	roof<br><i>under the same roof</i><br><small>#657 · lesson 82</small>	Spanish1000::week14 Spanish1000::lesson082
+<b>presencia</b><br><i>en presencia de</i>	presence<br><i>in front of</i><br><small>#658 · lesson 82</small>	Spanish1000::week14 Spanish1000::lesson082
+<b>separar</b><br><i>separar la basura</i>	to separate<br><i>to sort the trash</i><br><small>#659 · lesson 83</small>	Spanish1000::week14 Spanish1000::lesson083
+<b>decisión</b><br><i>tomar una decisión</i>	decision<br><i>to make a decision</i><br><small>#660 · lesson 83</small>	Spanish1000::week14 Spanish1000::lesson083
+<b>absolutamente</b><br><i>absolutamente nada</i>	absolutely<br><i>absolutely nothing</i><br><small>#661 · lesson 83</small>	Spanish1000::week14 Spanish1000::lesson083
+<b>echar</b><br><i>te echo de menos</i>	to throw; echar de menos = to miss<br><i>I miss you</i><br><small>#662 · lesson 83</small>	Spanish1000::week14 Spanish1000::lesson083
+<b>nacional</b><br><i>nivel nacional</i>	national<br><i>national level</i><br><small>#663 · lesson 83</small>	Spanish1000::week14 Spanish1000::lesson083
+<b>objeto</b><br><i>un objeto raro</i>	object<br><i>a strange object</i><br><small>#664 · lesson 83</small>	Spanish1000::week14 Spanish1000::lesson083
+<b>autor</b><br><i>el autor del libro</i>	author<br><i>the book&#x27;s author</i><br><small>#665 · lesson 83</small>	Spanish1000::week14 Spanish1000::lesson083
+<b>aspecto</b><br><i>tiene buen aspecto</i>	aspect; look<br><i>it looks good</i><br><small>#666 · lesson 83</small>	Spanish1000::week14 Spanish1000::lesson083
+<b>seguramente</b><br><i>seguramente llueve</i>	surely, probably<br><i>it&#x27;ll probably rain</i><br><small>#667 · lesson 83</small>	Spanish1000::week14 Spanish1000::lesson083
+<b>resistir</b><br><i>no puedo resistir</i>	to resist, to withstand<br><i>I can&#x27;t resist</i><br><small>#668 · lesson 83</small>	Spanish1000::week14 Spanish1000::lesson083
+<b>responder</b><br><i>responder rápido</i>	to answer, to respond<br><i>to answer quickly</i><br><small>#669 · lesson 85</small>	Spanish1000::week15 Spanish1000::lesson085
+<b>encima</b><br><i>encima de la mesa</i>	on top; encima de = on top of<br><i>on the table</i><br><small>#670 · lesson 85</small>	Spanish1000::week15 Spanish1000::lesson085
+<b>acercar</b><br><i>acércate</i>	to bring closer; acercarse = to approach<br><i>come closer</i><br><small>#671 · lesson 85</small>	Spanish1000::week15 Spanish1000::lesson085
+<b>preparar</b><br><i>preparar la cena</i>	to prepare<br><i>to make dinner</i><br><small>#672 · lesson 85</small>	Spanish1000::week15 Spanish1000::lesson085
+<b>citar</b><br><i>tengo una cita</i>	to quote; to make an appointment<br><i>I have an appointment</i><br><small>#673 · lesson 85</small>	Spanish1000::week15 Spanish1000::lesson085
+<b>extender</b><br><i>extender la mano</i>	to extend, to spread<br><i>to hold out your hand</i><br><small>#674 · lesson 85</small>	Spanish1000::week15 Spanish1000::lesson085
+<b>asunto</b><br><i>no es asunto tuyo</i>	matter, issue<br><i>it&#x27;s none of your business</i><br><small>#676 · lesson 85</small>	Spanish1000::week15 Spanish1000::lesson085
+<b>pronto</b><br><i>hasta pronto</i>	soon<br><i>see you soon</i><br><small>#682 · lesson 85</small>	Spanish1000::week15 Spanish1000::lesson085
+<b>futuro</b><br><i>mi futura esposa</i>	future (second listing: as an adjective)<br><i>my future wife</i><br><small>#694 · lesson 85</small>	Spanish1000::week15 Spanish1000::lesson085
+<b>próximo</b><br><i>la próxima vez</i>	next<br><i>next time</i><br><small>#724 · lesson 85</small>	Spanish1000::week15 Spanish1000::lesson085
+<b>fundamental</b><br><i>es fundamental</i>	fundamental, essential<br><i>it&#x27;s essential</i><br><small>#677 · lesson 86</small>	Spanish1000::week15 Spanish1000::lesson086
+<b>facilidad</b><br><i>con facilidad</i>	ease<br><i>easily</i><br><small>#678 · lesson 86</small>	Spanish1000::week15 Spanish1000::lesson086
+<b>empleado</b><br><i>un empleado nuevo</i>	employee<br><i>a new employee</i><br><small>#681 · lesson 86</small>	Spanish1000::week15 Spanish1000::lesson086
+<b>concepto</b><br><i>el concepto</i>	concept<br><i>the concept</i><br><small>#683 · lesson 86</small>	Spanish1000::week15 Spanish1000::lesson086
+<b>grave</b><br><i>nada grave</i>	serious<br><i>nothing serious</i><br><small>#684 · lesson 86</small>	Spanish1000::week15 Spanish1000::lesson086
+<b>retirar</b><br><i>retirar dinero</i>	to withdraw, to remove<br><i>to withdraw money</i><br><small>#685 · lesson 86</small>	Spanish1000::week15 Spanish1000::lesson086
+<b>establecer</b><br><i>establecer reglas</i>	to establish<br><i>to set rules</i><br><small>#686 · lesson 86</small>	Spanish1000::week15 Spanish1000::lesson086
+<b>adquirir</b><br><i>adquirir experiencia</i>	to acquire<br><i>to gain experience</i><br><small>#687 · lesson 86</small>	Spanish1000::week15 Spanish1000::lesson086
+<b>mencionar</b><br><i>como mencioné</i>	to mention<br><i>as I mentioned</i><br><small>#689 · lesson 86</small>	Spanish1000::week15 Spanish1000::lesson086
+<b>práctica</b><br><i>en la práctica</i>	practice<br><i>in practice</i><br><small>#690 · lesson 86</small>	Spanish1000::week15 Spanish1000::lesson086
+<b>publicar</b><br><i>publicar un libro</i>	to publish<br><i>to publish a book</i><br><small>#691 · lesson 87</small>	Spanish1000::week15 Spanish1000::lesson087
+<b>idioma</b><br><i>¿cuántos idiomas hablas?</i>	language<br><i>how many languages do you speak?</i><br><small>#692 · lesson 87</small>	Spanish1000::week15 Spanish1000::lesson087
+<b>aprovechar</b><br><i>aprovecha el día</i>	to take advantage of, to make the most of<br><i>make the most of the day</i><br><small>#693 · lesson 87</small>	Spanish1000::week15 Spanish1000::lesson087
+<b>conclusión</b><br><i>en conclusión</i>	conclusion<br><i>in conclusion</i><br><small>#695 · lesson 87</small>	Spanish1000::week15 Spanish1000::lesson087
+<b>vehículo</b><br><i>un vehículo</i>	vehicle<br><i>a vehicle</i><br><small>#696 · lesson 87</small>	Spanish1000::week15 Spanish1000::lesson087
+<b>militar</b><br><i>servicio militar</i>	military<br><i>military service</i><br><small>#697 · lesson 87</small>	Spanish1000::week15 Spanish1000::lesson087
+<b>compañía</b><br><i>en compañía de</i>	company (being with others; a firm)<br><i>in the company of</i><br><small>#698 · lesson 87</small>	Spanish1000::week15 Spanish1000::lesson087
+<b>curso</b><br><i>un curso de español</i>	course; school year<br><i>a Spanish course</i><br><small>#699 · lesson 87</small>	Spanish1000::week15 Spanish1000::lesson087
+<b>marcar</b><br><i>marcar un gol</i>	to mark; to dial; to score<br><i>to score a goal</i><br><small>#701 · lesson 87</small>	Spanish1000::week15 Spanish1000::lesson087
+<b>comentario</b><br><i>un comentario</i>	comment<br><i>a comment</i><br><small>#702 · lesson 87</small>	Spanish1000::week15 Spanish1000::lesson087
+<b>vivo</b><br><i>está vivo</i>	alive; lively<br><i>he&#x27;s alive</i><br><small>#703 · lesson 88</small>	Spanish1000::week15 Spanish1000::lesson088
+<b>lucha</b><br><i>la lucha</i>	fight, struggle<br><i>the fight</i><br><small>#704 · lesson 88</small>	Spanish1000::week15 Spanish1000::lesson088
+<b>daño</b><br><i>hacer daño</i>	harm, damage<br><i>to hurt</i><br><small>#705 · lesson 88</small>	Spanish1000::week15 Spanish1000::lesson088
+<b>intento</b><br><i>en el primer intento</i>	attempt<br><i>on the first try</i><br><small>#706 · lesson 88</small>	Spanish1000::week15 Spanish1000::lesson088
+<b>piso</b><br><i>el tercer piso</i>	floor (of a building); apartment (Spain)<br><i>the third floor</i><br><small>#708 · lesson 88</small>	Spanish1000::week15 Spanish1000::lesson088
+<b>gesto</b><br><i>un gesto amable</i>	gesture<br><i>a kind gesture</i><br><small>#709 · lesson 88</small>	Spanish1000::week15 Spanish1000::lesson088
+<b>derecho</b><br><i>sigue todo derecho</i>	straight (todo derecho)<br><i>go straight ahead</i><br><small>#710 · lesson 88</small>	Spanish1000::week15 Spanish1000::lesson088
+<b>actual</b><br><i>la situación actual</i>	current, present-day<br><i>the current situation</i><br><small>#711 · lesson 88</small>	Spanish1000::week15 Spanish1000::lesson088
+<b>economía</b><br><i>la economía</i>	economy<br><i>the economy</i><br><small>#713 · lesson 88</small>	Spanish1000::week15 Spanish1000::lesson088
+<b>introducir</b><br><i>introducir la tarjeta</i>	to introduce, to insert<br><i>insert the card</i><br><small>#714 · lesson 88</small>	Spanish1000::week15 Spanish1000::lesson088
+<b>totalmente</b><br><i>totalmente de acuerdo</i>	totally, completely<br><i>totally agree</i><br><small>#715 · lesson 89</small>	Spanish1000::week15 Spanish1000::lesson089
+<b>posición</b><br><i>en esta posición</i>	position<br><i>in this position</i><br><small>#717 · lesson 89</small>	Spanish1000::week15 Spanish1000::lesson089
+<b>lejos</b><br><i>lejos de aquí</i>	far<br><i>far from here</i><br><small>#718 · lesson 89</small>	Spanish1000::week15 Spanish1000::lesson089
+<b>conciencia</b><br><i>tener conciencia</i>	awareness; conscience<br><i>to be aware</i><br><small>#720 · lesson 89</small>	Spanish1000::week15 Spanish1000::lesson089
+<b>aplicar</b><br><i>aplicar la regla</i>	to apply<br><i>to apply the rule</i><br><small>#721 · lesson 89</small>	Spanish1000::week15 Spanish1000::lesson089
+<b>bajar</b><br><i>bajar del autobús</i>	to go down, to get off; to lower<br><i>to get off the bus</i><br><small>#722 · lesson 89</small>	Spanish1000::week15 Spanish1000::lesson089
+<b>consejo</b><br><i>un buen consejo</i>	advice<br><i>good advice</i><br><small>#723 · lesson 89</small>	Spanish1000::week15 Spanish1000::lesson089
+<b>piedra</b><br><i>una piedra</i>	stone, rock<br><i>a stone</i><br><small>#725 · lesson 89</small>	Spanish1000::week15 Spanish1000::lesson089
+<b>médico</b><br><i>el médico</i>	doctor<br><i>the doctor</i><br><small>#726 · lesson 89</small>	Spanish1000::week15 Spanish1000::lesson089
+<b>director</b><br><i>el director de la escuela</i>	director, manager<br><i>the school principal</i><br><small>#727 · lesson 89</small>	Spanish1000::week15 Spanish1000::lesson089
+<b>recuperar</b><br><i>recuperar el tiempo</i>	to recover, to get back<br><i>to make up for lost time</i><br><small>#728 · lesson 91</small>	Spanish1000::week16 Spanish1000::lesson091
+<b>principal</b><br><i>la calle principal</i>	main<br><i>the main street</i><br><small>#729 · lesson 91</small>	Spanish1000::week16 Spanish1000::lesson091
+<b>mirada</b><br><i>una mirada</i>	look, glance<br><i>a look</i><br><small>#731 · lesson 91</small>	Spanish1000::week16 Spanish1000::lesson091
+<b>duro</b><br><i>un día duro</i>	hard; tough<br><i>a tough day</i><br><small>#733 · lesson 91</small>	Spanish1000::week16 Spanish1000::lesson091
+<b>información</b><br><i>más información</i>	information<br><i>more information</i><br><small>#734 · lesson 91</small>	Spanish1000::week16 Spanish1000::lesson091
+<b>espíritu</b><br><i>espíritu navideño</i>	spirit<br><i>Christmas spirit</i><br><small>#735 · lesson 91</small>	Spanish1000::week16 Spanish1000::lesson091
+<b>artículo</b><br><i>un artículo</i>	article<br><i>an article</i><br><small>#736 · lesson 91</small>	Spanish1000::week16 Spanish1000::lesson091
+<b>trasladar</b><br><i>trasladarse a otra ciudad</i>	to move, to transfer<br><i>to move to another city</i><br><small>#737 · lesson 91</small>	Spanish1000::week16 Spanish1000::lesson091
+<b>positivo</b><br><i>una actitud positiva</i>	positive<br><i>a positive attitude</i><br><small>#739 · lesson 91</small>	Spanish1000::week16 Spanish1000::lesson091
+<b>expresión</b><br><i>una expresión común</i>	expression<br><i>a common expression</i><br><small>#740 · lesson 91</small>	Spanish1000::week16 Spanish1000::lesson091
+<b>exponer</b><br><i>exponer una idea</i>	to expose; to present<br><i>to present an idea</i><br><small>#741 · lesson 92</small>	Spanish1000::week16 Spanish1000::lesson092
+<b>letra</b><br><i>la letra de la canción</i>	letter (of the alphabet); lyrics<br><i>the song lyrics</i><br><small>#742 · lesson 92</small>	Spanish1000::week16 Spanish1000::lesson092
+<b>partida</b><br><i>una partida de ajedrez</i>	departure; game (cards, chess)<br><i>a game of chess</i><br><small>#743 · lesson 92</small>	Spanish1000::week16 Spanish1000::lesson092
+<b>sencillo</b><br><i>es sencillo</i>	simple, easy<br><i>it&#x27;s simple</i><br><small>#744 · lesson 92</small>	Spanish1000::week16 Spanish1000::lesson092
+<b>apenas</b><br><i>apenas puedo</i>	barely, hardly<br><i>I can barely</i><br><small>#745 · lesson 92</small>	Spanish1000::week16 Spanish1000::lesson092
+<b>estilo</b><br><i>tiene estilo</i>	style<br><i>it&#x27;s stylish</i><br><small>#746 · lesson 92</small>	Spanish1000::week16 Spanish1000::lesson092
+<b>perfecto</b><br><i>¡perfecto!</i>	perfect<br><i>perfect!</i><br><small>#747 · lesson 92</small>	Spanish1000::week16 Spanish1000::lesson092
+<b>vuelta</b><br><i>dar una vuelta</i>	return; turn; walk around<br><i>to go for a walk/ride</i><br><small>#748 · lesson 92</small>	Spanish1000::week16 Spanish1000::lesson092
+<b>excepción</b><br><i>sin excepción</i>	exception<br><i>without exception</i><br><small>#749 · lesson 92</small>	Spanish1000::week16 Spanish1000::lesson092
+<b>control</b><br><i>bajo control</i>	control<br><i>under control</i><br><small>#750 · lesson 92</small>	Spanish1000::week16 Spanish1000::lesson092
+<b>esperanza</b><br><i>hay esperanza</i>	hope<br><i>there&#x27;s hope</i><br><small>#751 · lesson 93</small>	Spanish1000::week16 Spanish1000::lesson093
+<b>superior</b><br><i>el piso superior</i>	upper, higher, superior<br><i>the top floor</i><br><small>#752 · lesson 93</small>	Spanish1000::week16 Spanish1000::lesson093
+<b>habitación</b><br><i>una habitación doble</i>	room, bedroom<br><i>a double room</i><br><small>#753 · lesson 93</small>	Spanish1000::week16 Spanish1000::lesson093
+<b>manejar</b><br><i>manejar al trabajo</i>	to drive (Latin America); to handle<br><i>to drive to work</i><br><small>#754 · lesson 93</small>	Spanish1000::week16 Spanish1000::lesson093
+<b>representar</b><br><i>representar a su país</i>	to represent<br><i>to represent their country</i><br><small>#755 · lesson 93</small>	Spanish1000::week16 Spanish1000::lesson093
+<b>causa</b><br><i>a causa de la lluvia</i>	cause; a causa de = because of<br><i>because of the rain</i><br><small>#756 · lesson 93</small>	Spanish1000::week16 Spanish1000::lesson093
+<b>semejante</b><br><i>algo semejante</i>	similar, such<br><i>something similar</i><br><small>#757 · lesson 93</small>	Spanish1000::week16 Spanish1000::lesson093
+<b>alrededor</b><br><i>alrededor del mundo</i>	around<br><i>around the world</i><br><small>#758 · lesson 93</small>	Spanish1000::week16 Spanish1000::lesson093
+<b>prestar</b><br><i>¿me prestas tu lápiz?</i>	to lend<br><i>can you lend me your pencil?</i><br><small>#787 · lesson 93</small>	Spanish1000::week16 Spanish1000::lesson093
+<b>mandar</b><br><i>mandar un mensaje</i>	to send; to order<br><i>to send a message</i><br><small>#894 · lesson 93</small>	Spanish1000::week16 Spanish1000::lesson093
+<b>profesor</b><br><i>mi profesor de español</i>	teacher, professor<br><i>my Spanish teacher</i><br><small>#759 · lesson 94</small>	Spanish1000::week16 Spanish1000::lesson094
+<b>siquiera</b><br><i>ni siquiera lo sé</i>	ni siquiera = not even<br><i>I don&#x27;t even know</i><br><small>#760 · lesson 94</small>	Spanish1000::week16 Spanish1000::lesson094
+<b>acompañar</b><br><i>te acompaño</i>	to go with, to accompany<br><i>I&#x27;ll go with you</i><br><small>#761 · lesson 94</small>	Spanish1000::week16 Spanish1000::lesson094
+<b>labor</b><br><i>labores de la casa</i>	work, task<br><i>housework</i><br><small>#762 · lesson 94</small>	Spanish1000::week16 Spanish1000::lesson094
+<b>trabajador</b><br><i>es muy trabajador</i>	worker; hardworking<br><i>he&#x27;s very hardworking</i><br><small>#763 · lesson 94</small>	Spanish1000::week16 Spanish1000::lesson094
+<b>carácter</b><br><i>tiene mal carácter</i>	character, personality<br><i>he&#x27;s bad-tempered</i><br><small>#764 · lesson 94</small>	Spanish1000::week16 Spanish1000::lesson094
+<b>operar</b><br><i>operar una máquina</i>	to operate<br><i>to operate a machine</i><br><small>#766 · lesson 94</small>	Spanish1000::week16 Spanish1000::lesson094
+<b>obstante</b><br><i>no obstante, seguimos</i>	no obstante = nevertheless<br><i>nevertheless, we continue</i><br><small>#767 · lesson 94</small>	Spanish1000::week16 Spanish1000::lesson094
+<b>sexo</b><br><i>el sexo</i>	sex; gender<br><i>sex</i><br><small>#769 · lesson 94</small>	Spanish1000::week16 Spanish1000::lesson094
+<b>documento</b><br><i>un documento</i>	document<br><i>a document</i><br><small>#770 · lesson 94</small>	Spanish1000::week16 Spanish1000::lesson094
+<b>motivo</b><br><i>¿cuál es el motivo?</i>	reason, motive<br><i>what&#x27;s the reason?</i><br><small>#771 · lesson 95</small>	Spanish1000::week16 Spanish1000::lesson095
+<b>construir</b><br><i>construir una casa</i>	to build<br><i>to build a house</i><br><small>#772 · lesson 95</small>	Spanish1000::week16 Spanish1000::lesson095
+<b>opinión</b><br><i>en mi opinión</i>	opinion<br><i>in my opinion</i><br><small>#773 · lesson 95</small>	Spanish1000::week16 Spanish1000::lesson095
+<b>dominar</b><br><i>dominar el español</i>	to master, to dominate<br><i>to master Spanish</i><br><small>#774 · lesson 95</small>	Spanish1000::week16 Spanish1000::lesson095
+<b>oscuro</b><br><i>está oscuro</i>	dark<br><i>it&#x27;s dark</i><br><small>#775 · lesson 95</small>	Spanish1000::week16 Spanish1000::lesson095
+<b>acordar</b><br><i>no me acuerdo</i>	to agree; acordarse de = to remember<br><i>I don&#x27;t remember</i><br><small>#776 · lesson 95</small>	Spanish1000::week16 Spanish1000::lesson095
+<b>cadena</b><br><i>una cadena de tiendas</i>	chain; channel (TV)<br><i>a chain of stores</i><br><small>#779 · lesson 95</small>	Spanish1000::week16 Spanish1000::lesson095
+<b>tras</b><br><i>día tras día</i>	after, behind<br><i>day after day</i><br><small>#780 · lesson 95</small>	Spanish1000::week16 Spanish1000::lesson095
+<b>repartir</b><br><i>repartir las cartas</i>	to hand out, to deliver<br><i>to deal the cards</i><br><small>#781 · lesson 95</small>	Spanish1000::week16 Spanish1000::lesson095
+<b>fenómeno</b><br><i>un fenómeno</i>	phenomenon<br><i>a phenomenon</i><br><small>#782 · lesson 95</small>	Spanish1000::week16 Spanish1000::lesson095
+<b>proceso</b><br><i>el proceso</i>	process<br><i>the process</i><br><small>#783 · lesson 97</small>	Spanish1000::week17 Spanish1000::lesson097
+<b>desarrollo</b><br><i>en desarrollo</i>	development<br><i>developing</i><br><small>#784 · lesson 97</small>	Spanish1000::week17 Spanish1000::lesson097
+<b>contacto</b><br><i>en contacto</i>	contact<br><i>in touch</i><br><small>#785 · lesson 97</small>	Spanish1000::week17 Spanish1000::lesson097
+<b>dudar</b><br><i>lo dudo</i>	to doubt<br><i>I doubt it</i><br><small>#786 · lesson 97</small>	Spanish1000::week17 Spanish1000::lesson097
+<b>guardar</b><br><i>guarda el secreto</i>	to keep, to save, to put away<br><i>keep the secret</i><br><small>#788 · lesson 97</small>	Spanish1000::week17 Spanish1000::lesson097
+<b>margen</b><br><i>al margen</i>	margin, edge<br><i>on the sidelines</i><br><small>#790 · lesson 97</small>	Spanish1000::week17 Spanish1000::lesson097
+<b>hallar</b><br><i>hallar la solución</i>	to find (formal); hallarse = to be located<br><i>to find the solution</i><br><small>#791 · lesson 97</small>	Spanish1000::week17 Spanish1000::lesson097
+<b>inmediatamente</b><br><i>ven inmediatamente</i>	immediately<br><i>come immediately</i><br><small>#792 · lesson 97</small>	Spanish1000::week17 Spanish1000::lesson097
+<b>dolor</b><br><i>dolor de cabeza</i>	pain<br><i>headache</i><br><small>#793 · lesson 97</small>	Spanish1000::week17 Spanish1000::lesson097
+<b>bomba</b><br><i>una bomba</i>	bomb; pump<br><i>a bomb</i><br><small>#794 · lesson 97</small>	Spanish1000::week17 Spanish1000::lesson097
+<b>impresión</b><br><i>me da la impresión</i>	impression<br><i>I get the impression</i><br><small>#795 · lesson 98</small>	Spanish1000::week17 Spanish1000::lesson098
+<b>respuesta</b><br><i>la respuesta correcta</i>	answer<br><i>the right answer</i><br><small>#796 · lesson 98</small>	Spanish1000::week17 Spanish1000::lesson098
+<b>culpa</b><br><i>es mi culpa</i>	fault, blame<br><i>it&#x27;s my fault</i><br><small>#797 · lesson 98</small>	Spanish1000::week17 Spanish1000::lesson098
+<b>interesante</b><br><i>muy interesante</i>	interesting<br><i>very interesting</i><br><small>#798 · lesson 98</small>	Spanish1000::week17 Spanish1000::lesson098
+<b>añadir</b><br><i>añadir sal</i>	to add<br><i>to add salt</i><br><small>#799 · lesson 98</small>	Spanish1000::week17 Spanish1000::lesson098
+<b>argentino</b><br><i>un amigo argentino</i>	Argentinian<br><i>an Argentinian friend</i><br><small>#800 · lesson 98</small>	Spanish1000::week17 Spanish1000::lesson098
+<b>departamento</b><br><i>un departamento pequeño</i>	apartment (Latin America); department<br><i>a small apartment</i><br><small>#801 · lesson 98</small>	Spanish1000::week17 Spanish1000::lesson098
+<b>durar</b><br><i>dura dos horas</i>	to last<br><i>it lasts two hours</i><br><small>#802 · lesson 98</small>	Spanish1000::week17 Spanish1000::lesson098
+<b>tirar</b><br><i>tirar la basura</i>	to throw (away); to pull<br><i>to throw out the trash</i><br><small>#803 · lesson 98</small>	Spanish1000::week17 Spanish1000::lesson098
+<b>invitar</b><br><i>te invito</i>	to invite; to treat (pay)<br><i>it&#x27;s on me</i><br><small>#805 · lesson 98</small>	Spanish1000::week17 Spanish1000::lesson098
+<b>marido</b><br><i>mi marido</i>	husband<br><i>my husband</i><br><small>#806 · lesson 99</small>	Spanish1000::week17 Spanish1000::lesson099
+<b>diario</b><br><i>uso diario</i>	daily; newspaper<br><i>daily use</i><br><small>#807 · lesson 99</small>	Spanish1000::week17 Spanish1000::lesson099
+<b>naturalmente</b><br><i>naturalmente</i>	naturally, of course<br><i>naturally</i><br><small>#808 · lesson 99</small>	Spanish1000::week17 Spanish1000::lesson099
+<b>tarea</b><br><i>hacer la tarea</i>	homework, task<br><i>to do homework</i><br><small>#809 · lesson 99</small>	Spanish1000::week17 Spanish1000::lesson099
+<b>acceso</b><br><i>acceso a internet</i>	access<br><i>internet access</i><br><small>#810 · lesson 99</small>	Spanish1000::week17 Spanish1000::lesson099
+<b>impedir</b><br><i>impedir el paso</i>	to prevent<br><i>to block the way</i><br><small>#811 · lesson 99</small>	Spanish1000::week17 Spanish1000::lesson099
+<b>crisis</b><br><i>una crisis</i>	crisis<br><i>a crisis</i><br><small>#812 · lesson 99</small>	Spanish1000::week17 Spanish1000::lesson099
+<b>sala</b><br><i>la sala de estar</i>	room, hall; living room<br><i>the living room</i><br><small>#813 · lesson 99</small>	Spanish1000::week17 Spanish1000::lesson099
+<b>actitud</b><br><i>buena actitud</i>	attitude<br><i>good attitude</i><br><small>#814 · lesson 99</small>	Spanish1000::week17 Spanish1000::lesson099
+<b>raro</b><br><i>qué raro</i>	strange, weird; rare<br><i>how weird</i><br><small>#815 · lesson 99</small>	Spanish1000::week17 Spanish1000::lesson099
+<b>suerte</b><br><i>¡buena suerte!</i>	luck<br><i>good luck!</i><br><small>#817 · lesson 100</small>	Spanish1000::week17 Spanish1000::lesson100
+<b>religioso</b><br><i>una fiesta religiosa</i>	religious<br><i>a religious holiday</i><br><small>#818 · lesson 100</small>	Spanish1000::week17 Spanish1000::lesson100
+<b>instalar</b><br><i>instalar una aplicación</i>	to install<br><i>to install an app</i><br><small>#819 · lesson 100</small>	Spanish1000::week17 Spanish1000::lesson100
+<b>serie</b><br><i>una serie de televisión</i>	series<br><i>a TV series</i><br><small>#820 · lesson 100</small>	Spanish1000::week17 Spanish1000::lesson100
+<b>cubrir</b><br><i>cubrir la mesa</i>	to cover<br><i>to cover the table</i><br><small>#821 · lesson 100</small>	Spanish1000::week17 Spanish1000::lesson100
+<b>cercano</b><br><i>un pueblo cercano</i>	near, close by<br><i>a nearby town</i><br><small>#822 · lesson 100</small>	Spanish1000::week17 Spanish1000::lesson100
+<b>argumento</b><br><i>el argumento de la película</i>	argument; plot<br><i>the movie&#x27;s plot</i><br><small>#823 · lesson 100</small>	Spanish1000::week17 Spanish1000::lesson100
+<b>prueba</b><br><i>una prueba</i>	test, proof<br><i>a test</i><br><small>#824 · lesson 100</small>	Spanish1000::week17 Spanish1000::lesson100
+<b>hundir</b><br><i>el barco se hundió</i>	to sink<br><i>the boat sank</i><br><small>#825 · lesson 100</small>	Spanish1000::week17 Spanish1000::lesson100
+<b>éxito</b><br><i>¡mucho éxito!</i>	success<br><i>best of luck!</i><br><small>#826 · lesson 100</small>	Spanish1000::week17 Spanish1000::lesson100
+<b>absoluto</b><br><i>en absoluto</i>	absolute<br><i>not at all</i><br><small>#827 · lesson 101</small>	Spanish1000::week17 Spanish1000::lesson101
+<b>interpretar</b><br><i>interpretar un papel</i>	to interpret<br><i>to play a role</i><br><small>#828 · lesson 101</small>	Spanish1000::week17 Spanish1000::lesson101
+<b>pleno</b><br><i>en pleno día</i>	full, complete<br><i>in broad daylight</i><br><small>#829 · lesson 101</small>	Spanish1000::week17 Spanish1000::lesson101
+<b>normal</b><br><i>es normal</i>	normal<br><i>it&#x27;s normal</i><br><small>#830 · lesson 101</small>	Spanish1000::week17 Spanish1000::lesson101
+<b>funcionar</b><br><i>no funciona</i>	to work, to function<br><i>it doesn&#x27;t work</i><br><small>#831 · lesson 101</small>	Spanish1000::week17 Spanish1000::lesson101
+<b>señalar</b><br><i>señalar con el dedo</i>	to point out, to signal<br><i>to point with your finger</i><br><small>#832 · lesson 101</small>	Spanish1000::week17 Spanish1000::lesson101
+<b>cuarto</b><br><i>y cuarto</i>	fourth; quarter<br><i>quarter past</i><br><small>#833 · lesson 101</small>	Spanish1000::week17 Spanish1000::lesson101
+<b>simplemente</b><br><i>simplemente no puedo</i>	simply, just<br><i>I simply can&#x27;t</i><br><small>#912 · lesson 101</small>	Spanish1000::week17 Spanish1000::lesson101
+<b>perfectamente</b><br><i>lo entiendo perfectamente</i>	perfectly<br><i>I understand it perfectly</i><br><small>#934 · lesson 101</small>	Spanish1000::week17 Spanish1000::lesson101
+<b>especialmente</b><br><i>especialmente hoy</i>	especially<br><i>especially today</i><br><small>#999 · lesson 101</small>	Spanish1000::week17 Spanish1000::lesson101
+<b>experimentar</b><br><i>experimentar algo nuevo</i>	to experience; to experiment<br><i>to experience something new</i><br><small>#834 · lesson 103</small>	Spanish1000::week18 Spanish1000::lesson103
+<b>conocido</b><br><i>un actor conocido</i>	known, well-known; acquaintance<br><i>a well-known actor</i><br><small>#835 · lesson 103</small>	Spanish1000::week18 Spanish1000::lesson103
+<b>mezclar</b><br><i>mezclar los colores</i>	to mix<br><i>to mix the colors</i><br><small>#836 · lesson 103</small>	Spanish1000::week18 Spanish1000::lesson103
+<b>paz</b><br><i>déjame en paz</i>	peace<br><i>leave me alone</i><br><small>#837 · lesson 103</small>	Spanish1000::week18 Spanish1000::lesson103
+<b>proyecto</b><br><i>un proyecto nuevo</i>	project<br><i>a new project</i><br><small>#838 · lesson 103</small>	Spanish1000::week18 Spanish1000::lesson103
+<b>caja</b><br><i>una caja de cartón</i>	box; cash register<br><i>a cardboard box</i><br><small>#839 · lesson 103</small>	Spanish1000::week18 Spanish1000::lesson103
+<b>rápido</b><br><i>comida rápida</i>	fast, quick<br><i>fast food</i><br><small>#840 · lesson 103</small>	Spanish1000::week18 Spanish1000::lesson103
+<b>honor</b><br><i>en honor de</i>	honor<br><i>in honor of</i><br><small>#841 · lesson 103</small>	Spanish1000::week18 Spanish1000::lesson103
+<b>capital</b><br><i>la capital de México</i>	capital<br><i>the capital of Mexico</i><br><small>#842 · lesson 103</small>	Spanish1000::week18 Spanish1000::lesson103
+<b>liberar</b><br><i>liberar a los presos</i>	to free, to release<br><i>to free the prisoners</i><br><small>#843 · lesson 103</small>	Spanish1000::week18 Spanish1000::lesson103
+<b>completar</b><br><i>completar el formulario</i>	to complete<br><i>to fill out the form</i><br><small>#844 · lesson 104</small>	Spanish1000::week18 Spanish1000::lesson104
+<b>interior</b><br><i>ropa interior</i>	interior, inside<br><i>underwear</i><br><small>#845 · lesson 104</small>	Spanish1000::week18 Spanish1000::lesson104
+<b>ajeno</b><br><i>problemas ajenos</i>	someone else&#x27;s, other people&#x27;s<br><i>other people&#x27;s problems</i><br><small>#846 · lesson 104</small>	Spanish1000::week18 Spanish1000::lesson104
+<b>despedir</b><br><i>me despido</i>	to fire; despedirse = to say goodbye<br><i>I&#x27;ll say goodbye</i><br><small>#847 · lesson 104</small>	Spanish1000::week18 Spanish1000::lesson104
+<b>chico</b><br><i>un chico simpático</i>	boy, kid<br><i>a nice guy</i><br><small>#848 · lesson 104</small>	Spanish1000::week18 Spanish1000::lesson104
+<b>nacimiento</b><br><i>fecha de nacimiento</i>	birth<br><i>date of birth</i><br><small>#849 · lesson 104</small>	Spanish1000::week18 Spanish1000::lesson104
+<b>seco</b><br><i>ropa seca</i>	dry<br><i>dry clothes</i><br><small>#850 · lesson 104</small>	Spanish1000::week18 Spanish1000::lesson104
+<b>apoyo</b><br><i>gracias por tu apoyo</i>	support<br><i>thanks for your support</i><br><small>#851 · lesson 104</small>	Spanish1000::week18 Spanish1000::lesson104
+<b>dividir</b><br><i>dividir en dos</i>	to divide<br><i>to split in two</i><br><small>#852 · lesson 104</small>	Spanish1000::week18 Spanish1000::lesson104
+<b>pesado</b><br><i>¡qué pesado!</i>	heavy; annoying<br><i>how annoying!</i><br><small>#853 · lesson 104</small>	Spanish1000::week18 Spanish1000::lesson104
+<b>texto</b><br><i>un texto corto</i>	text<br><i>a short text</i><br><small>#854 · lesson 105</small>	Spanish1000::week18 Spanish1000::lesson105
+<b>reserva</b><br><i>tengo una reserva</i>	reservation<br><i>I have a reservation</i><br><small>#855 · lesson 105</small>	Spanish1000::week18 Spanish1000::lesson105
+<b>defender</b><br><i>defender a su familia</i>	to defend<br><i>to defend their family</i><br><small>#856 · lesson 105</small>	Spanish1000::week18 Spanish1000::lesson105
+<b>pertenecer</b><br><i>me pertenece</i>	to belong<br><i>it belongs to me</i><br><small>#857 · lesson 105</small>	Spanish1000::week18 Spanish1000::lesson105
+<b>formación</b><br><i>formación profesional</i>	education, training<br><i>vocational training</i><br><small>#858 · lesson 105</small>	Spanish1000::week18 Spanish1000::lesson105
+<b>boca</b><br><i>abre la boca</i>	mouth<br><i>open your mouth</i><br><small>#859 · lesson 105</small>	Spanish1000::week18 Spanish1000::lesson105
+<b>distancia</b><br><i>a distancia</i>	distance<br><i>remotely</i><br><small>#860 · lesson 105</small>	Spanish1000::week18 Spanish1000::lesson105
+<b>azul</b><br><i>el cielo azul</i>	blue<br><i>the blue sky</i><br><small>#861 · lesson 105</small>	Spanish1000::week18 Spanish1000::lesson105
+<b>opinar</b><br><i>¿qué opinas?</i>	to think, to have an opinion<br><i>what do you think?</i><br><small>#862 · lesson 105</small>	Spanish1000::week18 Spanish1000::lesson105
+<b>máquina</b><br><i>una máquina de café</i>	machine<br><i>a coffee machine</i><br><small>#863 · lesson 105</small>	Spanish1000::week18 Spanish1000::lesson105
+<b>título</b><br><i>el título del libro</i>	title; degree<br><i>the book&#x27;s title</i><br><small>#864 · lesson 106</small>	Spanish1000::week18 Spanish1000::lesson106
+<b>negar</b><br><i>negar todo</i>	to deny, to refuse<br><i>to deny everything</i><br><small>#866 · lesson 106</small>	Spanish1000::week18 Spanish1000::lesson106
+<b>llamada</b><br><i>una llamada perdida</i>	call<br><i>a missed call</i><br><small>#867 · lesson 106</small>	Spanish1000::week18 Spanish1000::lesson106
+<b>ideal</b><br><i>el lugar ideal</i>	ideal<br><i>the perfect place</i><br><small>#868 · lesson 106</small>	Spanish1000::week18 Spanish1000::lesson106
+<b>suyo</b><br><i>es suyo</i>	his, hers, theirs, yours (formal)<br><i>it&#x27;s his/hers</i><br><small>#869 · lesson 106</small>	Spanish1000::week18 Spanish1000::lesson106
+<b>directo</b><br><i>un vuelo directo</i>	direct<br><i>a direct flight</i><br><small>#870 · lesson 106</small>	Spanish1000::week18 Spanish1000::lesson106
+<b>método</b><br><i>un buen método</i>	method<br><i>a good method</i><br><small>#871 · lesson 106</small>	Spanish1000::week18 Spanish1000::lesson106
+<b>preciso</b><br><i>es preciso</i>	necessary; precise<br><i>it&#x27;s necessary</i><br><small>#872 · lesson 106</small>	Spanish1000::week18 Spanish1000::lesson106
+<b>debajo</b><br><i>debajo de la cama</i>	under, underneath<br><i>under the bed</i><br><small>#873 · lesson 106</small>	Spanish1000::week18 Spanish1000::lesson106
+<b>averiguar</b><br><i>averiguar la verdad</i>	to find out<br><i>to find out the truth</i><br><small>#874 · lesson 106</small>	Spanish1000::week18 Spanish1000::lesson106
+<b>presión</b><br><i>bajo presión</i>	pressure<br><i>under pressure</i><br><small>#875 · lesson 107</small>	Spanish1000::week18 Spanish1000::lesson107
+<b>ignorar</b><br><i>ignoro la respuesta</i>	to not know; to ignore<br><i>I don&#x27;t know the answer</i><br><small>#876 · lesson 107</small>	Spanish1000::week18 Spanish1000::lesson107
+<b>automóvil</b><br><i>un automóvil</i>	car, automobile<br><i>an automobile</i><br><small>#877 · lesson 107</small>	Spanish1000::week18 Spanish1000::lesson107
+<b>detrás</b><br><i>detrás de la casa</i>	behind<br><i>behind the house</i><br><small>#878 · lesson 107</small>	Spanish1000::week18 Spanish1000::lesson107
+<b>contenido</b><br><i>el contenido</i>	content<br><i>the content</i><br><small>#879 · lesson 107</small>	Spanish1000::week18 Spanish1000::lesson107
+<b>hija</b><br><i>mi hija</i>	daughter<br><i>my daughter</i><br><small>#880 · lesson 107</small>	Spanish1000::week18 Spanish1000::lesson107
+<b>cobrar</b><br><i>¿cuánto cobras?</i>	to charge (money); to get paid<br><i>how much do you charge?</i><br><small>#882 · lesson 107</small>	Spanish1000::week18 Spanish1000::lesson107
+<b>barco</b><br><i>en barco</i>	boat, ship<br><i>by boat</i><br><small>#883 · lesson 107</small>	Spanish1000::week18 Spanish1000::lesson107
+<b>americano</b><br><i>un amigo americano</i>	American<br><i>an American friend</i><br><small>#884 · lesson 107</small>	Spanish1000::week18 Spanish1000::lesson107
+<b>sesenta</b><br><i>sesenta minutos</i>	sixty<br><i>sixty minutes</i><br><small>#886 · lesson 107</small>	Spanish1000::week18 Spanish1000::lesson107
+<b>animar</b><br><i>¡anímate!</i>	to cheer up, to encourage<br><i>cheer up!</i><br><small>#887 · lesson 109</small>	Spanish1000::week19 Spanish1000::lesson109
+<b>página</b><br><i>la página diez</i>	page<br><i>page ten</i><br><small>#888 · lesson 109</small>	Spanish1000::week19 Spanish1000::lesson109
+<b>notar</b><br><i>se nota</i>	to notice<br><i>you can tell</i><br><small>#889 · lesson 109</small>	Spanish1000::week19 Spanish1000::lesson109
+<b>árbol</b><br><i>un árbol grande</i>	tree<br><i>a big tree</i><br><small>#890 · lesson 109</small>	Spanish1000::week19 Spanish1000::lesson109
+<b>alcance</b><br><i>al alcance de la mano</i>	reach, scope<br><i>within reach</i><br><small>#892 · lesson 109</small>	Spanish1000::week19 Spanish1000::lesson109
+<b>regresar</b><br><i>regresar a casa</i>	to return, to come back<br><i>to come back home</i><br><small>#893 · lesson 109</small>	Spanish1000::week19 Spanish1000::lesson109
+<b>moda</b><br><i>está de moda</i>	fashion<br><i>it&#x27;s in style</i><br><small>#895 · lesson 109</small>	Spanish1000::week19 Spanish1000::lesson109
+<b>satisfacer</b><br><i>satisfacer a todos</i>	to satisfy<br><i>to please everyone</i><br><small>#896 · lesson 109</small>	Spanish1000::week19 Spanish1000::lesson109
+<b>curiosidad</b><br><i>por curiosidad</i>	curiosity<br><i>out of curiosity</i><br><small>#897 · lesson 109</small>	Spanish1000::week19 Spanish1000::lesson109
+<b>memoria</b><br><i>de memoria</i>	memory<br><i>by heart</i><br><small>#899 · lesson 109</small>	Spanish1000::week19 Spanish1000::lesson109
+<b>espejo</b><br><i>mirarse en el espejo</i>	mirror<br><i>to look in the mirror</i><br><small>#900 · lesson 110</small>	Spanish1000::week19 Spanish1000::lesson110
+<b>elemento</b><br><i>un elemento</i>	element<br><i>an element</i><br><small>#901 · lesson 110</small>	Spanish1000::week19 Spanish1000::lesson110
+<b>matar</b><br><i>matar el tiempo</i>	to kill<br><i>to kill time</i><br><small>#903 · lesson 110</small>	Spanish1000::week19 Spanish1000::lesson110
+<b>cola</b><br><i>hacer cola</i>	line (queue); tail<br><i>to wait in line</i><br><small>#904 · lesson 110</small>	Spanish1000::week19 Spanish1000::lesson110
+<b>trato</b><br><i>¡trato hecho!</i>	deal; treatment<br><i>it&#x27;s a deal!</i><br><small>#906 · lesson 110</small>	Spanish1000::week19 Spanish1000::lesson110
+<b>coche</b><br><i>en coche</i>	car (Spain)<br><i>by car</i><br><small>#907 · lesson 110</small>	Spanish1000::week19 Spanish1000::lesson110
+<b>veinte</b><br><i>veinte años</i>	twenty<br><i>twenty years</i><br><small>#908 · lesson 110</small>	Spanish1000::week19 Spanish1000::lesson110
+<b>acudir</b><br><i>acudir al médico</i>	to go to, to attend<br><i>to go to the doctor</i><br><small>#909 · lesson 110</small>	Spanish1000::week19 Spanish1000::lesson110
+<b>examinar</b><br><i>examinar al paciente</i>	to examine<br><i>to examine the patient</i><br><small>#910 · lesson 110</small>	Spanish1000::week19 Spanish1000::lesson110
+<b>tensión</b><br><i>mucha tensión</i>	tension, stress<br><i>a lot of stress</i><br><small>#913 · lesson 110</small>	Spanish1000::week19 Spanish1000::lesson110
+<b>expresar</b><br><i>expresar lo que siento</i>	to express<br><i>to express how I feel</i><br><small>#914 · lesson 111</small>	Spanish1000::week19 Spanish1000::lesson111
+<b>generación</b><br><i>mi generación</i>	generation<br><i>my generation</i><br><small>#915 · lesson 111</small>	Spanish1000::week19 Spanish1000::lesson111
+<b>manifestación</b><br><i>una manifestación</i>	demonstration, protest<br><i>a protest</i><br><small>#916 · lesson 111</small>	Spanish1000::week19 Spanish1000::lesson111
+<b>terreno</b><br><i>un terreno grande</i>	land, plot; ground<br><i>a big plot of land</i><br><small>#917 · lesson 111</small>	Spanish1000::week19 Spanish1000::lesson111
+<b>seguro</b><br><i>¿estás seguro?</i>	sure; safe; insurance<br><i>are you sure?</i><br><small>#918 · lesson 111</small>	Spanish1000::week19 Spanish1000::lesson111
+<b>raza</b><br><i>¿de qué raza es tu perro?</i>	race; breed<br><i>what breed is your dog?</i><br><small>#919 · lesson 111</small>	Spanish1000::week19 Spanish1000::lesson111
+<b>arrancar</b><br><i>arrancar el coche</i>	to start (an engine); to pull out<br><i>to start the car</i><br><small>#920 · lesson 111</small>	Spanish1000::week19 Spanish1000::lesson111
+<b>sexual</b><br><i>educación sexual</i>	sexual<br><i>sex education</i><br><small>#921 · lesson 111</small>	Spanish1000::week19 Spanish1000::lesson111
+<b>puesto</b><br><i>un puesto de trabajo</i>	job, position; stand<br><i>a job</i><br><small>#922 · lesson 111</small>	Spanish1000::week19 Spanish1000::lesson111
+<b>familiar</b><br><i>un ambiente familiar</i>	family (adj.); familiar; relative<br><i>a family atmosphere</i><br><small>#923 · lesson 111</small>	Spanish1000::week19 Spanish1000::lesson111
+<b>aprobar</b><br><i>aprobar el examen</i>	to pass (an exam); to approve<br><i>to pass the exam</i><br><small>#924 · lesson 112</small>	Spanish1000::week19 Spanish1000::lesson112
+<b>abajo</b><br><i>ahí abajo</i>	down, below, downstairs<br><i>down there</i><br><small>#925 · lesson 112</small>	Spanish1000::week19 Spanish1000::lesson112
+<b>quejar</b><br><i>siempre se queja</i>	quejarse = to complain<br><i>he always complains</i><br><small>#926 · lesson 112</small>	Spanish1000::week19 Spanish1000::lesson112
+<b>juicio</b><br><i>a mi juicio</i>	judgment<br><i>in my judgment</i><br><small>#927 · lesson 112</small>	Spanish1000::week19 Spanish1000::lesson112
+<b>técnico</b><br><i>un problema técnico</i>	technical; technician<br><i>a technical problem</i><br><small>#928 · lesson 112</small>	Spanish1000::week19 Spanish1000::lesson112
+<b>jardín</b><br><i>en el jardín</i>	garden, yard<br><i>in the garden</i><br><small>#929 · lesson 112</small>	Spanish1000::week19 Spanish1000::lesson112
+<b>intervenir</b><br><i>intervenir en la discusión</i>	to intervene<br><i>to step into the argument</i><br><small>#930 · lesson 112</small>	Spanish1000::week19 Spanish1000::lesson112
+<b>público</b><br><i>el público aplaudió</i>	audience<br><i>the audience clapped</i><br><small>#931 · lesson 112</small>	Spanish1000::week19 Spanish1000::lesson112
+<b>consecuencia</b><br><i>como consecuencia</i>	consequence<br><i>as a result</i><br><small>#932 · lesson 112</small>	Spanish1000::week19 Spanish1000::lesson112
+<b>ritmo</b><br><i>a su ritmo</i>	rhythm, pace<br><i>at your own pace</i><br><small>#933 · lesson 112</small>	Spanish1000::week19 Spanish1000::lesson112
+<b>feliz</b><br><i>¡feliz cumpleaños!</i>	happy<br><i>happy birthday!</i><br><small>#935 · lesson 113</small>	Spanish1000::week19 Spanish1000::lesson113
+<b>exacto</b><br><i>la hora exacta</i>	exact; ¡exacto! = exactly!<br><i>the exact time</i><br><small>#936 · lesson 113</small>	Spanish1000::week19 Spanish1000::lesson113
+<b>esposa</b><br><i>mi esposa</i>	wife<br><i>my wife</i><br><small>#937 · lesson 113</small>	Spanish1000::week19 Spanish1000::lesson113
+<b>personaje</b><br><i>el personaje principal</i>	character (in a story)<br><i>the main character</i><br><small>#938 · lesson 113</small>	Spanish1000::week19 Spanish1000::lesson113
+<b>patria</b><br><i>la patria</i>	homeland<br><i>the homeland</i><br><small>#939 · lesson 113</small>	Spanish1000::week19 Spanish1000::lesson113
+<b>inteligente</b><br><i>muy inteligente</i>	intelligent, smart<br><i>very smart</i><br><small>#940 · lesson 113</small>	Spanish1000::week19 Spanish1000::lesson113
+<b>calidad</b><br><i>buena calidad</i>	quality<br><i>good quality</i><br><small>#941 · lesson 113</small>	Spanish1000::week19 Spanish1000::lesson113
+<b>belleza</b><br><i>la belleza</i>	beauty<br><i>beauty</i><br><small>#942 · lesson 113</small>	Spanish1000::week19 Spanish1000::lesson113
+<b>continuo</b><br><i>de forma continua</i>	continuous, constant<br><i>continuously</i><br><small>#943 · lesson 113</small>	Spanish1000::week19 Spanish1000::lesson113
+<b>alegría</b><br><i>¡qué alegría!</i>	joy, happiness<br><i>how wonderful!</i><br><small>#980 · lesson 113</small>	Spanish1000::week19 Spanish1000::lesson113
+<b>instrucción</b><br><i>las instrucciones</i>	instruction<br><i>the instructions</i><br><small>#944 · lesson 115</small>	Spanish1000::week20 Spanish1000::lesson115
+<b>inclinación</b><br><i>una inclinación natural</i>	tendency, inclination; slope<br><i>a natural tendency</i><br><small>#945 · lesson 115</small>	Spanish1000::week20 Spanish1000::lesson115
+<b>huella</b><br><i>huella digital</i>	trace, footprint<br><i>fingerprint</i><br><small>#947 · lesson 115</small>	Spanish1000::week20 Spanish1000::lesson115
+<b>mezcla</b><br><i>una mezcla</i>	mix, mixture<br><i>a mix</i><br><small>#948 · lesson 115</small>	Spanish1000::week20 Spanish1000::lesson115
+<b>ciego</b><br><i>un hombre ciego</i>	blind<br><i>a blind man</i><br><small>#949 · lesson 115</small>	Spanish1000::week20 Spanish1000::lesson115
+<b>lejano</b><br><i>un país lejano</i>	distant, far-off<br><i>a faraway country</i><br><small>#950 · lesson 115</small>	Spanish1000::week20 Spanish1000::lesson115
+<b>ejercicio</b><br><i>hacer ejercicio</i>	exercise<br><i>to exercise</i><br><small>#952 · lesson 115</small>	Spanish1000::week20 Spanish1000::lesson115
+<b>hospital</b><br><i>en el hospital</i>	hospital<br><i>in the hospital</i><br><small>#953 · lesson 115</small>	Spanish1000::week20 Spanish1000::lesson115
+<b>radio</b><br><i>escuchar la radio</i>	radio<br><i>to listen to the radio</i><br><small>#954 · lesson 115</small>	Spanish1000::week20 Spanish1000::lesson115
+<b>treinta</b><br><i>treinta días</i>	thirty<br><i>thirty days</i><br><small>#955 · lesson 115</small>	Spanish1000::week20 Spanish1000::lesson115
+<b>conveniente</b><br><i>es conveniente</i>	convenient, advisable<br><i>it&#x27;s a good idea</i><br><small>#956 · lesson 116</small>	Spanish1000::week20 Spanish1000::lesson116
+<b>salida</b><br><i>la salida</i>	exit; departure<br><i>the exit</i><br><small>#957 · lesson 116</small>	Spanish1000::week20 Spanish1000::lesson116
+<b>sentimiento</b><br><i>mis sentimientos</i>	feeling<br><i>my feelings</i><br><small>#958 · lesson 116</small>	Spanish1000::week20 Spanish1000::lesson116
+<b>salvar</b><br><i>salvar una vida</i>	to save, to rescue<br><i>to save a life</i><br><small>#959 · lesson 116</small>	Spanish1000::week20 Spanish1000::lesson116
+<b>mar</b><br><i>el mar</i>	sea<br><i>the sea</i><br><small>#960 · lesson 116</small>	Spanish1000::week20 Spanish1000::lesson116
+<b>cuarto</b><br><i>mi cuarto</i>	room (cuarto: a bedroom)<br><i>my room</i><br><small>#961 · lesson 116</small>	Spanish1000::week20 Spanish1000::lesson116
+<b>parar</b><br><i>para aquí</i>	to stop<br><i>stop here</i><br><small>#962 · lesson 116</small>	Spanish1000::week20 Spanish1000::lesson116
+<b>saber</b><br><i>el saber no ocupa lugar</i>	knowledge (el saber)<br><i>you can never know too much</i><br><small>#963 · lesson 116</small>	Spanish1000::week20 Spanish1000::lesson116
+<b>cargo</b><br><i>estar a cargo</i>	charge; a cargo de = in charge of<br><i>to be in charge</i><br><small>#964 · lesson 116</small>	Spanish1000::week20 Spanish1000::lesson116
+<b>poesía</b><br><i>la poesía</i>	poetry<br><i>poetry</i><br><small>#965 · lesson 116</small>	Spanish1000::week20 Spanish1000::lesson116
+<b>justicia</b><br><i>la justicia</i>	justice<br><i>justice</i><br><small>#968 · lesson 117</small>	Spanish1000::week20 Spanish1000::lesson117
+<b>brillante</b><br><i>una idea brillante</i>	brilliant, shiny<br><i>a brilliant idea</i><br><small>#969 · lesson 117</small>	Spanish1000::week20 Spanish1000::lesson117
+<b>destino</b><br><i>destino final</i>	destination; destiny<br><i>final destination</i><br><small>#970 · lesson 117</small>	Spanish1000::week20 Spanish1000::lesson117
+<b>revolución</b><br><i>la revolución</i>	revolution<br><i>the revolution</i><br><small>#971 · lesson 117</small>	Spanish1000::week20 Spanish1000::lesson117
+<b>entrega</b><br><i>entrega a domicilio</i>	delivery<br><i>home delivery</i><br><small>#972 · lesson 117</small>	Spanish1000::week20 Spanish1000::lesson117
+<b>sensación</b><br><i>una sensación rara</i>	feeling, sensation<br><i>a strange feeling</i><br><small>#973 · lesson 117</small>	Spanish1000::week20 Spanish1000::lesson117
+<b>intelectual</b><br><i>un trabajo intelectual</i>	intellectual<br><i>mental work</i><br><small>#974 · lesson 117</small>	Spanish1000::week20 Spanish1000::lesson117
+<b>representante</b><br><i>un representante</i>	representative<br><i>a representative</i><br><small>#975 · lesson 117</small>	Spanish1000::week20 Spanish1000::lesson117
+<b>agudo</b><br><i>un dolor agudo</i>	sharp; acute<br><i>a sharp pain</i><br><small>#976 · lesson 117</small>	Spanish1000::week20 Spanish1000::lesson117
+<b>empleo</b><br><i>buscar empleo</i>	employment, job<br><i>to look for a job</i><br><small>#1000 · lesson 117</small>	Spanish1000::week20 Spanish1000::lesson117
+<b>doce</b><br><i>a las doce</i>	twelve<br><i>at twelve</i><br><small>#978 · lesson 118</small>	Spanish1000::week20 Spanish1000::lesson118
+<b>salto</b><br><i>de un salto</i>	jump<br><i>in one jump</i><br><small>#979 · lesson 118</small>	Spanish1000::week20 Spanish1000::lesson118
+<b>aun</b><br><i>aun así</i>	even (aun así = even so)<br><i>even so</i><br><small>#981 · lesson 118</small>	Spanish1000::week20 Spanish1000::lesson118
+<b>operación</b><br><i>una operación</i>	operation; surgery<br><i>an operation</i><br><small>#982 · lesson 118</small>	Spanish1000::week20 Spanish1000::lesson118
+<b>delicado</b><br><i>un tema delicado</i>	delicate<br><i>a delicate subject</i><br><small>#983 · lesson 118</small>	Spanish1000::week20 Spanish1000::lesson118
+<b>nota</b><br><i>sacar buena nota</i>	note; grade<br><i>to get a good grade</i><br><small>#984 · lesson 118</small>	Spanish1000::week20 Spanish1000::lesson118
+<b>convencido</b><br><i>estoy convencido</i>	convinced<br><i>I&#x27;m convinced</i><br><small>#985 · lesson 118</small>	Spanish1000::week20 Spanish1000::lesson118
+<b>simple</b><br><i>un simple error</i>	simple; mere<br><i>a simple mistake</i><br><small>#986 · lesson 118</small>	Spanish1000::week20 Spanish1000::lesson118
+<b>construcción</b><br><i>en construcción</i>	construction<br><i>under construction</i><br><small>#987 · lesson 118</small>	Spanish1000::week20 Spanish1000::lesson118
+<b>secretario</b><br><i>la secretaria</i>	secretary<br><i>the secretary</i><br><small>#988 · lesson 118</small>	Spanish1000::week20 Spanish1000::lesson118
+<b>exposición</b><br><i>una exposición de arte</i>	exhibition<br><i>an art exhibition</i><br><small>#989 · lesson 119</small>	Spanish1000::week20 Spanish1000::lesson119
+<b>internacional</b><br><i>vuelo internacional</i>	international<br><i>international flight</i><br><small>#990 · lesson 119</small>	Spanish1000::week20 Spanish1000::lesson119
+<b>clave</b><br><i>la palabra clave</i>	key; code<br><i>the keyword</i><br><small>#991 · lesson 119</small>	Spanish1000::week20 Spanish1000::lesson119
+<b>cruzar</b><br><i>cruzar la calle</i>	to cross<br><i>to cross the street</i><br><small>#992 · lesson 119</small>	Spanish1000::week20 Spanish1000::lesson119
+<b>personal</b><br><i>una pregunta personal</i>	personal<br><i>a personal question</i><br><small>#993 · lesson 119</small>	Spanish1000::week20 Spanish1000::lesson119
+<b>pared</b><br><i>en la pared</i>	wall<br><i>on the wall</i><br><small>#994 · lesson 119</small>	Spanish1000::week20 Spanish1000::lesson119
+<b>griego</b><br><i>comida griega</i>	Greek<br><i>Greek food</i><br><small>#995 · lesson 119</small>	Spanish1000::week20 Spanish1000::lesson119
+<b>poderoso</b><br><i>muy poderoso</i>	powerful<br><i>very powerful</i><br><small>#996 · lesson 119</small>	Spanish1000::week20 Spanish1000::lesson119
+<b>punta</b><br><i>la punta del pie</i>	tip, point<br><i>tiptoe</i><br><small>#997 · lesson 119</small>	Spanish1000::week20 Spanish1000::lesson119
+<b>mundial</b><br><i>la Copa Mundial</i>	world, worldwide<br><i>the World Cup</i><br><small>#998 · lesson 119</small>	Spanish1000::week20 Spanish1000::lesson119

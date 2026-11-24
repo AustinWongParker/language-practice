@@ -1,0 +1,106 @@
+---
+type: lesson
+course: Spanish 1000 Course
+lesson: 115
+week: 20
+status: todo
+done_on:
+minutes:
+difficulty:
+reflection:
+---
+# Lesson 115 · Practice - instrucción, inclinación, huella, mezcla
+**Week 20 · Se and the finish line** · about 30 min · [[Spanish 1000 Course|Course overview]] · ← [[114 - Week 19 review - wishes and doubts|Lesson 114]] · [[116 - Practice - conveniente, salida, sentimiento, salvar|Lesson 116]] →
+
+> [!tip] Today
+> Learn 10 new words in context, then use them out loud.
+> **10 new words** · 960 of 1000 after today
+
+## 1 · Review (7 min)
+- **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
+- **Quick recall:** say what each word means, and use one in a sentence: **jardín** · **intervenir** · **satisfacer** · **curiosidad** · **éxito** · **suerte** · **encima** · **acercar** · **ello** · **difícil**
+
+> [!check]- Recall answers
+> - **jardín** = garden, yard ([[112 - Practice - aprobar, abajo, quejar, juicio|lesson 112]])
+> - **intervenir** = to intervene ([[112 - Practice - aprobar, abajo, quejar, juicio|lesson 112]])
+> - **satisfacer** = to satisfy ([[109 - The subjunctive, part 1 - quiero que vengas|lesson 109]])
+> - **curiosidad** = curiosity ([[109 - The subjunctive, part 1 - quiero que vengas|lesson 109]])
+> - **éxito** = success ([[100 - Practice - suerte, religioso, instalar, serie|lesson 100]])
+> - **suerte** = luck ([[100 - Practice - suerte, religioso, instalar, serie|lesson 100]])
+> - **encima** = on top; encima de = on top of ([[085 - The future - hablaré|lesson 85]])
+> - **acercar** = to bring closer; acercarse = to approach ([[085 - The future - hablaré|lesson 85]])
+> - **ello** = it (formal, abstract) ([[055 - Present progressive (-ing)|lesson 55]])
+> - **difícil** = difficult, hard ([[055 - Present progressive (-ing)|lesson 55]])
+
+## 2 · Learn (5 min)
+**Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
+
+| # | Spanish | English | In a phrase |
+|---|---|---|---|
+| 944 | **instrucción** | instruction | las instrucciones = _the instructions_ |
+| 945 | **inclinación** | tendency, inclination; slope | una inclinación natural = _a natural tendency_ |
+| 947 | **huella** | trace, footprint | huella digital = _fingerprint_ |
+| 948 | **mezcla** | mix, mixture | una mezcla = _a mix_ |
+| 949 | **ciego** | blind | un hombre ciego = _a blind man_ |
+| 950 | **lejano** | distant, far-off | un país lejano = _a faraway country_ |
+| 952 | **ejercicio** | exercise | hacer ejercicio = _to exercise_ |
+| 953 | **hospital** | hospital | en el hospital = _in the hospital_ |
+| 954 | **radio** | radio | escuchar la radio = _to listen to the radio_ |
+| 955 | **treinta** | thirty | treinta días = _thirty days_ |
+
+**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+
+1. 
+2. 
+3. 
+
+## 3 · Listen (8 min)
+Watch a **Beginner or Intermediate** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Listen for:** any of today's words, especially **instrucción**, **inclinación**, **huella**, **mezcla**.
+
+## 4 · Talk with your partner (10 min)
+See the [[Conversation Partner Guide]] for how to run this.
+
+**Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
+
+1. the instructions
+2. a natural tendency
+3. fingerprint
+4. a mix
+5. a blind man
+6. a faraway country
+7. to exercise
+8. in the hospital
+9. to listen to the radio
+10. thirty days
+
+> [!check]- Answer key (for your partner)
+> 1. las instrucciones
+> 2. una inclinación natural
+> 3. huella digital
+> 4. una mezcla
+> 5. un hombre ciego
+> 6. un país lejano
+> 7. hacer ejercicio
+> 8. en el hospital
+> 9. escuchar la radio
+> 10. treinta días
+
+**Conversation (7 min):** your partner asks, you answer in full sentences. Try to use at least three of today's words.
+
+- **¿Haces ejercicio?** _(Do you exercise?)_
+- **¿Escuchas la radio o podcasts?** _(Do you listen to the radio or podcasts?)_
+- Then switch: you ask your partner the same questions.
+
+Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
+
+> [!info]- No partner today?
+> Answer the questions out loud anyway and record yourself on your phone. Listen back once and note one thing to fix. Or book a session with a tutor (italki, Preply) or a language exchange partner (Tandem, HelloTalk).
+
+## ✅ Finish
+- [ ] Anki: every due card, plus today's new cards
+- [ ] Quick recall
+- [ ] Read today's words and phrases out loud
+- [ ] Listening
+- [ ] 10-minute conversation, and one correction logged
+- [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

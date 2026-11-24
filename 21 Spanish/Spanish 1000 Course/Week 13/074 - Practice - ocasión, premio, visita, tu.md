@@ -1,0 +1,106 @@
+---
+type: lesson
+course: Spanish 1000 Course
+lesson: 74
+week: 13
+status: todo
+done_on:
+minutes:
+difficulty:
+reflection:
+---
+# Lesson 74 · Practice - ocasión, premio, visita, tu
+**Week 13 · Stories in the past** · about 30 min · [[Spanish 1000 Course|Course overview]] · ← [[073 - Imperfect - ser, ir, ver|Lesson 73]] · [[075 - Preterite vs imperfect|Lesson 75]] →
+
+> [!tip] Today
+> Learn 10 new words in context, then use them out loud.
+> **10 new words** · 620 of 1000 after today
+
+## 1 · Review (7 min)
+- **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
+- **Quick recall:** say what each word means, and use one in a sentence: **contribuir** · **cortar** · **temprano** · **andar** · **temperatura** · **estación** · **lanzar** · **diferencia** · **ahora** · **propio**
+
+> [!check]- Recall answers
+> - **contribuir** = to contribute ([[071 - Imperfect - regular verbs|lesson 71]])
+> - **cortar** = to cut ([[071 - Imperfect - regular verbs|lesson 71]])
+> - **temprano** = early ([[068 - Practice - ley, plano, tocar, importancia|lesson 68]])
+> - **andar** = to walk; to go around ([[068 - Practice - ley, plano, tocar, importancia|lesson 68]])
+> - **temperatura** = temperature ([[059 - Weather and seasons|lesson 59]])
+> - **estación** = season; station ([[059 - Weather and seasons|lesson 59]])
+> - **lanzar** = to throw, to launch ([[044 - Practice - lanzar, diferencia, bueno, propiedad|lesson 44]])
+> - **diferencia** = difference ([[044 - Practice - lanzar, diferencia, bueno, propiedad|lesson 44]])
+> - **ahora** = now ([[014 - Practice - mujer, hora, ahora, propio|lesson 14]])
+> - **propio** = own; typical ([[014 - Practice - mujer, hora, ahora, propio|lesson 14]])
+
+## 2 · Learn (5 min)
+**Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
+
+| # | Spanish | English | In a phrase |
+|---|---|---|---|
+| 571 | **ocasión** | occasion | en esta ocasión = _this time_ |
+| 573 | **premio** | prize, award | ganar un premio = _to win a prize_ |
+| 574 | **visita** | visit | una visita corta = _a short visit_ |
+| 575 | **tu** | your (informal) | tu casa = _your house_ |
+| 576 | **dedo** | finger, toe | el dedo = _the finger_ |
+| 577 | **quince** | fifteen | quince minutos = _fifteen minutes_ |
+| 578 | **demostrar** | to show, to prove | demostrar algo = _to prove something_ |
+| 580 | **existencia** | existence | la existencia = _existence_ |
+| 581 | **mente** | mind | en mente = _in mind_ |
+| 582 | **mayoría** | majority, most | la mayoría de la gente = _most people_ |
+
+**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+
+1. 
+2. 
+3. 
+
+## 3 · Listen (8 min)
+Watch a **Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Listen for:** any of today's words, especially **ocasión**, **premio**, **visita**, **tu**.
+
+## 4 · Talk with your partner (10 min)
+See the [[Conversation Partner Guide]] for how to run this.
+
+**Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
+
+1. this time
+2. to win a prize
+3. a short visit
+4. your house
+5. the finger
+6. fifteen minutes
+7. to prove something
+8. existence
+9. in mind
+10. most people
+
+> [!check]- Answer key (for your partner)
+> 1. en esta ocasión
+> 2. ganar un premio
+> 3. una visita corta
+> 4. tu casa
+> 5. el dedo
+> 6. quince minutos
+> 7. demostrar algo
+> 8. la existencia
+> 9. en mente
+> 10. la mayoría de la gente
+
+**Conversation (7 min):** your partner asks, you answer in full sentences. Try to use at least three of today's words.
+
+- **¿Cuál fue un premio o una ocasión especial?** _(What was a prize or a special occasion?)_
+- **¿Qué visita hiciste recientemente?** _(What visit did you make recently?)_
+- Then switch: you ask your partner the same questions.
+
+Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
+
+> [!info]- No partner today?
+> Answer the questions out loud anyway and record yourself on your phone. Listen back once and note one thing to fix. Or book a session with a tutor (italki, Preply) or a language exchange partner (Tandem, HelloTalk).
+
+## ✅ Finish
+- [ ] Anki: every due card, plus today's new cards
+- [ ] Quick recall
+- [ ] Read today's words and phrases out loud
+- [ ] Listening
+- [ ] 10-minute conversation, and one correction logged
+- [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top
