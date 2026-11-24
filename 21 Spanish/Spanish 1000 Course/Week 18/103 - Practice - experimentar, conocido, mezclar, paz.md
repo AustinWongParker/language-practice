@@ -55,7 +55,8 @@ reflection:
 3. 
 
 ## 3 · Listen (8 min)
-Watch a **Beginner or Intermediate** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Ester's Family: My Grandma Complains About Me!](https://app.dreaming.com/spanish/watch?id=6927140cb0b7b6f887702c63) · 3 min · Beginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **experimentar**, **conocido**, **mezclar**, **paz**.
 
 ## 4 · Talk with your partner (10 min)

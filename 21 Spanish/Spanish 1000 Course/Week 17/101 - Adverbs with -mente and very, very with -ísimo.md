@@ -56,7 +56,8 @@ reflection:
 | 999 | **especialmente** | especially | especialmente hoy = _especially today_ |
 
 ## 3 · Listen (7 min)
-Watch a **Beginner or Intermediate** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Dreaming Spanish Made Me Rich (True Story)!](https://app.dreaming.com/spanish/watch?id=6ad0b63e825f706a09f2d3bd) · 16 min · Beginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** words ending in -mente, and -ísimo when someone exaggerates.
 
 ## 4 · Talk with your partner (10 min)

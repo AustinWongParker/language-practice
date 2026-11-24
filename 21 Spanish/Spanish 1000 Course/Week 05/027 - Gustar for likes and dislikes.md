@@ -65,7 +65,8 @@ reflection:
 | 966 | **música** | music | escuchar música = _to listen to music_ |
 
 ## 3 · Listen (7 min)
-Watch a **Superbeginner or Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Spanish Story for Beginners: "I Need Cash Now!”](https://app.dreaming.com/spanish/watch?id=6a0dc7b64a6295f32ed34eb1) · 8 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** me gusta / no me gusta: what do people like?
 
 ## 4 · Talk with your partner (10 min)

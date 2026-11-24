@@ -76,7 +76,8 @@ reflection:
 | 680 | **atrás** | back, behind; ago | mirar atrás = _to look back_ |
 
 ## 3 · Listen (7 min)
-Watch a **Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Learn Spanish With This Terrible Babysitter](https://app.dreaming.com/spanish/watch?id=6a1eb2874a6295f32ed34f3b) · 13 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** time words that place a story in the past.
 
 ## 4 · Talk with your partner (10 min)

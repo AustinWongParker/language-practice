@@ -53,7 +53,8 @@ reflection:
 3. 
 
 ## 3 · Listen (8 min)
-Watch a **Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [You Can't Afford to Shop Here](https://app.dreaming.com/spanish/watch?id=695f87b7b0b7b6f887702ed4) · 8 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **humano**, **físico**, **convertir**, **voz**.
 
 ## 4 · Talk with your partner (10 min)

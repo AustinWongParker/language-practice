@@ -74,7 +74,8 @@ An indirect object is who something is given, said or done **to** or **for**: I 
 | 679 | **preocupar** | to worry | no te preocupes = _don't worry_ |
 
 ## 3 · Listen (7 min)
-Watch a **Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [10 English Words Spanish Speakers Use Daily!](https://app.dreaming.com/spanish/watch?id=689cbb8ba96f7e266f6be92b) · 8 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** le and les: who is receiving something?
 
 ## 4 · Talk with your partner (10 min)

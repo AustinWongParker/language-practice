@@ -72,7 +72,8 @@ Three common verbs with a **-go** yo form *and* a stem change:
 | 411 | **oír** | to hear | ¿me oyes? = _can you hear me?_ |
 
 ## 3 · Listen (7 min)
-Watch a **Superbeginner or Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Guess the Country Ep. 2](https://app.dreaming.com/spanish/watch?id=6953e879b0b7b6f887702e60) · 3 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** tengo or tiene plus a feeling (hambre, frío, sueño).
 
 ## 4 · Talk with your partner (10 min)

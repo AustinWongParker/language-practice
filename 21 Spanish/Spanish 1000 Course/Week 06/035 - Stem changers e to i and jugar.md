@@ -75,7 +75,8 @@ Same pattern: **servir** (sirvo), **repetir** (repito), **seguir** (sigo; note t
 | 329 | **servir** | to serve; to be useful | no sirve = _it's no use_ |
 
 ## 3 · Listen (7 min)
-Watch a **Superbeginner or Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [The Sun Cruise Hotel in Jeongdongjin, South Korea](https://app.dreaming.com/spanish/watch?id=6576eb22b87d4fc8cc312d36) · 5 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** pide, sirve, juega.
 
 ## 4 · Talk with your partner (10 min)

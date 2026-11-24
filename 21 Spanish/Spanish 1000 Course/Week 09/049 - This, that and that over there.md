@@ -70,7 +70,8 @@ reflection:
 | 373 | **permitir** | to allow, to permit | no se permite = _it's not allowed_ |
 
 ## 3 · Listen (7 min)
-Watch a **Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Guess who's older: Celebrity Edition](https://app.dreaming.com/spanish/watch?id=653529808f9414faa793dd86) · 8 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** este and ese: what are people pointing at?
 
 ## 4 · Talk with your partner (10 min)

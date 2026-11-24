@@ -61,7 +61,8 @@ When there's an indirect and a direct object pronoun together, the **indirect on
 | 894 | **mandar** | to send; to order | mandar un mensaje = _to send a message_ |
 
 ## 3 · Listen (7 min)
-Watch a **Beginner or Intermediate** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Beginner Spanish Story: "Becoming Kendall”](https://app.dreaming.com/spanish/watch?id=69f20b2badd1079282768fb2) · 16 min · Beginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** quick little pronoun pairs: "se lo", "me lo", "te la".
 
 ## 4 · Talk with your partner (10 min)

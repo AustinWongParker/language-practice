@@ -65,7 +65,8 @@ reflection:
 | 816 | **muerto** | dead | está muerto = _it's dead_ |
 
 ## 3 · Listen (7 min)
-Watch a **Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Learn Spanish With This Amazing Postmodern Artist](https://app.dreaming.com/spanish/watch?id=6a7c92085d1a104d5ad46ad8) · 7 min · Beginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** he, has, ha + a verb ending in -ado or -ido: "he visto", "ha dicho".
 
 ## 4 · Talk with your partner (10 min)

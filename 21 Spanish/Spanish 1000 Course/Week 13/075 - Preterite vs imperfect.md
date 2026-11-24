@@ -72,7 +72,8 @@ They often appear together: the imperfect sets the scene, the preterite interrup
 | 730 | **cuento** | story, tale | un cuento para niños = _a children's story_ |
 
 ## 3 · Listen (7 min)
-Watch a **Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Learn Spanish With This Story for Beginners  The Overachiever](https://app.dreaming.com/spanish/watch?id=6a55f463d10e9bd063ed61cc) · 12 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** the scene (imperfect) vs. what happened (preterite).
 
 ## 4 · Talk with your partner (10 min)

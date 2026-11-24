@@ -86,7 +86,7 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
 ## 3 · Listen (12 min)
-A longer session today: watch [Dreaming Spanish](https://www.dreaming.com/spanish) at **Superbeginner** level, or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
+A longer session today. Start with **[Sleepless Night - Spanish Story for Complete Beginners](https://app.dreaming.com/spanish/watch?id=69023ec9b0b7b6f8877029ea) · 7 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)

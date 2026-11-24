@@ -55,7 +55,8 @@ reflection:
 3. 
 
 ## 3 · Listen (8 min)
-Watch a **Beginner or Intermediate** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Draw Together Challenge](https://app.dreaming.com/spanish/watch?id=5e4d11e3aac87f3820954bf1) · 10 min · Beginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **profesor**, **siquiera**, **acompañar**, **labor**.
 
 ## 4 · Talk with your partner (10 min)

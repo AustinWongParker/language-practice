@@ -55,7 +55,8 @@ reflection:
 3. 
 
 ## 3 · Listen (8 min)
-Watch a **Beginner or Intermediate** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [How to spot a gringo in Mexico](https://app.dreaming.com/spanish/watch?id=641dcddcd7c1512d278dc50a) · 10 min · Beginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **suerte**, **religioso**, **instalar**, **serie**.
 
 ## 4 · Talk with your partner (10 min)

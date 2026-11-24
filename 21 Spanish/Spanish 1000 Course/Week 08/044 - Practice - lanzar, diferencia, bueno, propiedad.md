@@ -53,7 +53,8 @@ reflection:
 3. 
 
 ## 3 · Listen (8 min)
-Watch a **Superbeginner or Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Inner Dilemma: Should I Give Up My Seat?](https://app.dreaming.com/spanish/watch?id=69f35d4badd1079282768fc0) · 4 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **lanzar**, **diferencia**, **bueno**, **propiedad**.
 
 ## 4 · Talk with your partner (10 min)

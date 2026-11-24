@@ -71,7 +71,8 @@ Most verbs end in **-ar**. Drop the -ar and add the ending for who's doing it:
 | 401 | **comprar** | to buy | comprar pan = _to buy bread_ |
 
 ## 3 · Listen (7 min)
-Watch a **Superbeginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Beginner Spanish Story: "Lost in New York City”](https://app.dreaming.com/spanish/watch?id=69a99d23b0b7b6f8877035ee) · 8 min · First steps
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** -o and -amos endings: who is doing the action?
 
 ## 4 · Talk with your partner (10 min)

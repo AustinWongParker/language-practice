@@ -72,7 +72,8 @@ These verbs are regular except in the **yo** form, which ends in **-go**:
 | 391 | **caer** | to fall | me caí = _I fell_ |
 
 ## 3 · Listen (7 min)
-Watch a **Superbeginner or Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Movies in 5 mins: Finding Nemo](https://app.dreaming.com/spanish/watch?id=640f0ebf112debe7aa739dfb) · 7 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** hago, salgo, pongo.
 
 ## 4 · Talk with your partner (10 min)

@@ -65,7 +65,8 @@ reflection:
 | 732 | **siete** | seven | siete días = _seven days_ |
 
 ## 3 · Listen (7 min)
-Watch a **Superbeginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Learn Spanish With This Funny Story!](https://app.dreaming.com/spanish/watch?id=688cde8da96f7e266f6be865) · 6 min · First steps
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** numbers; try to catch every one you hear.
 
 ## 4 · Talk with your partner (10 min)

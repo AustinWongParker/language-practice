@@ -72,7 +72,8 @@ Attach pronouns to the end, adding an accent to keep the stress: **llama → ll�
 | 675 | **descansar** | to rest | necesito descansar = _I need to rest_ |
 
 ## 3 · Listen (7 min)
-Watch a **Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Weirdest foods from South Korea](https://app.dreaming.com/spanish/watch?id=6550e7bd5ae5b766158dec8b) · 5 min · Beginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** commands: people telling each other what to do.
 
 ## 4 · Talk with your partner (10 min)

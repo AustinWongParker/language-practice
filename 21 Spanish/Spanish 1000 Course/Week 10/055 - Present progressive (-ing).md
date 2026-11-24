@@ -69,7 +69,8 @@ Add what you learn to your [[-ing]] pattern note.
 | 789 | **llorar** | to cry | no llores = _don't cry_ |
 
 ## 3 · Listen (7 min)
-Watch a **Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [My First Driving Lesson - Spanish Comprehensible Input](https://app.dreaming.com/spanish/watch?id=68e90368e7b66772ed57d3d1) · 5 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** -ando and -iendo endings.
 
 ## 4 · Talk with your partner (10 min)

@@ -53,7 +53,8 @@ reflection:
 3. 
 
 ## 3 · Listen (8 min)
-Watch a **Superbeginner or Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [The Airport Nightmare - Easy Spanish Story for Beginners](https://app.dreaming.com/spanish/watch?id=68dce12ae7b66772ed57d35a) · 7 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **cambiar**, **ocurrir**, **luz**, **anterior**.
 
 ## 4 · Talk with your partner (10 min)

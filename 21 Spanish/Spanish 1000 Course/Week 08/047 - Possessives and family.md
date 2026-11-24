@@ -72,7 +72,8 @@ The possessive matches the thing owned, not the owner: **nuestra casa, mis herma
 | 460 | **hermano** | brother; hermanos = siblings | mi hermano = _my brother_ |
 
 ## 3 · Listen (7 min)
-Watch a **Superbeginner or Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Meet Calcetin, Andrea’s old friend](https://app.dreaming.com/spanish/watch?id=64259748d7c1512d278dc554) · 11 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** family words; sketch the family tree as you listen.
 
 ## 4 · Talk with your partner (10 min)

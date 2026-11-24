@@ -71,7 +71,8 @@ Three verbs that take another verb straight after them, in its "to ___" form (th
 | 102 | **querer** | to want; to love | quiero un café = _I want a coffee_ |
 
 ## 3 · Listen (7 min)
-Watch a **Superbeginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Adele Is Looking for Love…](https://app.dreaming.com/spanish/watch?id=69a9a103b0b7b6f8877035f1) · 8 min · First steps
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** quiero, puedo and tengo que followed by another verb.
 
 ## 4 · Talk with your partner (10 min)

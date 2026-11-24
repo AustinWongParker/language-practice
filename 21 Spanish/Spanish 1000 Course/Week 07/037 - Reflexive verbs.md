@@ -75,7 +75,8 @@ Reflexive verbs are actions you do to yourself. They end in **-se** and put a pr
 | 579 | **despertar** | to wake up; despertarse = to wake (yourself) up | me despierto a las siete = _I wake up at seven_ |
 
 ## 3 · Listen (7 min)
-Watch a **Superbeginner or Beginner** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** ["Meet My Boyfriend"  Spanish for Beginners](https://app.dreaming.com/spanish/watch?id=6a3b87a809d2527916e041b9) · 10 min · Superbeginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** me or se before verbs: someone's daily routine.
 
 ## 4 · Talk with your partner (10 min)

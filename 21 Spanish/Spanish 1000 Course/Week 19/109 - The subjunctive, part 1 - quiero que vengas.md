@@ -64,7 +64,8 @@ When one person wants, asks or hopes that **someone else** does something, the s
 | 899 | **memoria** | memory | de memoria = _by heart_ |
 
 ## 3 · Listen (7 min)
-Watch a **Beginner or Intermediate** video on [Dreaming Spanish](https://www.dreaming.com/spanish) (or its [YouTube](https://www.youtube.com/@DreamingSpanish) channel). Don't translate in your head; follow along from the pictures and gestures. The site logs your hours for you.
+**Today's video:** [Top 3 Destinations with Stunning Nature](https://app.dreaming.com/spanish/watch?id=6979f56eb0b7b6f887703033) · 11 min · Beginner
+Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** "que" followed by a verb with the "other" vowel: "quiero que sepas", "ojalá".
 
 ## 4 · Talk with your partner (10 min)
