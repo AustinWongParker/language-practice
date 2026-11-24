@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Anki:** do every due card, but **no new cards today**: stop once only new (blue) cards are left.
+- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **corto** · **oportunidad** · **derecha** · **dirigir** · **unir** · **muerte** · **plantear** · **gobierno** · **compartir** · **pensamiento** · **ley** · **plano** · **tocar** · **importancia** · **terrible** · **línea** · **temprano** · **andar** · **resultado** · **espacio** · **constituir** · **carrera** · **frase** · **reunión** · **cultura** · **enfermedad** · **resto** · **literatura** · **fe** · **atrás** · **sueño** · **dispuesto** · **compañero** · **depender** · **poder** · **acontecimiento** · **cumplir** · **jamás** · **tercero** · **continuar** · **arma** · **pie** · **esfuerzo** · **condición** · **contribuir** · **cortar** · **hábito** · **generalmente** · **habitual** · **juventud**
@@ -105,7 +105,7 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 A longer session today. Start with **[Spanish Story for Beginners: "The Fortune Teller”](https://app.dreaming.com/spanish/watch?id=69147b3ab0b7b6f887702b30) · 8 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
-- [ ] Anki reviews (no new cards)
+- [ ] Flashcard reviews
 - [ ] Week test
 - [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged

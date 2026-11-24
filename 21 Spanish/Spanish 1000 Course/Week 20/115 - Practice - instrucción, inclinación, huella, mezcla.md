@@ -17,7 +17,7 @@ reflection:
 > **10 new words** · 960 of 1000 after today
 
 ## 1 · Review (6 min)
-- **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
+- **Flashcards:** open your [[Spanish Flashcards|flashcards]] (the layers icon in the left sidebar, or the card count in the status bar) and do every card it shows. Today's 10 new words unlock on their own.
 - **Quick recall:** say what each word means, and use one in a sentence: **jardín** · **intervenir** · **satisfacer** · **curiosidad** · **éxito** · **suerte** · **encima** · **acercar** · **ello** · **difícil**
 
 > [!check]- Recall answers
@@ -124,7 +124,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 > Answer the questions out loud anyway and record yourself on your phone. Listen back once and note one thing to fix. Or book a session with a tutor (italki, Preply) or a language exchange partner (Tandem, HelloTalk).
 
 ## ✅ Finish
-- [ ] Anki: every due card, plus today's new cards
+- [ ] Flashcards: every card due today
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
 - [ ] Textbook exercise, answers checked

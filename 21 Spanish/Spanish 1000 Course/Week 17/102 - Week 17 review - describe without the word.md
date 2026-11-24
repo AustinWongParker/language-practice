@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Anki:** do every due card, but **no new cards today**: stop once only new (blue) cards are left.
+- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **proceso** · **desarrollo** · **contacto** · **dudar** · **guardar** · **margen** · **hallar** · **inmediatamente** · **dolor** · **bomba** · **impresión** · **respuesta** · **culpa** · **interesante** · **añadir** · **argentino** · **departamento** · **durar** · **tirar** · **invitar** · **marido** · **diario** · **naturalmente** · **tarea** · **acceso** · **impedir** · **crisis** · **sala** · **actitud** · **raro** · **suerte** · **religioso** · **instalar** · **serie** · **cubrir** · **cercano** · **argumento** · **prueba** · **hundir** · **éxito** · **absoluto** · **interpretar** · **pleno** · **normal** · **funcionar** · **señalar** · **cuarto** · **simplemente** · **perfectamente** · **especialmente**
@@ -103,7 +103,7 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 A longer session today. Start with **[Colombian Girl REACTS to Japanese Snacks](https://app.dreaming.com/spanish/watch?id=660f6ff012ff04264d87b6e4) · 16 min · Beginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
-- [ ] Anki reviews (no new cards)
+- [ ] Flashcard reviews
 - [ ] Week test
 - [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged

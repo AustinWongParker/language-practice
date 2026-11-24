@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Anki:** do every due card, but **no new cards today**: stop once only new (blue) cards are left.
+- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **mi** · **uno** · **primero** · **donde** · **porque** · **deber** · **ese** · **sí** · **nos** · **querer** · **ni** · **sobre** · **o** · **cuando** · **hombre** · **grande** · **ir** · **alguno** · **muy** · **forma** · **cada** · **tres** · **dos** · **cuatro** · **cinco** · **seis** · **diez** · **ocho** · **nueve** · **siete** · **algo** · **ya** · **momento** · **menos** · **vez** · **así** · **esto** · **ver** · **cierto** · **mundo** · **poner** · **sin** · **punto** · **mucho** · **después** · **hablar** · **trabajar** · **escuchar** · **estudiar** · **comprar**
@@ -104,7 +104,7 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 A longer session today. Start with **[The shower](https://app.dreaming.com/spanish/watch?id=6508ba09bfa14e2f3435e2a5) · 2 min · First steps**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
-- [ ] Anki reviews (no new cards)
+- [ ] Flashcard reviews
 - [ ] Week test
 - [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged

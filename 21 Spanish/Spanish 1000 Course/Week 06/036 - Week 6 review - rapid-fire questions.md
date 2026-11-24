@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Anki:** do every due card, but **no new cards today**: stop once only new (blue) cards are left.
+- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **campo** · **luego** · **dentro** · **cuenta** · **cuerpo** · **segundo** · **cual** · **perder** · **entender** · **cerrar** · **cambiar** · **ocurrir** · **luz** · **anterior** · **menor** · **aparecer** · **éste** · **gente** · **tomar** · **además** · **varios** · **cabeza** · **efecto** · **mantener** · **santo** · **quizás** · **servicio** · **tierra** · **contar** · **costar** · **comprender** · **mil** · **programa** · **distinto** · **último** · **don** · **pedir** · **valor** · **embargo** · **fácil** · **nadie** · **contrario** · **imaginar** · **junto** · **partido** · **ciento** · **pregunta** · **español** · **repetir** · **servir**
@@ -105,7 +105,7 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 A longer session today. Start with **[The Tinder date masterplan](https://app.dreaming.com/spanish/watch?id=643e5d61847dcc80ff097985) · 7 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
-- [ ] Anki reviews (no new cards)
+- [ ] Flashcard reviews
 - [ ] Week test
 - [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged

@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Anki:** do every due card, but **no new cards today**: stop once only new (blue) cards are left.
+- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **esperar** · **aceptar** · **formar** · **hacia** · **sino** · **bueno** · **nuevo** · **viejo** · **alto** · **malo** · **aún** · **nunca** · **caso** · **mano** · **pueblo** · **cuanto** · **solo** · **sentir** · **medio** · **alcanzar** · **cuyo** · **jugar** · **fuerza** · **tarde** · **tal** · **gustar** · **juego** · **cine** · **gusto** · **música** · **posible** · **ejemplo** · **tratar** · **crear** · **encontrar** · **ante** · **ser** · **aire** · **venir** · **palabra** · **obra** · **ninguno** · **mí** · **pues** · **situación** · **agua** · **rico** · **comida** · **vino** · **leche**
@@ -105,7 +105,7 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 A longer session today. Start with **[My ideal date](https://app.dreaming.com/spanish/watch?id=650833a6937d4a59994887b7) · 15 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
-- [ ] Anki reviews (no new cards)
+- [ ] Flashcard reviews
 - [ ] Week test
 - [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged

@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Anki:** do every due card, but **no new cards today**: stop once only new (blue) cards are left.
+- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **atender** · **ayudar** · **color** · **pasado** · **lista** · **famoso** · **falta** · **joven** · **colegio** · **escuela** · **ocasión** · **premio** · **visita** · **tu** · **dedo** · **quince** · **demostrar** · **existencia** · **mente** · **mayoría** · **conocimiento** · **examen** · **teléfono** · **mío** · **acto** · **rama** · **libre** · **recoger** · **inmediato** · **cuento** · **nivel** · **ciencia** · **ayuda** · **ambiente** · **imponer** · **alemán** · **casar** · **masa** · **clásico** · **futuro** · **loco** · **atención** · **pegar** · **capacidad** · **ambos** · **concreto** · **ocupar** · **entrada** · **objetivo** · **disposición**
@@ -105,7 +105,7 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 A longer session today. Start with **[Easy Spanish Story for Beginners: "Panic at the Airport" (A1-A2)](https://app.dreaming.com/spanish/watch?id=6ab4ef9ac98eef07ed0d0040) · 10 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
-- [ ] Anki reviews (no new cards)
+- [ ] Flashcard reviews
 - [ ] Week test
 - [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged

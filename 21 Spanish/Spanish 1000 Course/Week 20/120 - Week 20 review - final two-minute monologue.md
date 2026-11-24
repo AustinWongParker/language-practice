@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Anki:** do every due card, but **no new cards today**: stop once only new (blue) cards are left.
+- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **instrucción** · **inclinación** · **huella** · **mezcla** · **ciego** · **lejano** · **ejercicio** · **hospital** · **radio** · **treinta** · **conveniente** · **salida** · **sentimiento** · **salvar** · **mar** · **cuarto** · **parar** · **saber** · **cargo** · **poesía** · **justicia** · **brillante** · **destino** · **revolución** · **entrega** · **sensación** · **intelectual** · **representante** · **agudo** · **empleo** · **doce** · **salto** · **aun** · **operación** · **delicado** · **nota** · **convencido** · **simple** · **construcción** · **secretario** · **exposición** · **internacional** · **clave** · **cruzar** · **personal** · **pared** · **griego** · **poderoso** · **punta** · **mundial**
@@ -107,7 +107,7 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 A longer session today. Start with **[Andrea’s life: Then vs Now](https://app.dreaming.com/spanish/watch?id=64a99fd0a0a5bd388c202c53) · 12 min · Beginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
-- [ ] Anki reviews (no new cards)
+- [ ] Flashcard reviews
 - [ ] Week test
 - [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged

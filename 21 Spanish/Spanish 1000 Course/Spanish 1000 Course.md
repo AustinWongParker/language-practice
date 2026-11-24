@@ -14,7 +14,7 @@ These 1000 words make up most of what you hear in everyday Spanish. By the end y
 ## Your 30 minutes
 | Part | Time | What you do |
 |---|---|---|
-| 🔁 Review | 5–8 min | **Anki** (spaced repetition): every due card, then today's 10 new ones. Then a **quick recall** of words from 2, 5, 12, 25 and 50 lessons ago. |
+| 🔁 Review | 5–8 min | **[[Spanish Flashcards|Flashcards]]** (spaced repetition, built into Obsidian): every card due today, including today's 10 new words. Then a **quick recall** of words from 2, 5, 12, 25 and 50 lessons ago. |
 | 📘 Learn | 5–8 min | A grammar point (3 days a week), and **10 new words**, each in a short phrase. Read them out loud. |
 | 📝 Textbook | 4–5 min | Practice and review days only: a short **textbook unit** (plurals, gender, accents, pronunciation, conjugations, past tenses...) with a 6-question exercise, or a mixed check on review days. See [[Textbook Units]]. |
 | 🎧 Listen | 5–8 min | Today's [Dreaming Spanish](https://www.dreaming.com/spanish) video, linked in the lesson. Understand from context; don't translate. |
@@ -25,21 +25,21 @@ These 1000 words make up most of what you hear in everyday Spanish. By the end y
 ## How it works
 - Your next lesson appears in Bookmarks under **🎯 Today's Goals**, and in a pop-up when Obsidian opens.
 - Check every box and the lesson is done: it records today's date and clears from Today's Goals. The next lesson appears tomorrow.
-- Missed a day? Nothing is lost: the same lesson waits for you. Anki keeps your reviews on schedule in the meantime.
+- Missed a day? Nothing is lost: the same lesson waits for you. Your flashcards keep reviews on schedule in the meantime, and new words wait until you reach their lesson.
 - Before the last box, fill in `minutes`, `difficulty` (1 = easy, 5 = hard) and `reflection` at the top of the lesson. They add up on [[Progress]].
 - To pause the course, set `active` above to `false`.
 
 ## Set up once
-1. **Anki:** import the deck. See [[Anki Setup]] (about 5 minutes).
+1. **Flashcards:** read [[Spanish Flashcards]] (2 minutes). Nothing to install or import.
 2. **Your partner:** send them the [[Conversation Partner Guide]], and pick a regular time for your 10 minutes.
 3. **Dreaming Spanish:** make a free account on [dreaming.com](https://www.dreaming.com/spanish) so it counts your listening hours. Videos are also on [YouTube](https://www.youtube.com/@DreamingSpanish).
 
 ## Getting the most out of it
 - **Say everything out loud.** Reading aloud and speaking are what make words stick.
 - **Listen beyond the 8 minutes when you can.** Dreaming Spanish counts *hours*: their first milestone is around 50 hours. Listening on walks, commutes or chores adds up fast. Coffee Break Spanish and the Dreaming Spanish podcast work well for that.
-- **Keep Anki daily**, even on free days. 5 minutes every day beats 30 minutes once a week.
+- **Do your flashcards daily**, even on free days. 5 minutes every day beats 30 minutes once a week.
 - **Log your mistakes** in [[Spanish Mistakes Log]] and skim it before each conversation.
-- Feeling buried in Anki reviews? Do a review day early, or drop to 7 new cards a day until it eases.
+- Feeling buried in flashcard reviews? Do a review day early, or lower **new cards per day** in the flashcard settings until it eases.
 
 ## Reference
 - [[Spanish 1000 Word List]]: all 1000 words, each linked to the lesson that teaches it
