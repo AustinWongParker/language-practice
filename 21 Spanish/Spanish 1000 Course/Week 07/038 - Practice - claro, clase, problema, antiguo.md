@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 320 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **repetir** · **servir** · **cambiar** · **ocurrir** · **parecer** · **manera** · **hombre** · **grande**
 
@@ -30,7 +30,7 @@ reflection:
 > - **hombre** = man ([[008 - Practice - ni, sobre, o, cuando|lesson 8]])
 > - **grande** = big, large; great ([[008 - Practice - ni, sobre, o, cuando|lesson 8]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -46,18 +46,47 @@ reflection:
 | 273 | **carta** | letter; menu | la carta, por favor = _the menu, please_ |
 | 274 | **pobre** | poor | pobre gente = _poor people_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Conjugation: the full present tense
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Every regular verb follows one of three patterns. Learn the endings once and they work for thousands of verbs.
 
-## 3 · Listen (8 min)
+| | habl**ar** | com**er** | viv**ir** |
+|---|---|---|---|
+| yo | habl**o** | com**o** | viv**o** |
+| tú | habl**as** | com**es** | viv**es** |
+| él / ella / usted | habl**a** | com**e** | viv**e** |
+| nosotros | habl**amos** | com**emos** | viv**imos** |
+| vosotros | habl**áis** | com**éis** | viv**ís** |
+| ellos / ustedes | habl**an** | com**en** | viv**en** |
+
+- -er and -ir share every ending except **nosotros** and **vosotros**.
+- Subject pronouns are usually dropped, because the ending already shows who: **Hablo** = I speak.
+- The present also covers "I'm speaking" and near-future plans: **Mañana trabajo.** = I'm working tomorrow.
+
+**Exercise:** Conjugate the verb for the subject given.
+
+1. trabajar (nosotros) → 
+2. aprender (tú) → 
+3. escribir (ellos) → 
+4. vender (yo) → 
+5. abrir (nosotros) → 
+6. comprar (usted) → 
+
+> [!check]- Answers (check after you try)
+> 1. trabajamos
+> 2. aprendes
+> 3. escriben
+> 4. vendo
+> 5. abrimos
+> 6. compra
+
+## 4 · Listen (5 min)
 **Today's video:** [Alma's Family](https://app.dreaming.com/spanish/watch?id=61d7ee7428e95c163aea3456) · 5 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **claro**, **clase**, **problema**, **antiguo**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -100,6 +129,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

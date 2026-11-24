@@ -16,11 +16,11 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 20 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** nothing to recall yet. From lesson 3 on, words from earlier lessons come back here at growing gaps (2, 5, 12, 25 and 50 lessons later).
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -36,18 +36,46 @@ reflection:
 | 15 | **su** | his, her, their, your (formal) | su casa = _his/her/their house_ |
 | 16 | **haber** | to have (helper verb); hay = there is/are | hay un problema = _there's a problem_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Pronunciation: the five vowels
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Spanish has only **five vowel sounds**, and they never change. They're short and pure, with no glide at the end like English "o" in "go".
 
-## 3 · Listen (8 min)
+| Letter | Sounds like | Examples |
+|---|---|---|
+| **a** | f**a**ther | casa, mapa, hablar |
+| **e** | m**e**t | mesa, verde, leche |
+| **i** | mach**i**ne | sí, vida, niño |
+| **o** | **o**rder (short) | todo, poco, ojo |
+| **u** | r**u**le | uno, mucho, azul |
+
+- Every vowel is pronounced, even at the end: **noche** = NO-che, not "notch".
+- Two vowels side by side keep their own sounds, run together quickly: **bueno** (bwe-no), **ciudad** (syoo-dad).
+- **u** is silent in **gue, gui, que, qui**: **guitarra, queso, quien**.
+
+**Exercise:** Say each word out loud slowly, then fast. Write how many syllables it has.
+
+1. casa → 
+2. leche → 
+3. cinco → 
+4. teléfono → 
+5. universidad → 
+6. abuela → 
+
+> [!check]- Answers (check after you try)
+> 1. 2 (ca-sa)
+> 2. 2 (le-che)
+> 3. 2 (cin-co)
+> 4. 4 (te-lé-fo-no)
+> 5. 5 (u-ni-ver-si-dad)
+> 6. 3 (a-bue-la)
+
+## 4 · Listen (5 min)
 **Today's video:** [Things I Eat](https://app.dreaming.com/spanish/watch?id=5e4d121caac87f3820954cb5) · 5 min · First steps
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **y**, **a**, **no**, **se**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -90,6 +118,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

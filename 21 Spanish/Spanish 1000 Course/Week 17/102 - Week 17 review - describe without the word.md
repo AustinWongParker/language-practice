@@ -75,7 +75,21 @@ reflection:
 
 This week's lessons: [[097 - Relative words - que, quien, donde, lo que|Lesson 97]] · [[098 - Practice - impresión, respuesta, culpa, interesante|Lesson 98]] · [[099 - Practice - marido, diario, naturalmente, tarea|Lesson 99]] · [[100 - Practice - suerte, religioso, instalar, serie|Lesson 100]] · [[101 - Adverbs with -mente and very, very with -ísimo|Lesson 101]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[098 - Practice - impresión, respuesta, culpa, interesante|Connecting words]] · [[099 - Practice - marido, diario, naturalmente, tarea|Confusing verb pairs]] · [[100 - Practice - suerte, religioso, instalar, serie|Verb + infinitive phrases]] · [[076 - Practice - nivel, ciencia, ayuda, ambiente|Preterite or imperfect? The textbook rules]]
+
+1. _Join or complete with the right connector._ ___ do you study Spanish? ___ I like it. → 
+2. _Choose the right verb._ Can you ___ (bring) me water? → 
+3. _Say it with one of the phrases._ I usually walk to work. → 
+4. _Preterite or imperfect?_ Yesterday I ___ (play) soccer. → 
+
+> [!check]- Answers
+> 1. ¿Por qué estudias español? Porque me gusta.
+> 2. ¿Puedes traerme agua?
+> 3. Suelo caminar al trabajo.
+> 4. jugué
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Play a guessing game: describe a person, place or thing without saying its name, using **que, donde, quien, lo que**: "Es una persona que...", "Es un lugar donde...". Your partner guesses. Swap.
@@ -85,12 +99,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[Colombian Girl REACTS to Japanese Snacks](https://app.dreaming.com/spanish/watch?id=660f6ff012ff04264d87b6e4) · 16 min · Beginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 700 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **discutir** · **pasión** · **concreto** · **ocupar** · **literatura** · **fe** · **preocupar** · **atravesar** · **calle** · **parecer**
 
@@ -32,7 +32,7 @@ reflection:
 > - **calle** = street ([[023 - Telling time and days of the week|lesson 23]])
 > - **parecer** = to seem; to look like ([[023 - Telling time and days of the week|lesson 23]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,41 @@ reflection:
 | 667 | **seguramente** | surely, probably | seguramente llueve = _it'll probably rain_ |
 | 668 | **resistir** | to resist, to withstand | no puedo resistir = _I can't resist_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Diminutives and augmentatives
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Endings that change size or feeling. Very common in speech, especially in Latin America.
 
-## 3 · Listen (8 min)
+- **-ito / -ita** = small, cute or affectionate: **casa → casita**, **perro → perrito**, **ahora → ahorita** (right now, in Mexico), **un momentito**, **un poquito**.
+- Words ending in **-e, -n, -r** often take **-cito / -cita**: **café → cafecito**, **joven → jovencito**, **amor → amorcito**.
+- Spelling keeps the sound: **poco → poquito**, **amigo → amiguito**.
+- **-illo / -illa** = small, sometimes with a new meaning: **ventana → ventanilla** (car or ticket window), **bocadillo** (sandwich, in Spain).
+- **-ón / -ona** = big (or exaggerated): **casa → casona**, **problema → problemón**, **cabeza → cabezón** (big-headed, stubborn).
+- **-azo** = big or a blow: **golpe → golpazo**, **éxito → exitazo**.
+
+**Exercise:** Make the diminutive (-ito / -ita).
+
+1. perro → 
+2. casa → 
+3. poco → 
+4. café → 
+5. abuela → 
+6. momento → 
+
+> [!check]- Answers (check after you try)
+> 1. perrito
+> 2. casita
+> 3. poquito
+> 4. cafecito
+> 5. abuelita
+> 6. momentito
+
+## 4 · Listen (5 min)
 **Today's video:** [What's Longer?](https://app.dreaming.com/spanish/watch?id=610ce18c9ee803001ea8d56b) · 10 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **separar**, **decisión**, **absolutamente**, **echar**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +125,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

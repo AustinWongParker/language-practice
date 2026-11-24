@@ -75,7 +75,23 @@ reflection:
 
 This week's lessons: [[073 - Imperfect - ser, ir, ver|Lesson 73]] · [[074 - Practice - ocasión, premio, visita, tu|Lesson 74]] · [[075 - Preterite vs imperfect|Lesson 75]] · [[076 - Practice - nivel, ciencia, ayuda, ambiente|Lesson 76]] · [[077 - Por vs para|Lesson 77]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[074 - Practice - ocasión, premio, visita, tu|Time expressions with hace, desde and llevar]] · [[076 - Practice - nivel, ciencia, ayuda, ambiente|Preterite or imperfect? The textbook rules]] · [[052 - Practice - edad, cantidad, actuar, comprobar|The personal "a"]]
+
+1. _Say it in Spanish._ I've been studying Spanish for two months. → 
+2. _Say it in Spanish._ She called an hour ago. → 
+3. _Preterite or imperfect?_ Yesterday I ___ (play) soccer. → 
+4. _Preterite or imperfect?_ Suddenly, it ___ (start) to rain. → 
+5. _Add the personal a where it's needed._ I have three brothers. → 
+
+> [!check]- Answers
+> 1. Hace dos meses que estudio español. / Llevo dos meses estudiando español.
+> 2. Llamó hace una hora.
+> 3. jugué
+> 4. empezó
+> 5. Tengo tres hermanos.
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Talk about your childhood with the imperfect: where you lived, what you were like, what you used to do. Then tell one specific story from back then, mixing the preterite and the imperfect.
@@ -85,12 +101,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[Easy Spanish Story for Beginners: "Panic at the Airport" (A1-A2)](https://app.dreaming.com/spanish/watch?id=6ab4ef9ac98eef07ed0d0040) · 10 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

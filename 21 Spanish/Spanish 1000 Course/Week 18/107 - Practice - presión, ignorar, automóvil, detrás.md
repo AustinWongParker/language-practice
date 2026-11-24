@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 900 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **azul** · **opinar** · **especialmente** · **absoluto** · **superior** · **habitación** · **capacidad** · **ambos** · **natural** · **contestar**
 
@@ -32,7 +32,7 @@ reflection:
 > - **natural** = natural ([[047 - Possessives and family|lesson 47]])
 > - **contestar** = to answer ([[047 - Possessives and family|lesson 47]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,47 @@ reflection:
 | 884 | **americano** | American | un amigo americano = _an American friend_ |
 | 886 | **sesenta** | sixty | sesenta minutos = _sixty minutes_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Past participles
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+The past participle is the "-ed" form: **hablado**, **comido**, **vivido**.
+- **-ar → -ado**, **-er / -ir → -ido**. An accent appears after a strong vowel: **leído, oído, creído, traído**.
 
-## 3 · Listen (8 min)
+**Irregular participles:**
+| | | |
+|---|---|---|
+| abrir → **abierto** | decir → **dicho** | escribir → **escrito** |
+| hacer → **hecho** | morir → **muerto** | poner → **puesto** |
+| romper → **roto** | ver → **visto** | volver → **vuelto** |
+| cubrir → **cubierto** | resolver → **resuelto** | descubrir → **descubierto** |
+
+**Two uses:**
+1. With **haber** (perfect tenses), never changes: **Ella ha abierto las ventanas.**
+2. As an **adjective**, agrees like one: **las ventanas abiertas**, **la puerta está cerrada**, **un vaso roto**.
+
+**Exercise:** Give the participle, agreeing as an adjective where needed.
+
+1. He has written (escribir) a book. → 
+2. The door is open (abrir). → 
+3. The windows are broken (romper). → 
+4. We have seen (ver) it. → 
+5. a fried (freír) egg → 
+6. I have read (leer) it. → 
+
+> [!check]- Answers (check after you try)
+> 1. Ha escrito un libro.
+> 2. La puerta está abierta.
+> 3. Las ventanas están rotas.
+> 4. Lo hemos visto.
+> 5. un huevo frito
+> 6. Lo he leído.
+
+## 4 · Listen (5 min)
 **Today's video:** [Making Arepas With Natalia](https://app.dreaming.com/spanish/watch?id=66465a6b235eb1788bb3b443) · 10 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **presión**, **ignorar**, **automóvil**, **detrás**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +131,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

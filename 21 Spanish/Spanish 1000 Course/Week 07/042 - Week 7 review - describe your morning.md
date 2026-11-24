@@ -75,7 +75,23 @@ reflection:
 
 This week's lessons: [[037 - Reflexive verbs|Lesson 37]] · [[038 - Practice - claro, clase, problema, antiguo|Lesson 38]] · [[039 - Sequence and frequency words|Lesson 39]] · [[040 - Practice - terminar, deseo, padre, tampoco|Lesson 40]] · [[041 - Yo-go verbs - hacer, poner, salir, traer|Lesson 41]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[038 - Practice - claro, clase, problema, antiguo|Conjugation: the full present tense]] · [[040 - Practice - terminar, deseo, padre, tampoco|Spelling-change verbs]] · [[016 - Practice - parte, vida, trabajo, nombre|Singular and plural]]
+
+1. _Conjugate the verb for the subject given._ aprender (tú) → 
+2. _Conjugate the verb for the subject given._ abrir (nosotros) → 
+3. _Give the yo form._ elegir → 
+4. _Give the yo form._ parecer → 
+5. _Make it plural, including the article._ el examen → 
+
+> [!check]- Answers
+> 1. aprendes
+> 2. abrimos
+> 3. elijo
+> 4. parezco
+> 5. los exámenes
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Walk your partner through this morning, step by step: **primero, luego, después, por fin**. Use reflexive verbs (me levanto, me ducho...) and yo-go verbs (salgo, pongo, traigo, hago).
@@ -85,12 +101,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[Spanish Story for Complete Beginners: "A Horrible Hotel”](https://app.dreaming.com/spanish/watch?id=69de1e3ab0b7b6f88770387e) · 9 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

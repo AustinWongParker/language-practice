@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 370 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **negro** · **miedo** · **obtener** · **centro** · **vino** · **leche** · **mujer** · **hora**
 
@@ -30,7 +30,7 @@ reflection:
 > - **mujer** = woman; wife ([[014 - Practice - mujer, hora, ahora, propio|lesson 14]])
 > - **hora** = hour; time (on the clock) ([[014 - Practice - mujer, hora, ahora, propio|lesson 14]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -46,18 +46,38 @@ reflection:
 | 331 | **comenzar** | to begin | comenzar de nuevo = _to start again_ |
 | 332 | **idea** | idea | buena idea = _good idea_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Pronunciation: b, v, d and linking words
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+- **b** and **v** sound **the same**. At the start of a phrase or after **m / n**, it's a full "b": **vamos**, **un vaso**. Between vowels, the lips barely touch: **la vida**, **lobo**.
+- **d** between vowels or at the end of a word is soft, like "th" in "this": **nada**, **todo**, **ciudad**, **verdad**.
+- **t** and **d** are made with the tongue touching the back of your top teeth, not the gum ridge.
+- **p, t, k** have no puff of air: hold your hand in front of your mouth; it shouldn't feel a breath on **papá, tú, casa**.
+- **Linking:** words run together when one ends and the next starts with a vowel: **¿Cómo_está_usted?** sounds like "comoestáusted". Practicing this makes listening easier too.
 
-## 3 · Listen (8 min)
+**Exercise:** Say each phrase smoothly, linking the words. Which consonant is soft?
+
+1. la vida → 
+2. nada → 
+3. ¿Dónde está? → 
+4. todo el día → 
+5. un vaso → 
+6. la verdad → 
+
+> [!check]- Answers (check after you try)
+> 1. v (soft, lips barely touch)
+> 2. d (soft, like "th" in this)
+> 3. links: dónde_está
+> 4. d (soft) + links: todo_el
+> 5. v (full b after n)
+> 6. v and both d's soft
+
+## 4 · Listen (5 min)
 **Today's video:** [Inner Dilemma: Should I Give Up My Seat?](https://app.dreaming.com/spanish/watch?id=69f35d4badd1079282768fc0) · 4 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **lanzar**, **diferencia**, **bueno**, **propiedad**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -100,6 +120,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

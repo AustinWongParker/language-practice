@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 120 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **después** · **hablar** · **ir** · **alguno**
 
@@ -26,7 +26,7 @@ reflection:
 > - **ir** = to go ([[008 - Practice - ni, sobre, o, cuando|lesson 8]])
 > - **alguno** = some, any ([[008 - Practice - ni, sobre, o, cuando|lesson 8]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -42,18 +42,46 @@ reflection:
 | 91 | **mejor** | better, best | mucho mejor = _much better_ |
 | 92 | **niño** | boy, child | un niño pequeño = _a little boy_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Gender of nouns: rules and exceptions
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Every noun is masculine (**el, un**) or feminine (**la, una**). The ending usually tells you:
 
-## 3 · Listen (8 min)
+| Usually masculine | Usually feminine |
+|---|---|
+| **-o**: el libro, el año | **-a**: la casa, la mesa |
+| **-or**: el color, el amor | **-ción / -sión**: la canción, la televisión |
+| **-aje**: el viaje, el mensaje | **-dad / -tad**: la ciudad, la libertad |
+| **-ma** (Greek words): el problema, el tema, el sistema, el programa, el idioma | **-umbre / -tud**: la costumbre, la actitud |
+
+**Famous exceptions:** **el día**, **el mapa**, **el planeta**, **la mano**, **la foto** (fotografía), **la moto** (motocicleta), **la radio**.
+
+- Words ending in **-e** or other consonants just have to be learned: **el coche, la calle, el árbol, la luz**.
+- Feminine words that start with a stressed **a-** take **el** in the singular to avoid "la a-": **el agua**, **el alma**, **el arma**. They're still feminine: **el agua fría**, **las aguas**.
+
+**Exercise:** El or la?
+
+1. ___ problema → 
+2. ___ canción → 
+3. ___ día → 
+4. ___ mano → 
+5. ___ ciudad → 
+6. ___ agua (fría) → 
+
+> [!check]- Answers (check after you try)
+> 1. el problema
+> 2. la canción
+> 3. el día
+> 4. la mano
+> 5. la ciudad
+> 6. el agua (fría)
+
+## 4 · Listen (5 min)
 **Today's video:** [Movie Night - Beginner Spanish Story (Comprehensible Input)](https://app.dreaming.com/spanish/watch?id=6900ef99b0b7b6f887702924) · 8 min · First steps
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **mujer**, **hora**, **ahora**, **propio**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -96,6 +124,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

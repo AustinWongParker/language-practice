@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 570 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **agosto** · **rato** · **olvidar** · **zona** · **adelante** · **diferente** · **posibilidad** · **vista** · **ir** · **alguno**
 
@@ -32,7 +32,7 @@ reflection:
 > - **ir** = to go ([[008 - Practice - ni, sobre, o, cuando|lesson 8]])
 > - **alguno** = some, any ([[008 - Practice - ni, sobre, o, cuando|lesson 8]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,43 @@ reflection:
 | 534 | **resultado** | result | el resultado = _the result_ |
 | 535 | **espacio** | space, room | no hay espacio = _there's no room_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Preterite spelling changes
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Some verbs change spelling in the preterite to keep their sound. Only the forms shown change; the rest are regular.
 
-## 3 · Listen (8 min)
+| Ending | yo form | Examples |
+|---|---|---|
+| **-car** | c → **qu** | buscar → bus**qu**é, tocar → to**qu**é, sacar → sa**qu**é |
+| **-gar** | g → **gu** | llegar → lle**gu**é, pagar → pa**gu**é, jugar → ju**gu**é |
+| **-zar** | z → **c** | empezar → empe**c**é, almorzar → almor**c**é |
+| vowel + **-er / -ir** | i → **y** in él / ellos | leer → le**y**ó, le**y**eron · caer → ca**y**ó · oír → o**y**ó · construir → constru**y**ó |
+
+- The -car/-gar/-zar changes only happen in **yo**: **buscaste, llegó, empezamos** are regular.
+
+**Exercise:** Put the verb in the preterite.
+
+1. yo / llegar → 
+2. yo / buscar → 
+3. yo / empezar → 
+4. él / leer → 
+5. ellos / oír → 
+6. tú / pagar → 
+
+> [!check]- Answers (check after you try)
+> 1. llegué
+> 2. busqué
+> 3. empecé
+> 4. leyó
+> 5. oyeron
+> 6. pagaste
+
+## 4 · Listen (5 min)
 **Today's video:** [The Funeral  Spanish for Beginners  Level: Easy](https://app.dreaming.com/spanish/watch?id=6a60a65b14238379a55ecd11) · 10 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **ley**, **plano**, **tocar**, **importancia**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +127,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

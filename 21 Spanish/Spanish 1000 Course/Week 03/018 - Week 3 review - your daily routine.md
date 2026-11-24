@@ -75,7 +75,21 @@ reflection:
 
 This week's lessons: [[013 - Regular -ER verbs|Lesson 13]] · [[014 - Practice - mujer, hora, ahora, propio|Lesson 14]] · [[015 - Regular -IR verbs|Lesson 15]] · [[016 - Practice - parte, vida, trabajo, nombre|Lesson 16]] · [[017 - Gender, articles and plurals|Lesson 17]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[014 - Practice - mujer, hora, ahora, propio|Gender of nouns: rules and exceptions]] · [[016 - Practice - parte, vida, trabajo, nombre|Singular and plural]]
+
+1. _El or la?_ ___ mano → 
+2. _El or la?_ ___ problema → 
+3. _Make it plural, including the article._ el examen → 
+4. _Make it plural, including the article._ el amigo → 
+
+> [!check]- Answers
+> 1. la mano
+> 2. el problema
+> 3. los exámenes
+> 4. los amigos
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Describe a normal weekday with at least six verbs (-ar, -er and -ir): where you work or study, what you eat, what you read or listen to. Your partner stops you with **¿Y después?** whenever you pause.
@@ -85,12 +99,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[The 30th Birthday Party - Easy Spanish Story for Beginners](https://app.dreaming.com/spanish/watch?id=68f2750e36dfb0b3c21fdb00) · 7 min · First steps**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 640 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **demostrar** · **existencia** · **tercero** · **continuar** · **olvidar** · **zona** · **dinero** · **millón** · **casa** · **país**
 
@@ -32,7 +32,7 @@ reflection:
 > - **casa** = house, home ([[016 - Practice - parte, vida, trabajo, nombre|lesson 16]])
 > - **país** = country ([[016 - Practice - parte, vida, trabajo, nombre|lesson 16]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,46 @@ reflection:
 | 601 | **clásico** | classic | música clásica = _classical music_ |
 | 602 | **futuro** | future | en el futuro = _in the future_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Preterite or imperfect? The textbook rules
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+| Preterite: **finished events** | Imperfect: **background and habits** |
+|---|---|
+| Single actions: **Comí** a las dos. | Habits, "used to": **Comía** allí cada día. |
+| A series of events: **Llegué, cené y me acosté.** | Descriptions: La casa **era** grande. |
+| A set length of time: **Viví** allí dos años. | Time and age: **Eran** las diez. **Tenía** diez años. |
+| Start or end: **Empezó** a llover. | Ongoing actions: **Llovía** mucho. |
+| The action that interrupts | What was going on: **Leía** cuando **sonó** el teléfono. |
 
-## 3 · Listen (8 min)
+**Trigger words:**
+- Preterite: **ayer, anoche, el año pasado, una vez, de repente, en 2020**
+- Imperfect: **siempre, todos los días, a menudo, mientras, de niño, antes**
+
+Think of a movie: the imperfect is the scenery; the preterite is the plot.
+
+**Exercise:** Preterite or imperfect?
+
+1. When I was a kid, I ___ (play) soccer. → 
+2. Yesterday I ___ (play) soccer. → 
+3. It ___ (be) ten o'clock. → 
+4. I ___ (read) when you called. → 
+5. Suddenly, it ___ (start) to rain. → 
+6. We ___ (live) there for two years (and then left). → 
+
+> [!check]- Answers (check after you try)
+> 1. jugaba
+> 2. jugué
+> 3. Eran (las diez)
+> 4. leía
+> 5. empezó
+> 6. vivimos
+
+## 4 · Listen (5 min)
 **Today's video:** [Let’s try these tiny coconuts!](https://app.dreaming.com/spanish/watch?id=65e8c193def9ded83c28a9f8) · 5 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **nivel**, **ciencia**, **ayuda**, **ambiente**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +130,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 870 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **funcionar** · **señalar** · **departamento** · **durar** · **médico** · **director** · **ocasión** · **premio** · **bueno** · **propiedad**
 
@@ -32,7 +32,7 @@ reflection:
 > - **bueno** = well... (filler); okay ([[044 - Practice - lanzar, diferencia, bueno, propiedad|lesson 44]])
 > - **propiedad** = property ([[044 - Practice - lanzar, diferencia, bueno, propiedad|lesson 44]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,48 @@ reflection:
 | 852 | **dividir** | to divide | dividir en dos = _to split in two_ |
 | 853 | **pesado** | heavy; annoying | ¡qué pesado! = _how annoying!_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Reflexive verbs that change meaning
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Adding **se** can change a verb's meaning, not just make it "to yourself":
 
-## 3 · Listen (8 min)
+| Plain | Reflexive |
+|---|---|
+| **ir** = to go | **irse** = to leave, go away: **Me voy.** |
+| **dormir** = to sleep | **dormirse** = to fall asleep |
+| **llamar** = to call | **llamarse** = to be named |
+| **quedar** = to arrange to meet; to be left | **quedarse** = to stay |
+| **poner** = to put | **ponerse** = to put on (clothes); to become: **Se puso rojo.** |
+| **parecer** = to seem | **parecerse a** = to look like: **Me parezco a mi padre.** |
+| **acordar** = to agree | **acordarse de** = to remember |
+| **llevar** = to carry | **llevarse bien** = to get along |
+| **despedir** = to fire | **despedirse** = to say goodbye |
+
+**Each other:** plural reflexive pronouns also mean "each other": **Nos vemos mañana.** (We'll see each other) · **Se quieren mucho.** (They love each other) · **Nos escribimos.**
+
+**Exercise:** Plain or reflexive? Use the right form.
+
+1. I'm leaving now. → 
+2. I fell asleep at ten. → 
+3. We stayed at home. → 
+4. I get along well with my sister. → 
+5. I look like my mother. → 
+6. They call each other every day. → 
+
+> [!check]- Answers (check after you try)
+> 1. Ya me voy.
+> 2. Me dormí a las diez.
+> 3. Nos quedamos en casa.
+> 4. Me llevo bien con mi hermana.
+> 5. Me parezco a mi madre.
+> 6. Se llaman todos los días.
+
+## 4 · Listen (5 min)
 **Today's video:** [Learn Spanish with This Story: "The Magician" (Level: Beginner)](https://app.dreaming.com/spanish/watch?id=6ab65b8dc98eef07ed0d006d) · 8 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **completar**, **interior**, **ajeno**, **despedir**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +132,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

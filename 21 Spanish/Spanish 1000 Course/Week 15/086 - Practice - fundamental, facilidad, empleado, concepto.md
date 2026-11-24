@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 720 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **autor** · **aspecto** · **recuerdo** · **conservar** · **arma** · **pie** · **social** · **abierto** · **pueblo** · **cuanto**
 
@@ -32,7 +32,7 @@ reflection:
 > - **pueblo** = town, village; a people ([[026 - Practice - aún, nunca, caso, mano|lesson 26]])
 > - **cuanto** = as much as; en cuanto = as soon as ([[026 - Practice - aún, nunca, caso, mano|lesson 26]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,45 @@ reflection:
 | 689 | **mencionar** | to mention | como mencioné = _as I mentioned_ |
 | 690 | **práctica** | practice | en la práctica = _in practice_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Por vs para: practice
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+**Para** points **toward** a goal; **por** goes **through** or comes **from** a cause.
 
-## 3 · Listen (8 min)
+| **para** | **por** |
+|---|---|
+| purpose, "in order to": Estudio **para** aprender. | cause, "because of": Lo hice **por** ti. |
+| recipient: Es **para** ti. | exchange, price: Lo compré **por** diez dólares. |
+| destination: Salgo **para** México. | through, around: Paseo **por** el parque. |
+| deadline: **para** el lunes | duration: Viví allí **por** dos años. |
+| opinion: **Para** mí, es fácil. | means: **por** teléfono, **por** email |
+| comparison: **Para** un niño, habla bien. | per: dos veces **por** semana |
+
+**Fixed phrases with por:** por favor, por fin, por ejemplo, por eso, por supuesto, por la mañana, por cierto (by the way).
+
+**Exercise:** Por or para?
+
+1. This gift is ___ you. → 
+2. Thanks ___ everything. → 
+3. I walk ___ the beach. → 
+4. I need it ___ Friday. → 
+5. I study ___ get a better job. → 
+6. We talk ___ phone every day. → 
+
+> [!check]- Answers (check after you try)
+> 1. para
+> 2. por
+> 3. por
+> 4. para
+> 5. para
+> 6. por
+
+## 4 · Listen (5 min)
 **Today's video:** [Things I look for in an apartment](https://app.dreaming.com/spanish/watch?id=64f73cfd3d578af923ba2b0a) · 6 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **fundamental**, **facilidad**, **empleado**, **concepto**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +129,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

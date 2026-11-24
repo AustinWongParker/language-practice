@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 40 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **un** · **lo**
 
@@ -24,7 +24,7 @@ reflection:
 > - **un** = a, an (masc.) ([[002 - Practice - y, a, no, se|lesson 2]])
 > - **lo** = it, him (object); the (+ adjective) ([[002 - Practice - y, a, no, se|lesson 2]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -40,18 +40,49 @@ reflection:
 | 29 | **dar** | to give | dame un minuto = _give me a minute_ |
 | 30 | **le** | to him, to her, to you (formal) | le digo = _I tell him/her_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): The alphabet and tricky letters
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+The Spanish alphabet has 27 letters, including **ñ**. Most letters sound like English; these are the ones to watch:
 
-## 3 · Listen (8 min)
+| Letter | Rule | Examples |
+|---|---|---|
+| **h** | always silent | hola, hay, hacer |
+| **j** | strong h, from the throat | jugar, hijo, mujer |
+| **g** | like **j** before e / i, hard g otherwise | gente, página · gato, grande |
+| **c** | "th"/"s" before e / i, k otherwise | cine, hacer · casa, cosa |
+| **z** | same as soft c | zona, vez, azul |
+| **ll / y** | like English y | llamar, calle, yo |
+| **ñ** | "ny" as in canyon | niño, año, español |
+| **qu** | k (u silent) | que, quince |
+| **v** | same as **b** | vida, vez, bien |
+
+- In most of Latin America soft **c** and **z** sound like **s**. In most of Spain they sound like "th". Both are correct.
+- Spelling a word aloud uses letter names: **a, be, ce, de, e, efe, ge, hache, i, jota, ka, ele, eme, ene, eñe, o, pe, cu, erre, ese, te, u, uve, uve doble, equis, ye, zeta**.
+
+**Exercise:** How is the letter in bold pronounced: like English h, k, s/th, y, or silent?
+
+1. **h**ablar → 
+2. **j**ugar → 
+3. **g**ente → 
+4. **c**asa → 
+5. ca**ll**e → 
+6. ha**c**er → 
+
+> [!check]- Answers (check after you try)
+> 1. silent
+> 2. like h
+> 3. like h
+> 4. k
+> 5. y
+> 6. s / th
+
+## 4 · Listen (5 min)
 **Today's video:** [Can You Understand This Video?](https://app.dreaming.com/spanish/watch?id=67e66bc9891bcf6812fa87d6) · 9 min · First steps
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **por**, **con**, **todo**, **más**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -94,6 +125,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

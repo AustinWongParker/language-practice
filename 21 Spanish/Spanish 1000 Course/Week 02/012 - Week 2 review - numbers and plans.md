@@ -75,7 +75,21 @@ reflection:
 
 This week's lessons: [[007 - Want, can and have to|Lesson 7]] · [[008 - Practice - ni, sobre, o, cuando|Lesson 8]] · [[009 - Numbers, age and hay|Lesson 9]] · [[010 - Practice - algo, ya, momento, menos|Lesson 10]] · [[011 - Regular -AR verbs|Lesson 11]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[008 - Practice - ni, sobre, o, cuando|Tú vs usted: formal and informal "you"]] · [[010 - Practice - algo, ya, momento, menos|Stress rules and written accents]]
+
+1. _Tú or usted? Then ask "Where do you live?" in that form._ your little cousin → 
+2. _Tú or usted? Then ask "Where do you live?" in that form._ your partner's grandmother → 
+3. _Read each word aloud, then say which syllable is stressed and why._ sofá → 
+4. _Read each word aloud, then say which syllable is stressed and why._ joven → 
+
+> [!check]- Answers
+> 1. tú: ¿Dónde vives?
+> 2. usted: ¿Dónde vive?
+> 3. so-FÁ (accent breaks rule 1)
+> 4. JO-ven (ends in -n, rule 1)
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Your partner asks: ¿Cuántos años tienes? ¿Cuántas personas hay en tu familia? ¿Qué quieres hacer esta semana? ¿Qué tienes que hacer? ¿Qué puedes hacer en español?
@@ -86,12 +100,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[The shower](https://app.dreaming.com/spanish/watch?id=6508ba09bfa14e2f3435e2a5) · 2 min · First steps**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

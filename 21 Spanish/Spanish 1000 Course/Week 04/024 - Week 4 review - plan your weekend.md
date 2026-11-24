@@ -75,7 +75,21 @@ reflection:
 
 This week's lessons: [[019 - Question words|Lesson 19]] · [[020 - Practice - realidad, presentar, conocer, hecho|Lesson 20]] · [[021 - Ir and making plans|Lesson 21]] · [[022 - Practice - modo, llevar, amigo, tema|Lesson 22]] · [[023 - Telling time and days of the week|Lesson 23]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[020 - Practice - realidad, presentar, conocer, hecho|Asking questions]] · [[022 - Practice - modo, llevar, amigo, tema|Punctuation and capital letters]]
+
+1. _Turn the answer into a question about the part in bold._ Mi número es **el 555**. → 
+2. _Turn the answer into a question about the part in bold._ Soy **de México**. → 
+3. _Fix the punctuation and capital letters._ Que bonito → 
+4. _Fix the punctuation and capital letters._ Nos vemos el Martes → 
+
+> [!check]- Answers
+> 1. ¿Cuál es tu número?
+> 2. ¿De dónde eres?
+> 3. ¡Qué bonito!
+> 4. Nos vemos el martes.
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Plan a weekend together in Spanish. Use **ir a** + verb, days and times, and at least five question words (qué, dónde, cuándo, con quién, cuánto...). Agree on a plan and say it back.
@@ -85,12 +99,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[Sleepless Night - Spanish Story for Complete Beginners](https://app.dreaming.com/spanish/watch?id=69023ec9b0b7b6f8877029ea) · 7 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

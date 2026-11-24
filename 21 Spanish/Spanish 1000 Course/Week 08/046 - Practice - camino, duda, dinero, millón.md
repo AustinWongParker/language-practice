@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 390 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **todavía** · **joven** · **familia** · **desarrollar** · **cambiar** · **ocurrir** · **trabajo** · **nombre**
 
@@ -30,7 +30,7 @@ reflection:
 > - **trabajo** = work, job ([[016 - Practice - parte, vida, trabajo, nombre|lesson 16]])
 > - **nombre** = name; noun ([[016 - Practice - parte, vida, trabajo, nombre|lesson 16]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -46,18 +46,45 @@ reflection:
 | 353 | **sitio** | place, spot | en algún sitio = _somewhere_ |
 | 354 | **arriba** | up, above, upstairs | arriba y abajo = _up and down_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Using articles: el, la, un, una
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+**The definite article (el, la, los, las) is used more than in English:**
+- General statements: **Me gusta el café.** · **Los perros son leales.** (Dogs are loyal.)
+- Days for "on": **El lunes trabajo.** = I work on Monday. **Los lunes** = on Mondays.
+- Titles when talking about someone: **El señor García no está.** (but not when talking to them: **Buenos días, señor García.**)
+- Body parts and clothes, instead of "my": **Me duele la cabeza.** · **Lávate las manos.**
+- Time: **Son las tres.**
 
-## 3 · Listen (8 min)
+**The indefinite article (un, una) is dropped more:**
+- Jobs, nationality, religion after ser: **Soy profesor.** · **Es mexicana.** (but **Es un profesor excelente** when you add an adjective)
+- After **sin**, **otro**, **cien**, **mil**, **medio**: **otra vez**, **sin trabajo**, **mil gracias**.
+
+**Contractions:** **a + el = al**, **de + el = del**: **Voy al centro.** · **Vengo del trabajo.** (Not with **él** or names: **de él**, **a El Paso**.)
+
+**Exercise:** Add an article only where one is needed, and contract if you can.
+
+1. I like ___ coffee. → 
+2. I work on Mondays. → 
+3. She's ___ doctor. → 
+4. I'm going to ___ the market. → 
+5. I'm coming from ___ the gym. → 
+6. another day → 
+
+> [!check]- Answers (check after you try)
+> 1. Me gusta el café.
+> 2. Trabajo los lunes.
+> 3. Es médica.
+> 4. Voy al mercado.
+> 5. Vengo del gimnasio.
+> 6. otro día
+
+## 4 · Listen (5 min)
 **Today's video:** [The Case of the Sleepless Patient](https://app.dreaming.com/spanish/watch?id=690a0863b0b7b6f887702abf) · 5 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **camino**, **duda**, **dinero**, **millón**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -100,6 +127,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

@@ -75,7 +75,23 @@ reflection:
 
 This week's lessons: [[103 - Practice - experimentar, conocido, mezclar, paz|Lesson 103]] · [[104 - Practice - completar, interior, ajeno, despedir|Lesson 104]] · [[105 - Formal and plural commands - hable, coman|Lesson 105]] · [[106 - Practice - título, negar, llamada, ideal|Lesson 106]] · [[107 - Practice - presión, ignorar, automóvil, detrás|Lesson 107]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[103 - Practice - experimentar, conocido, mezclar, paz|Present perfect or preterite?]] · [[104 - Practice - completar, interior, ajeno, despedir|Reflexive verbs that change meaning]] · [[106 - Practice - título, negar, llamada, ideal|Pronunciation: accents around the Spanish-speaking world]] · [[107 - Practice - presión, ignorar, automóvil, detrás|Past participles]] · [[083 - Practice - separar, decisión, absolutamente, echar|Diminutives and augmentatives]]
+
+1. _Present perfect or preterite? (Use the Spain rule for "today".)_ I have never been to Spain. → 
+2. _Plain or reflexive? Use the right form._ I fell asleep at ten. → 
+3. _Which feature are you hearing? Match each to a region._ "Yo me shamo Ana" → 
+4. _Give the participle, agreeing as an adjective where needed._ We have seen (ver) it. → 
+5. _Make the diminutive (-ito / -ita)._ poco → 
+
+> [!check]- Answers
+> 1. Nunca he estado en España.
+> 2. Me dormí a las diez.
+> 3. sh-sound ll/y: Argentina or Uruguay
+> 4. Lo hemos visto.
+> 5. poquito
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Role-play with **usted**: checking into a hotel, then a visit to the doctor. Use formal commands and polite phrases (**¿Podría...? Me gustaría... Pase, siéntese**).
@@ -85,12 +101,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[The Job Interview - Easy Spanish Story (Comprehensible Input)](https://app.dreaming.com/spanish/watch?id=690dde33b0b7b6f887702ae2) · 9 min · Beginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

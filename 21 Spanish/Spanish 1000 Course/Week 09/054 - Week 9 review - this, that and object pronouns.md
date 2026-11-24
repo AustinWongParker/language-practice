@@ -75,7 +75,23 @@ reflection:
 
 This week's lessons: [[049 - This, that and that over there|Lesson 49]] · [[050 - Practice - humano, físico, convertir, voz|Lesson 50]] · [[051 - Direct object pronouns|Lesson 51]] · [[052 - Practice - edad, cantidad, actuar, comprobar|Lesson 52]] · [[053 - Indirect objects and gustar-like verbs|Lesson 53]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[050 - Practice - humano, físico, convertir, voz|Tener expressions]] · [[052 - Practice - edad, cantidad, actuar, comprobar|The personal "a"]] · [[028 - Practice - posible, ejemplo, tratar, crear|Pronunciation: r and rr]]
+
+1. _Say it with tener._ We're in a hurry. → 
+2. _Say it with tener._ I'm very hungry. → 
+3. _Add the personal a where it's needed._ I have three brothers. → 
+4. _Add the personal a where it's needed._ I see my friend. → 
+5. _Say each pair out loud and make the difference clear. Tap (t) or trill (rr)?_ para → 
+
+> [!check]- Answers
+> 1. Tenemos prisa.
+> 2. Tengo mucha hambre.
+> 3. Tengo tres hermanos.
+> 4. Veo a mi amigo.
+> 5. tap
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Point at things around the room: **¿Qué es esto? ¿Y eso? ¿Y aquello?** Then your partner asks questions you must answer with pronouns: ¿Tienes el teléfono? → Sí, **lo** tengo. ¿Llamas a tu madre? → Sí, **la** llamo.
@@ -85,12 +101,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[Beginner Spanish Story: "Clueless at Harvard”](https://app.dreaming.com/spanish/watch?id=6a186e8d4a6295f32ed34f24) · 6 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

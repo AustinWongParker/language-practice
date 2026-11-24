@@ -75,7 +75,21 @@ reflection:
 
 This week's lessons: [[001 - Greetings and how you're feeling|Lesson 1]] · [[002 - Practice - y, a, no, se|Lesson 2]] · [[003 - Ser for who you are and where you're from|Lesson 3]] · [[004 - Practice - por, con, todo, más|Lesson 4]] · [[005 - Estar for feelings and location|Lesson 5]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[002 - Practice - y, a, no, se|Pronunciation: the five vowels]] · [[004 - Practice - por, con, todo, más|The alphabet and tricky letters]]
+
+1. _Say each word out loud slowly, then fast. Write how many syllables it has._ leche → 
+2. _Say each word out loud slowly, then fast. Write how many syllables it has._ universidad → 
+3. _How is the letter in bold pronounced: like English h, k, s/th, y, or silent?_ **j**ugar → 
+4. _How is the letter in bold pronounced: like English h, k, s/th, y, or silent?_ ca**ll**e → 
+
+> [!check]- Answers
+> 1. 2 (le-che)
+> 2. 5 (u-ni-ver-si-dad)
+> 3. like h
+> 4. y
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Introduce yourself for 1–2 minutes: a greeting, your name, where you're from, what you do, how you are today and where you are right now. Your partner then asks you three follow-up questions.
@@ -87,12 +101,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[Level 0 Spanish: "The Perfect Arepa"](https://app.dreaming.com/spanish/watch?id=685bc3aa36c20dd2ccabc5d7) · 5 min · First steps**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

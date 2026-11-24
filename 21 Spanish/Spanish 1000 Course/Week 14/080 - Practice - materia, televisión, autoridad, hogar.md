@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 670 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **loco** · **atención** · **visita** · **tu** · **resolver** · **vecino** · **bastante** · **profundo** · **seguir** · **recordar**
 
@@ -32,7 +32,7 @@ reflection:
 > - **seguir** = to follow, to keep going ([[020 - Practice - realidad, presentar, conocer, hecho|lesson 20]])
 > - **recordar** = to remember ([[020 - Practice - realidad, presentar, conocer, hecho|lesson 20]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,46 @@ reflection:
 | 636 | **recuerdo** | memory; souvenir | un buen recuerdo = _a good memory_ |
 | 637 | **conservar** | to keep, to preserve | conservar la calma = _to keep calm_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Verbs that change meaning in the past
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+A few verbs mean something different in the preterite, because the preterite marks a **moment** while the imperfect marks a **state**:
 
-## 3 · Listen (8 min)
+| Verb | Imperfect (state) | Preterite (moment) |
+|---|---|---|
+| **conocer** | conocía = knew (someone) | **conocí** = met (for the first time) |
+| **saber** | sabía = knew (a fact) | **supe** = found out |
+| **querer** | quería = wanted | **quise** = tried · **no quise** = refused |
+| **poder** | podía = was able to (in general) | **pude** = managed to · **no pude** = failed to |
+| **tener** | tenía = had | **tuve** = got, received |
+
+- **Conocí a mi mejor amigo en 2015.** = I met my best friend in 2015.
+- **Supe la verdad ayer.** = I found out the truth yesterday.
+- **No quiso venir.** = He refused to come.
+
+**Exercise:** Translate, choosing preterite or imperfect.
+
+1. I met Ana at a party. → 
+2. I already knew Ana. → 
+3. We found out the news today. → 
+4. He refused to eat. → 
+5. I finally managed to open it. → 
+6. I had an idea (it came to me). → 
+
+> [!check]- Answers (check after you try)
+> 1. Conocí a Ana en una fiesta.
+> 2. Ya conocía a Ana.
+> 3. Supimos la noticia hoy.
+> 4. No quiso comer.
+> 5. Por fin pude abrirlo.
+> 6. Tuve una idea.
+
+## 4 · Listen (5 min)
 **Today's video:** [Shakira: A Star is Born](https://app.dreaming.com/spanish/watch?id=6697f24f1e942eee48784b61) · 5 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **materia**, **televisión**, **autoridad**, **hogar**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +130,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

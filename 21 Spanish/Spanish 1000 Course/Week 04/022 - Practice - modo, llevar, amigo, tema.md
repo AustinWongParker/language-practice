@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 190 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **conocer** · **hecho** · **casa** · **país** · **ir** · **alguno**
 
@@ -28,7 +28,7 @@ reflection:
 > - **ir** = to go ([[008 - Practice - ni, sobre, o, cuando|lesson 8]])
 > - **alguno** = some, any ([[008 - Practice - ni, sobre, o, cuando|lesson 8]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -44,18 +44,42 @@ reflection:
 | 150 | **general** | general | en general = _in general_ |
 | 151 | **sólo** | only, just | sólo un poco = _just a little_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Punctuation and capital letters
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+- **¿ ?** and **¡ !** come in pairs: **¡Qué bonito!** · **¿Vienes?**
+- Spanish uses **fewer capitals** than English. Lowercase:
+  - days and months: **el lunes**, **en enero**
+  - languages and nationalities: **español**, **los americanos**
+  - **yo** (only capitalized at the start of a sentence)
+  - titles in running text: **la señora García** (abbreviations keep a capital: **Sra.**)
+- Book and movie titles capitalize only the first word: **Cien años de soledad**.
+- Dialogue often uses a long dash instead of quotes: **—Hola —dijo Ana.**
+- Numbers: many countries write decimals with a comma and thousands with a period (**3,5** = 3.5; **1.000** = 1,000). Mexico and the US use the English style.
 
-## 3 · Listen (8 min)
+**Exercise:** Fix the punctuation and capital letters.
+
+1. Hola como estas → 
+2. Nos vemos el Martes → 
+3. Ella es Mexicana → 
+4. Mi cumpleaños es en Julio → 
+5. Que bonito → 
+6. Y tú tienes tiempo? → 
+
+> [!check]- Answers (check after you try)
+> 1. ¡Hola! ¿Cómo estás?
+> 2. Nos vemos el martes.
+> 3. Ella es mexicana.
+> 4. Mi cumpleaños es en julio.
+> 5. ¡Qué bonito!
+> 6. Y tú, ¿tienes tiempo?
+
+## 4 · Listen (5 min)
 **Today's video:** [What’s older?](https://app.dreaming.com/spanish/watch?id=64ea21b7e5de7138442fd9c2) · 7 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **modo**, **llevar**, **amigo**, **tema**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -98,6 +122,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

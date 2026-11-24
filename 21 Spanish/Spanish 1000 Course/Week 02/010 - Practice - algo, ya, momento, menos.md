@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 90 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **ni** · **sobre** · **todo** · **más**
 
@@ -26,7 +26,7 @@ reflection:
 > - **todo** = all, every ([[004 - Practice - por, con, todo, más|lesson 4]])
 > - **más** = more ([[004 - Practice - por, con, todo, más|lesson 4]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -42,18 +42,40 @@ reflection:
 | 68 | **cierto** | certain, true | es cierto = _it's true_ |
 | 69 | **mundo** | world | todo el mundo = _everybody_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Stress rules and written accents
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Every Spanish word has one stressed syllable. Two rules tell you where it is, so the accent mark only appears when a word **breaks** the rules.
 
-## 3 · Listen (8 min)
+1. Ends in a **vowel, -n or -s** → stress the **second-to-last** syllable: **CA**-sa, **HA**-blan, **LU**-nes.
+2. Ends in **any other consonant** → stress the **last** syllable: ha-**BLAR**, ciu-**DAD**, es-pa-**ÑOL**.
+3. Breaks the rule? It gets an accent mark on the stressed vowel: **ca-FÉ**, **can-CIÓN**, **ÁR**-bol, **fá**-cil.
+- Stress on the third-to-last syllable **always** has an accent: **TÉ**-le-fo-no, **MÚ**-si-ca, **PÁ**-gi-na.
+- An accent can also split two vowels: **dí-a**, **pa-ís**, **Ma-rí-a**.
+
+**Exercise:** Read each word aloud, then say which syllable is stressed and why.
+
+1. hablas → 
+2. papel → 
+3. sofá → 
+4. lápiz → 
+5. sábado → 
+6. joven → 
+
+> [!check]- Answers (check after you try)
+> 1. HA-blas (ends in -s, rule 1)
+> 2. pa-PEL (ends in -l, rule 2)
+> 3. so-FÁ (accent breaks rule 1)
+> 4. LÁ-piz (accent breaks rule 2)
+> 5. SÁ-ba-do (third-to-last always has an accent)
+> 6. JO-ven (ends in -n, rule 1)
+
+## 4 · Listen (5 min)
 **Today's video:** [Easy Spanish Story: The Coffee Shop](https://app.dreaming.com/spanish/watch?id=682c78e3d5fe0f842f640578) · 8 min · First steps
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **algo**, **ya**, **momento**, **menos**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -96,6 +118,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

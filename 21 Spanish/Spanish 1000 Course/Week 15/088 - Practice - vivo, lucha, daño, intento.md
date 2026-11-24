@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 740 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **mencionar** · **práctica** · **junto** · **fecha** · **visita** · **tu** · **lleno** · **altura** · **ser** · **aire**
 
@@ -32,7 +32,7 @@ reflection:
 > - **ser** = being (noun) ([[028 - Practice - posible, ejemplo, tratar, crear|lesson 28]])
 > - **aire** = air ([[028 - Practice - posible, ejemplo, tratar, crear|lesson 28]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,48 @@ reflection:
 | 713 | **economía** | economy | la economía = _the economy_ |
 | 714 | **introducir** | to introduce, to insert | introducir la tarjeta = _insert the card_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Accents that change meaning
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Some short words are spelled the same but take an accent to show a different meaning:
 
-## 3 · Listen (8 min)
+| No accent | With accent |
+|---|---|
+| **tu** = your | **tú** = you |
+| **el** = the | **él** = he |
+| **mi** = my | **mí** = me (after a preposition) |
+| **si** = if | **sí** = yes / himself |
+| **se** = himself, herself (pronoun) | **sé** = I know / be! |
+| **te** = you (object) | **té** = tea |
+| **de** = of, from | **dé** = give (subjunctive) |
+| **mas** = but (literary) | **más** = more |
+| **que, como, donde, cuando** = that, like, where, when | **qué, cómo, dónde, cuándo** = in questions and exclamations |
+
+- Question words keep their accent in **indirect** questions too: **No sé dónde vive.** · **Dime qué quieres.**
+
+**Exercise:** Add accents where they belong.
+
+1. Tu tienes tu libro. → 
+2. Si, el es mi amigo. → 
+3. Es para mi. → 
+4. ¿Quieres te? → 
+5. No se donde esta. → 
+6. Quiero mas. → 
+
+> [!check]- Answers (check after you try)
+> 1. Tú tienes tu libro.
+> 2. Sí, él es mi amigo.
+> 3. Es para mí.
+> 4. ¿Quieres té?
+> 5. No sé dónde está.
+> 6. Quiero más.
+
+## 4 · Listen (5 min)
 **Today's video:** [AVOID These MISTAKES When Getting INPUT](https://app.dreaming.com/spanish/watch?id=6494473695bdc94bcc04e67e) · 6 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **vivo**, **lucha**, **daño**, **intento**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +132,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

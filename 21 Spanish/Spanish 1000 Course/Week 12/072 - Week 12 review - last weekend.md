@@ -75,7 +75,23 @@ reflection:
 
 This week's lessons: [[067 - Preterite irregulars - estar, poder, decir, ver, dar|Lesson 67]] · [[068 - Practice - ley, plano, tocar, importancia|Lesson 68]] · [[069 - Past time words|Lesson 69]] · [[070 - Practice - sueño, dispuesto, compañero, depender|Lesson 70]] · [[071 - Imperfect - regular verbs|Lesson 71]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[068 - Practice - ley, plano, tocar, importancia|Preterite spelling changes]] · [[070 - Practice - sueño, dispuesto, compañero, depender|Preterite: -ir stem changers and the irregular set]] · [[046 - Practice - camino, duda, dinero, millón|Using articles: el, la, un, una]]
+
+1. _Put the verb in the preterite._ yo / llegar → 
+2. _Put the verb in the preterite._ él / leer → 
+3. _Put the verb in the preterite._ ella / pedir → 
+4. _Put the verb in the preterite._ nosotros / estar → 
+5. _Add an article only where one is needed, and contract if you can._ She's ___ doctor. → 
+
+> [!check]- Answers
+> 1. llegué
+> 2. leyó
+> 3. pidió
+> 4. estuvimos
+> 5. Es médica.
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Tell the story of last weekend: where you went, who you were with, what you did, what it was like. Your partner asks at least five questions about it.
@@ -85,12 +101,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[Spanish Story for Beginners: "The Fortune Teller”](https://app.dreaming.com/spanish/watch?id=69147b3ab0b7b6f887702b30) · 8 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

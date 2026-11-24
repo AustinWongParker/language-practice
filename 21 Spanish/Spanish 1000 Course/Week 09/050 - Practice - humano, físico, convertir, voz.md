@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 420 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **crecer** · **siglo** · **bueno** · **propiedad** · **partido** · **ciento** · **salir** · **llamar**
 
@@ -30,7 +30,7 @@ reflection:
 > - **salir** = to go out, to leave ([[020 - Practice - realidad, presentar, conocer, hecho|lesson 20]])
 > - **llamar** = to call; llamarse = to be named ([[020 - Practice - realidad, presentar, conocer, hecho|lesson 20]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -46,18 +46,50 @@ reflection:
 | 383 | **suelo** | floor, ground | en el suelo = _on the floor_ |
 | 385 | **asegurar** | to assure, to make sure | te lo aseguro = _I assure you_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Tener expressions
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Where English says "I **am** hungry", Spanish says "I **have** hunger". These all use **tener**, so with **mucho / mucha** for "very":
 
-## 3 · Listen (8 min)
+| Spanish | English |
+|---|---|
+| tener ... años | to be ... years old |
+| tener hambre / sed | to be hungry / thirsty |
+| tener frío / calor | to be (feel) cold / hot |
+| tener sueño | to be sleepy |
+| tener miedo (de) | to be afraid (of) |
+| tener prisa | to be in a hurry |
+| tener razón | to be right |
+| tener suerte | to be lucky |
+| tener ganas de + verb | to feel like (doing) |
+| tener que + verb | to have to |
+
+- "Very" = **mucho / mucha** (they're nouns): **Tengo mucha hambre.** · **Tengo mucho frío.**
+- Weather uses **hacer**, not tener: **Hace frío.** (it's cold) vs **Tengo frío.** (I'm cold)
+
+**Exercise:** Say it with tener.
+
+1. I'm very hungry. → 
+2. Are you cold? → 
+3. You're right. → 
+4. We're in a hurry. → 
+5. I feel like going out. → 
+6. She's 30 years old. → 
+
+> [!check]- Answers (check after you try)
+> 1. Tengo mucha hambre.
+> 2. ¿Tienes frío?
+> 3. Tienes razón.
+> 4. Tenemos prisa.
+> 5. Tengo ganas de salir.
+> 6. Tiene treinta años.
+
+## 4 · Listen (5 min)
 **Today's video:** [You Can't Afford to Shop Here](https://app.dreaming.com/spanish/watch?id=695f87b7b0b7b6f887702ed4) · 8 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **humano**, **físico**, **convertir**, **voz**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -100,6 +132,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

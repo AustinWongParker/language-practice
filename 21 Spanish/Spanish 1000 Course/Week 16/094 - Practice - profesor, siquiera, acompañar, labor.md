@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 790 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **apenas** · **estilo** · **derecho** · **actual** · **recuerdo** · **conservar** · **acción** · **corazón** · **programa** · **distinto**
 
@@ -32,7 +32,7 @@ reflection:
 > - **programa** = program, show ([[034 - Practice - comprender, mil, programa, distinto|lesson 34]])
 > - **distinto** = different ([[034 - Practice - comprender, mil, programa, distinto|lesson 34]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,44 @@ reflection:
 | 769 | **sexo** | sex; gender | el sexo = _sex_ |
 | 770 | **documento** | document | un documento = _a document_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Some, any and none
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+| | Positive | Negative |
+|---|---|---|
+| things | **algo** (something, anything) | **nada** |
+| people | **alguien** (someone, anyone) | **nadie** |
+| which ones | **alguno, alguna, algunos, algunas** | **ninguno, ninguna** |
+| any at all | **cualquier** (+ noun), **cualquiera** (alone) | |
 
-## 3 · Listen (8 min)
+- **Alguno / ninguno** shorten before a masculine singular noun: **algún día**, **ningún problema**.
+- In questions, "anything / anyone" is **algo / alguien**: **¿Necesitas algo?** · **¿Hay alguien?**
+- "Any" in the sense of "whichever" is **cualquier**: **Llama en cualquier momento.** = Call any time.
+- **Algunos** often means "a few": **algunos amigos** = a few friends.
+
+**Exercise:** Fill in the right word.
+
+1. Is anyone there? → 
+2. Do you want anything? → 
+3. Some day I'll go. → 
+4. I don't have any problem. → 
+5. Nobody knows. → 
+6. Any book is fine. → 
+
+> [!check]- Answers (check after you try)
+> 1. ¿Hay alguien?
+> 2. ¿Quieres algo?
+> 3. Algún día voy a ir.
+> 4. No tengo ningún problema.
+> 5. Nadie sabe.
+> 6. Cualquier libro está bien.
+
+## 4 · Listen (5 min)
 **Today's video:** [Draw Together Challenge](https://app.dreaming.com/spanish/watch?id=5e4d11e3aac87f3820954bf1) · 10 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **profesor**, **siquiera**, **acompañar**, **labor**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +128,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

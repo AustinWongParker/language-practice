@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 440 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **convertir** · **voz** · **abandonar** · **pieza** · **obtener** · **centro** · **general** · **sólo**
 
@@ -30,7 +30,7 @@ reflection:
 > - **general** = general ([[022 - Practice - modo, llevar, amigo, tema|lesson 22]])
 > - **sólo** = only, just ([[022 - Practice - modo, llevar, amigo, tema|lesson 22]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -46,18 +46,44 @@ reflection:
 | 407 | **completo** | complete; full | el nombre completo = _the full name_ |
 | 408 | **moderno** | modern | una casa moderna = _a modern house_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): The personal "a"
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+When the direct object of a verb is a **specific person** (or a pet you love), put **a** before it. English has nothing like it.
 
-## 3 · Listen (8 min)
+- **Veo a María.** (I see María.) but **Veo la casa.** (I see the house.)
+- **Llamo a mi madre.** · **Conozco a tu hermano.** · **Busco a Cooper.**
+- With **quién**: **¿A quién llamas?** = Who are you calling?
+- **a + el = al**: **Veo al profesor.**
+
+**No personal a:**
+- With things and places: **Visito Madrid.** (but **Visito a mi abuela.**)
+- With **tener**: **Tengo dos hermanos.**
+- With unspecified people: **Busco un médico.** (any doctor) vs **Busco a mi médico.** (my specific one)
+
+**Exercise:** Add the personal a where it's needed.
+
+1. I see my friend. → 
+2. I see the car. → 
+3. I'm calling the teacher. → 
+4. I have three brothers. → 
+5. Who do you know here? → 
+6. We're visiting Mexico. → 
+
+> [!check]- Answers (check after you try)
+> 1. Veo a mi amigo.
+> 2. Veo el coche.
+> 3. Llamo al profesor.
+> 4. Tengo tres hermanos.
+> 5. ¿A quién conoces aquí?
+> 6. Visitamos México.
+
+## 4 · Listen (5 min)
 **Today's video:** [The Makeover - Spanish Story for Beginners (Comprehensible Input)](https://app.dreaming.com/spanish/watch?id=68f9e44436dfb0b3c21fdbb4) · 7 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **edad**, **cantidad**, **actuar**, **comprobar**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -100,6 +126,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

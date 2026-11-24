@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 590 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **ley** · **plano** · **enseñar** · **quitar** · **subir** · **evitar** · **función** · **largo** · **cierto** · **mundo**
 
@@ -32,7 +32,7 @@ reflection:
 > - **cierto** = certain, true ([[010 - Practice - algo, ya, momento, menos|lesson 10]])
 > - **mundo** = world ([[010 - Practice - algo, ya, momento, menos|lesson 10]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,56 @@ reflection:
 | 556 | **tercero** | third | el tercer día = _the third day_ |
 | 557 | **continuar** | to continue | continuará = _to be continued_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Preterite: -ir stem changers and the irregular set
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+**-ir verbs that stem-change in the present** also change in the preterite, but only in **él/ella/usted** and **ellos/ustedes**, and only one step: **e → i**, **o → u**.
 
-## 3 · Listen (8 min)
+| | pedir | dormir | sentir |
+|---|---|---|---|
+| yo | pedí | dormí | sentí |
+| él / ella | p**i**dió | d**u**rmió | s**i**ntió |
+| ellos | p**i**dieron | d**u**rmieron | s**i**ntieron |
+
+Also: **servir → sirvió**, **repetir → repitió**, **seguir → siguió**, **preferir → prefirió**, **morir → murió**. (-ar and -er stem changers are regular in the preterite: **pensé, volví**.)
+
+**The irregular group** shares one set of endings with **no accents**: **-e, -iste, -o, -imos, -isteis, -ieron**
+
+| Verb | Stem | Example |
+|---|---|---|
+| estar | **estuv-** | estuve, estuvo |
+| tener | **tuv-** | tuve, tuvimos |
+| poder | **pud-** | pude, pudieron |
+| poner | **pus-** | puse, puso |
+| saber | **sup-** | supe |
+| querer | **quis-** | quise |
+| venir | **vin-** | vine, vino |
+| hacer | **hic-** (hizo) | hice, hizo |
+| decir / traer | **dij- / traj-** (ellos: -**eron**) | dije, dijeron · traje, trajeron |
+
+**Exercise:** Put the verb in the preterite.
+
+1. ella / pedir → 
+2. ellos / dormir → 
+3. yo / tener → 
+4. nosotros / estar → 
+5. él / hacer → 
+6. ellos / decir → 
+
+> [!check]- Answers (check after you try)
+> 1. pidió
+> 2. durmieron
+> 3. tuve
+> 4. estuvimos
+> 5. hizo
+> 6. dijeron
+
+## 4 · Listen (5 min)
 **Today's video:** [Easy Spanish Vlog: Tour of my dome in the Andes!](https://app.dreaming.com/spanish/watch?id=63e56e18bdf44840e34371fa) · 6 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **sueño**, **dispuesto**, **compañero**, **depender**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +140,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

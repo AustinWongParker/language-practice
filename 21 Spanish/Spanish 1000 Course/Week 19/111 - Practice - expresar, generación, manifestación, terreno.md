@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 930 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **página** · **notar** · **pertenecer** · **formación** · **margen** · **hallar** · **temer** · **artista** · **igual** · **brazo**
 
@@ -32,7 +32,7 @@ reflection:
 > - **igual** = equal, the same ([[051 - Direct object pronouns|lesson 51]])
 > - **brazo** = arm ([[051 - Direct object pronouns|lesson 51]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,44 @@ reflection:
 | 922 | **puesto** | job, position; stand | un puesto de trabajo = _a job_ |
 | 923 | **familiar** | family (adj.); familiar; relative | un ambiente familiar = _a family atmosphere_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Forming the present subjunctive
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+**The rule:** take the **yo** form of the present, drop the **-o**, and add the "opposite" endings.
+- **-ar** verbs → **-e** endings: hablar → habl**e**, habl**es**, habl**e**, habl**emos**, habl**en**
+- **-er / -ir** verbs → **-a** endings: comer → com**a**, com**as**...; vivir → viv**a**...
 
-## 3 · Listen (8 min)
+**Because it starts from yo, irregular yo forms carry over:** tener (teng**o**) → **tenga** · hacer → **haga** · salir → **salga** · decir → **diga** · conocer → **conozca** · ver → **vea**.
+
+**Stem changers** change in the same places as the present: **quiera, quieras, queramos** · **pueda, podamos**. **-ir** stem changers also change in nosotros: **durmamos, pidamos**.
+
+**Spelling changes** keep the sound: buscar → **busque**, llegar → **llegue**, empezar → **empiece**.
+
+**Six irregulars (DISHES):** **d**ar → dé · **i**r → vaya · **s**aber → sepa · **h**aber → haya · **e**star → esté · **s**er → sea.
+
+**Exercise:** Give the subjunctive for the person shown.
+
+1. hablar (tú) → 
+2. tener (yo) → 
+3. ir (nosotros) → 
+4. llegar (él) → 
+5. saber (ellos) → 
+6. poder (tú) → 
+
+> [!check]- Answers (check after you try)
+> 1. hables
+> 2. tenga
+> 3. vayamos
+> 4. llegue
+> 5. sepan
+> 6. puedas
+
+## 4 · Listen (5 min)
 **Today's video:** [If People Spoke Spanish Like Duolingo](https://app.dreaming.com/spanish/watch?id=67504b4490855736e2dd777b) · 12 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **expresar**, **generación**, **manifestación**, **terreno**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +128,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

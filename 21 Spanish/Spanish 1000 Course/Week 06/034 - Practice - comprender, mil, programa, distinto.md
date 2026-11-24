@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 290 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **menor** · **aparecer** · **ser** · **aire** · **seguir** · **recordar** · **por** · **con**
 
@@ -30,7 +30,7 @@ reflection:
 > - **por** = for, by, through, because of ([[004 - Practice - por, con, todo, más|lesson 4]])
 > - **con** = with ([[004 - Practice - por, con, todo, más|lesson 4]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -46,18 +46,48 @@ reflection:
 | 242 | **embargo** | sin embargo = however | sin embargo, no vino = _however, he didn't come_ |
 | 243 | **fácil** | easy | es muy fácil = _it's very easy_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Ser vs estar, part 2: adjectives that change meaning
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Some adjectives mean different things with ser and estar:
 
-## 3 · Listen (8 min)
+| | with ser | with estar |
+|---|---|---|
+| **aburrido** | boring | bored |
+| **listo** | clever | ready |
+| **malo** | bad (as a person, thing) | sick / gone bad |
+| **rico** | rich | tasty |
+| **verde** | green | unripe |
+| **vivo** | lively, sharp | alive |
+| **seguro** | safe | sure |
+| **orgulloso** | arrogant | proud (of someone) |
+
+- **Estar** can also mean "looks / seems right now": **¡Estás muy guapo hoy!** · **La comida está rica.**
+- Death is with estar: **está muerto**. Marital status can be either: **es casado / está casado**.
+
+**Exercise:** Ser or estar? Watch the meaning.
+
+1. The movie is boring. → 
+2. I'm bored. → 
+3. Are you ready? → 
+4. She's very clever. → 
+5. The food is delicious. → 
+6. I'm sure. → 
+
+> [!check]- Answers (check after you try)
+> 1. La película es aburrida.
+> 2. Estoy aburrido.
+> 3. ¿Estás listo?
+> 4. Es muy lista.
+> 5. La comida está rica.
+> 6. Estoy seguro.
+
+## 4 · Listen (5 min)
 **Today's video:** [Spanish for Complete Beginners: "The Nightmare Before Monday”](https://app.dreaming.com/spanish/watch?id=696a4380b0b7b6f887702f8d) · 8 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **comprender**, **mil**, **programa**, **distinto**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -100,6 +130,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

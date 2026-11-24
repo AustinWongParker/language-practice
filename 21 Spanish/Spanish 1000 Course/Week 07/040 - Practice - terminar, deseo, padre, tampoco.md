@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 340 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **claro** · **clase** · **programa** · **distinto** · **pueblo** · **cuanto** · **esto** · **ver**
 
@@ -30,7 +30,7 @@ reflection:
 > - **esto** = this (thing, idea) ([[010 - Practice - algo, ya, momento, menos|lesson 10]])
 > - **ver** = to see; to watch ([[010 - Practice - algo, ya, momento, menos|lesson 10]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -46,18 +46,44 @@ reflection:
 | 295 | **familia** | family | mi familia = _my family_ |
 | 296 | **desarrollar** | to develop | desarrollar una idea = _to develop an idea_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Spelling-change verbs
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Some verbs change spelling in the **yo** form so they keep their sound:
 
-## 3 · Listen (8 min)
+| Ending | yo form | Examples |
+|---|---|---|
+| **-ger / -gir** | g → **j** | coger → co**j**o, elegir → eli**j**o, dirigir → diri**j**o |
+| **-guir** | gu → **g** | seguir → si**g**o, conseguir → consi**g**o |
+| vowel + **-cer / -cir** | c → **zc** | conocer → cono**zc**o, parecer → pare**zc**o, conducir → condu**zc**o, ofrecer → ofre**zc**o |
+| **-uir** | add **y** (all but nosotros) | construir → constru**y**o, constru**y**es, constru**y**en |
+
+- The other forms are regular: **conoces, conoce, conocemos**.
+- Exceptions: **hacer → hago**, **decir → digo** (you've met these as yo-go verbs).
+
+**Exercise:** Give the yo form.
+
+1. conocer → 
+2. elegir → 
+3. seguir → 
+4. construir → 
+5. parecer → 
+6. ofrecer → 
+
+> [!check]- Answers (check after you try)
+> 1. conozco
+> 2. elijo
+> 3. sigo
+> 4. construyo
+> 5. parezco
+> 6. ofrezco
+
+## 4 · Listen (5 min)
 **Today's video:** [Beginner Spanish: “Nightmare at the Bank”](https://app.dreaming.com/spanish/watch?id=6984997bb0b7b6f88770343a) · 9 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **terminar**, **deseo**, **padre**, **tampoco**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -100,6 +126,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

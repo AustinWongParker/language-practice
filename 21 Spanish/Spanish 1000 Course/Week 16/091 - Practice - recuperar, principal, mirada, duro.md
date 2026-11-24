@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 760 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **lucha** · **daño** · **preparar** · **citar** · **alemán** · **casar** · **económico** · **desaparecer** · **cerrar** · **campo**
 
@@ -32,7 +32,7 @@ reflection:
 > - **cerrar** = to close ([[031 - Stem changers e to ie|lesson 31]])
 > - **campo** = countryside; field ([[031 - Stem changers e to ie|lesson 31]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,45 @@ reflection:
 | 739 | **positivo** | positive | una actitud positiva = _a positive attitude_ |
 | 740 | **expresión** | expression | una expresión común = _a common expression_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Comparisons: review and extra rules
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+| | |
+|---|---|
+| more / less ... than | **más / menos** + adjective + **que**: Es **más alto que** yo. |
+| as ... as | **tan** + adjective + **como**: Es **tan alto como** yo. |
+| as much / many ... as | **tanto/a/os/as** + noun + **como**: Tengo **tantos libros como** tú. |
+| the most ... | **el / la / los / las más** + adjective + **de**: Es **la más alta de** la clase. |
+| very, extremely | **-ísimo**: altísimo, buenísimo |
 
-## 3 · Listen (8 min)
+**Irregular forms:** **mejor** (better), **peor** (worse), **mayor** (older), **menor** (younger). Plural: **mejores, peores, mayores, menores**.
+- **más de** before numbers: **Tengo más de cien libros.**
+- After **que** and **como**, use subject pronouns: **más alto que yo**, **tan alto como tú**.
+- Verbs: **Trabajo más que tú.** · **Trabajo tanto como tú.**
+
+**Exercise:** Say it in Spanish.
+
+1. My brother is older than me. → 
+2. This book is better than that one. → 
+3. I'm as tall as you. → 
+4. It's the best restaurant in the city. → 
+5. I have more than ten cousins. → 
+6. She works as much as I do. → 
+
+> [!check]- Answers (check after you try)
+> 1. Mi hermano es mayor que yo.
+> 2. Este libro es mejor que ese.
+> 3. Soy tan alto como tú.
+> 4. Es el mejor restaurante de la ciudad.
+> 5. Tengo más de diez primos.
+> 6. Trabaja tanto como yo.
+
+## 4 · Listen (5 min)
 **Today's video:** [A Terrible Accident   Spanish Story for Beginners  Comprehensible Input](https://app.dreaming.com/spanish/watch?id=6ae0934444135614096a680f) · 9 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **recuperar**, **principal**, **mirada**, **duro**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +129,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

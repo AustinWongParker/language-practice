@@ -75,7 +75,23 @@ reflection:
 
 This week's lessons: [[025 - Adjectives and agreement|Lesson 25]] · [[026 - Practice - aún, nunca, caso, mano|Lesson 26]] · [[027 - Gustar for likes and dislikes|Lesson 27]] · [[028 - Practice - posible, ejemplo, tratar, crear|Lesson 28]] · [[029 - Food and ordering|Lesson 29]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[026 - Practice - aún, nunca, caso, mano|Where adjectives go]] · [[028 - Practice - posible, ejemplo, tratar, crear|Pronunciation: r and rr]] · [[004 - Practice - por, con, todo, más|The alphabet and tricky letters]]
+
+1. _Put the adjective in the right form and place._ una idea, great (grande) → 
+2. _Put the adjective in the right form and place._ el piso (primero) → 
+3. _Say each pair out loud and make the difference clear. Tap (t) or trill (rr)?_ para → 
+4. _Say each pair out loud and make the difference clear. Tap (t) or trill (rr)?_ caro → 
+5. _How is the letter in bold pronounced: like English h, k, s/th, y, or silent?_ **j**ugar → 
+
+> [!check]- Answers
+> 1. una gran idea
+> 2. el primer piso
+> 3. tap
+> 4. tap
+> 5. like h
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Role-play a restaurant. Your partner is the waiter: order a drink, a meal and a dessert, ask what they recommend, say what you like and don't like (gustar), then ask for the check (**la cuenta, por favor**). Swap roles.
@@ -85,12 +101,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[My ideal date](https://app.dreaming.com/spanish/watch?id=650833a6937d4a59994887b7) · 15 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

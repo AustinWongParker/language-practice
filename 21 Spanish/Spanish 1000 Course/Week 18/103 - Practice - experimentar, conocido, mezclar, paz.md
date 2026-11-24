@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 860 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **serie** · **cubrir** · **margen** · **hallar** · **actual** · **economía** · **escuela** · **atender** · **río** · **dirección**
 
@@ -32,7 +32,7 @@ reflection:
 > - **río** = river ([[043 - Tener, venir and decir|lesson 43]])
 > - **dirección** = address; direction ([[043 - Tener, venir and decir|lesson 43]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,44 @@ reflection:
 | 842 | **capital** | capital | la capital de México = _the capital of Mexico_ |
 | 843 | **liberar** | to free, to release | liberar a los presos = _to free the prisoners_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Present perfect or preterite?
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Both translate as the past in English. Which one depends on the **time frame** (and on where you are):
 
-## 3 · Listen (8 min)
+| Present perfect (**he comido**) | Preterite (**comí**) |
+|---|---|
+| A time period that **isn't over**: hoy, esta semana, este año | A **finished** time: ayer, la semana pasada, en 2020 |
+| Life experience, "ever / never": **¿Has estado en Perú?** | A specific moment: **Estuve en Perú en 2019.** |
+| Very recent past (in Spain): **Ha llamado Ana.** | Most past events (in Latin America) |
+| With **ya** and **todavía no** | With a date or "when" |
+
+- In Spain, "today" events use the present perfect: **Hoy me he levantado temprano.** In most of Latin America people say **Hoy me levanté temprano.** Both are correct.
+- Never use the present perfect with a finished-time word: ~~Ayer he comido~~ → **Ayer comí.**
+
+**Exercise:** Present perfect or preterite? (Use the Spain rule for "today".)
+
+1. I have never been to Spain. → 
+2. I went to Spain in 2019. → 
+3. This week I've worked a lot. → 
+4. Last week I worked a lot. → 
+5. Have you eaten yet? → 
+6. Yesterday we saw a movie. → 
+
+> [!check]- Answers (check after you try)
+> 1. Nunca he estado en España.
+> 2. Fui a España en 2019.
+> 3. Esta semana he trabajado mucho.
+> 4. La semana pasada trabajé mucho.
+> 5. ¿Ya has comido?
+> 6. Ayer vimos una película.
+
+## 4 · Listen (5 min)
 **Today's video:** [Ester's Family: My Grandma Complains About Me!](https://app.dreaming.com/spanish/watch?id=6927140cb0b7b6f887702c63) · 3 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **experimentar**, **conocido**, **mezclar**, **paz**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +128,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

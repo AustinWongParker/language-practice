@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 820 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **repartir** · **fenómeno** · **exponer** · **letra** · **absolutamente** · **echar** · **terrible** · **línea** · **obtener** · **centro**
 
@@ -32,7 +32,7 @@ reflection:
 > - **obtener** = to obtain, to get ([[038 - Practice - claro, clase, problema, antiguo|lesson 38]])
 > - **centro** = center, downtown ([[038 - Practice - claro, clase, problema, antiguo|lesson 38]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,50 @@ reflection:
 | 803 | **tirar** | to throw (away); to pull | tirar la basura = _to throw out the trash_ |
 | 805 | **invitar** | to invite; to treat (pay) | te invito = _it's on me_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Connecting words
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+| Spanish | English | Example |
+|---|---|---|
+| **y** (→ **e** before i- / hi-) | and | padres **e** hijos |
+| **o** (→ **u** before o- / ho-) | or | siete **u** ocho |
+| **pero** | but | Es caro, **pero** bueno. |
+| **sino** | but rather (after a negative) | No es rojo **sino** azul. |
+| **porque** | because | Estudio **porque** me gusta. |
+| **por qué** | why? | ¿**Por qué** estudias? |
+| **aunque** | although, even though | **Aunque** llueve, salgo. |
+| **así que** | so (result) | Estaba cansado, **así que** me acosté. |
+| **sin embargo** | however | **Sin embargo**, no vino. |
+| **mientras** | while | **Mientras** cocino, escucho música. |
+| **además** | also, besides | **Además**, es barato. |
+| **entonces** | then, so | **Entonces**, ¿vienes o no? |
 
-## 3 · Listen (8 min)
+- **Pero** vs **sino**: use **sino** only to correct a negative: **No quiero té, sino café.**
+- **Como** at the start = since: **Como no tenía tiempo, no fui.**
+
+**Exercise:** Join or complete with the right connector.
+
+1. Spanish ___ English (y / e) → 
+2. seven ___ eight (o / u) → 
+3. It's not cheap, ___ expensive. → 
+4. It's expensive, ___ good. → 
+5. I was hungry, ___ I ate. → 
+6. ___ do you study Spanish? ___ I like it. → 
+
+> [!check]- Answers (check after you try)
+> 1. español e inglés
+> 2. siete u ocho
+> 3. No es barato, sino caro.
+> 4. Es caro, pero bueno.
+> 5. Tenía hambre, así que comí.
+> 6. ¿Por qué estudias español? Porque me gusta.
+
+## 4 · Listen (5 min)
 **Today's video:** [The Fox And The Crow](https://app.dreaming.com/spanish/watch?id=5e4d11eeaac87f3820954c18) · 4 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **impresión**, **respuesta**, **culpa**, **interesante**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +134,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 940 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **matar** · **cola** · **suyo** · **directo** · **departamento** · **durar** · **techo** · **presencia** · **edad** · **cantidad**
 
@@ -32,7 +32,7 @@ reflection:
 > - **edad** = age ([[052 - Practice - edad, cantidad, actuar, comprobar|lesson 52]])
 > - **cantidad** = amount, quantity ([[052 - Practice - edad, cantidad, actuar, comprobar|lesson 52]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,43 @@ reflection:
 | 932 | **consecuencia** | consequence | como consecuencia = _as a result_ |
 | 933 | **ritmo** | rhythm, pace | a su ritmo = _at your own pace_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Ser and estar with participles
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Ser and estar both combine with past participles, with different meanings:
 
-## 3 · Listen (8 min)
+| | Meaning | Example |
+|---|---|---|
+| **ser** + participle | **passive**: the action being done (by someone) | La casa **fue construida** en 1990. = The house was built in 1990. |
+| **estar** + participle | the **result** or state afterwards | La casa **está construida**. = The house is (already) built. |
+
+- The participle agrees in both cases: **Las cartas fueron escritas por Ana.** · **Las cartas están escritas.**
+- The true passive with ser is mostly written (news, history). In speech, Spanish prefers **se** (Se construyó en 1990) or an active sentence (Ana escribió las cartas).
+- Compare: **La tienda está cerrada.** (state: it's closed now) · **La tienda fue cerrada por la policía.** (event: the police closed it)
+
+**Exercise:** Ser (event) or estar (resulting state)?
+
+1. The door is open (right now). → 
+2. The book was written by Cervantes. → 
+3. The work is done. → 
+4. The bridge was built in 1950. → 
+5. I'm tired (cansar). → 
+6. The windows are broken. → 
+
+> [!check]- Answers (check after you try)
+> 1. La puerta está abierta.
+> 2. El libro fue escrito por Cervantes.
+> 3. El trabajo está hecho.
+> 4. El puente fue construido en 1950.
+> 5. Estoy cansado.
+> 6. Las ventanas están rotas.
+
+## 4 · Listen (5 min)
 **Today's video:** [A1 Spanish Story: A smart idea for an even smarter monkey](https://app.dreaming.com/spanish/watch?id=630c1f21ec8d7ae3e2627b14) · 5 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **aprobar**, **abajo**, **quejar**, **juicio**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +127,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

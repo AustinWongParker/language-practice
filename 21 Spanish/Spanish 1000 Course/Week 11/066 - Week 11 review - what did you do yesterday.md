@@ -75,7 +75,23 @@ reflection:
 
 This week's lessons: [[061 - Preterite - regular -AR verbs|Lesson 61]] · [[062 - Practice - olvidar, zona, fuera, número|Lesson 62]] · [[063 - Preterite - regular -ER and -IR verbs|Lesson 63]] · [[064 - Practice - acción, corazón, enseñar, quitar|Lesson 64]] · [[065 - Preterite irregulars - ir, ser, hacer, tener|Lesson 65]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[062 - Practice - olvidar, zona, fuera, número|Big numbers, years and ordinals]] · [[064 - Practice - acción, corazón, enseñar, quitar|Prepositions and prepositional pronouns]] · [[040 - Practice - terminar, deseo, padre, tampoco|Spelling-change verbs]]
+
+1. _Write these out in Spanish._ the third time → 
+2. _Write these out in Spanish._ 1,500 → 
+3. _Fill in the preposition or pronoun._ between you and me → 
+4. _Fill in the preposition or pronoun._ I'm thinking about you. → 
+5. _Give the yo form._ elegir → 
+
+> [!check]- Answers
+> 1. la tercera vez
+> 2. mil quinientos
+> 3. entre tú y yo
+> 4. Pienso en ti.
+> 5. elijo
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Tell your partner everything you did yesterday, in order, using the preterite. Your partner asks **¿Y luego qué hiciste?** to keep you going. Aim for ten verbs.
@@ -85,12 +101,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[Spanish Story for Beginners:  "My First Time at a Starbucks... in Spain!”](https://app.dreaming.com/spanish/watch?id=6911c3dfb0b7b6f887702afc) · 6 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

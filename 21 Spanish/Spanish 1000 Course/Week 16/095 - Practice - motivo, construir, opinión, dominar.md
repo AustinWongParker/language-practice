@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 800 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **causa** · **semejante** · **piedra** · **médico** · **muerto** · **meter** · **comienzo** · **fondo** · **junto** · **partido**
 
@@ -32,7 +32,7 @@ reflection:
 > - **junto** = together; junto a = next to ([[035 - Stem changers e to i and jugar|lesson 35]])
 > - **partido** = game, match; political party ([[035 - Stem changers e to i and jugar|lesson 35]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,50 @@ reflection:
 | 781 | **repartir** | to hand out, to deliver | repartir las cartas = _to deal the cards_ |
 | 782 | **fenómeno** | phenomenon | un fenómeno = _a phenomenon_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Gender, part 2: tricky nouns
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+**Nouns for people:**
+- **-o → -a**: el niño / la niña, el abuelo / la abuela
+- **-or → -ora**: el profesor / la profesora
+- Same word, the article shows gender: **el / la estudiante**, **el / la artista**, **el / la policía**, **el / la joven**, **el / la periodista**
+- Different words: **el padre / la madre**, **el hombre / la mujer**, **el rey / la reina**, **el actor / la actriz**, **el yerno / la nuera**
 
-## 3 · Listen (8 min)
+**Animals** often use one gender for both: **la jirafa**, **el pez**, **la serpiente**. Add **macho / hembra** if needed.
+
+**Same word, different meaning:**
+| Masculine | Feminine |
+|---|---|
+| el capital = money (capital) | la capital = capital city |
+| el orden = order (tidiness) | la orden = order (command) |
+| el cura = priest | la cura = cure |
+| el corte = cut | la corte = court |
+| el frente = front | la frente = forehead |
+| el cometa = comet | la cometa = kite |
+
+**Exercise:** Give the feminine (or the other meaning).
+
+1. el actor → 
+2. el estudiante → 
+3. el profesor → 
+4. el rey → 
+5. el capital (money) → 
+6. el policía → 
+
+> [!check]- Answers (check after you try)
+> 1. la actriz
+> 2. la estudiante
+> 3. la profesora
+> 4. la reina
+> 5. la capital (capital city)
+> 6. la policía (the policewoman, or the police force)
+
+## 4 · Listen (5 min)
 **Today's video:** [Spanish for Beginners: The Nosy Taxi Driver  Comprehensible Input](https://app.dreaming.com/spanish/watch?id=6a987dbd5d1a104d5ad46da8) · 8 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **motivo**, **construir**, **opinión**, **dominar**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +134,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

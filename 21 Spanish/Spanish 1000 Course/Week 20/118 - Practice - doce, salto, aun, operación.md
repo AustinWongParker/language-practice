@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 990 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **cargo** · **poesía** · **aprobar** · **abajo** · **ajeno** · **despedir** · **piso** · **gesto** · **civil** · **niña**
 
@@ -32,7 +32,7 @@ reflection:
 > - **civil** = civil ([[058 - Practice - serio, mover, demasiado, ganar|lesson 58]])
 > - **niña** = girl, child ([[058 - Practice - serio, mover, demasiado, ganar|lesson 58]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,50 @@ reflection:
 | 987 | **construcción** | construction | en construcción = _under construction_ |
 | 988 | **secretario** | secretary | la secretaria = _the secretary_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): False friends
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Words that look like English but mean something else:
 
-## 3 · Listen (8 min)
+| Spanish | Means | Not |
+|---|---|---|
+| **embarazada** | pregnant | embarrassed (= avergonzado/a) |
+| **éxito** | success | exit (= salida) |
+| **actual** | current | actual (= real, verdadero) |
+| **actualmente** | currently | actually (= en realidad) |
+| **librería** | bookstore | library (= biblioteca) |
+| **carpeta** | folder | carpet (= alfombra) |
+| **constipado** | having a cold | constipated (= estreñido) |
+| **sensible** | sensitive | sensible (= sensato) |
+| **realizar** | to carry out | to realize (= darse cuenta) |
+| **asistir** | to attend | to assist (= ayudar) |
+| **molestar** | to bother | to molest |
+| **recordar** | to remember | to record (= grabar) |
+| **en absoluto** | not at all | absolutely (= totalmente) |
+
+**Exercise:** Say it in Spanish, avoiding the false friend.
+
+1. I'm so embarrassed! → 
+2. Where's the exit? → 
+3. I need to go to the library. → 
+4. I just realized. → 
+5. Actually, I don't know. → 
+6. I attended the meeting. → 
+
+> [!check]- Answers (check after you try)
+> 1. ¡Qué vergüenza! / Estoy muy avergonzado.
+> 2. ¿Dónde está la salida?
+> 3. Necesito ir a la biblioteca.
+> 4. Me acabo de dar cuenta.
+> 5. En realidad, no sé.
+> 6. Asistí a la reunión.
+
+## 4 · Listen (5 min)
 **Today's video:** [Blind Dates  Spanish for Beginners  Comprehensible Input](https://app.dreaming.com/spanish/watch?id=6a859a525d1a104d5ad46bf2) · 15 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **doce**, **salto**, **aun**, **operación**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +134,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 970 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **calidad** · **belleza** · **examinar** · **tensión** · **absoluto** · **interpretar** · **empleado** · **concepto** · **subir** · **evitar**
 
@@ -32,7 +32,7 @@ reflection:
 > - **subir** = to go up, to get on ([[056 - Practice - enorme, realmente, social, abierto|lesson 56]])
 > - **evitar** = to avoid ([[056 - Practice - enorme, realmente, social, abierto|lesson 56]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,50 @@ reflection:
 | 964 | **cargo** | charge; a cargo de = in charge of | estar a cargo = _to be in charge_ |
 | 965 | **poesía** | poetry | la poesía = _poetry_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): More past tenses: past progressive and pluperfect
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+**Past progressive:** **estar** (imperfect) + gerund = was / were doing.
+- **Estaba comiendo cuando llamaste.** = I was eating when you called.
+- It stresses an action in progress at that moment; the plain imperfect (**comía**) often works too.
 
-## 3 · Listen (8 min)
+**Pluperfect:** **haber** (imperfect) + participle = had done.
+| | |
+|---|---|
+| yo | **había** comido |
+| tú | **habías** comido |
+| él / ella | **había** comido |
+| nosotros | **habíamos** comido |
+| ellos | **habían** comido |
+
+- Use it for something that happened **before** another past event: **Cuando llegué, la película ya había empezado.** = When I arrived, the movie had already started.
+- **Nunca había visto el mar.** = I had never seen the sea.
+
+**Your past-tense toolkit:** preterite (comí), imperfect (comía), present perfect (he comido), past progressive (estaba comiendo), pluperfect (había comido).
+
+**Exercise:** Say it in Spanish.
+
+1. I was sleeping when the phone rang. → 
+2. They had already left. → 
+3. We were watching TV. → 
+4. I had never eaten tacos. → 
+5. When I arrived, she had left. → 
+6. What were you doing? → 
+
+> [!check]- Answers (check after you try)
+> 1. Estaba durmiendo cuando sonó el teléfono.
+> 2. Ya habían salido.
+> 3. Estábamos viendo la tele.
+> 4. Nunca había comido tacos.
+> 5. Cuando llegué, ella se había ido.
+> 6. ¿Qué estabas haciendo?
+
+## 4 · Listen (5 min)
 **Today's video:** [Guess the Movie With 4 Emojis - Ep. 1](https://app.dreaming.com/spanish/watch?id=6809c877d5fe0f842f6404a6) · 13 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **conveniente**, **salida**, **sentimiento**, **salvar**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +134,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

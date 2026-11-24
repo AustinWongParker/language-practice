@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 1000 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **empleo** · **justicia** · **exacto** · **esposa** · **pertenecer** · **formación** · **bajar** · **consejo** · **frío** · **temperatura**
 
@@ -32,7 +32,7 @@ reflection:
 > - **frío** = cold ([[059 - Weather and seasons|lesson 59]])
 > - **temperatura** = temperature ([[059 - Weather and seasons|lesson 59]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,47 @@ reflection:
 | 997 | **punta** | tip, point | la punta del pie = _tiptoe_ |
 | 998 | **mundial** | world, worldwide | la Copa Mundial = _the World Cup_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Common mistakes English speakers make
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+| Don't say | Say | Why |
+|---|---|---|
+| ~~Soy 30 años.~~ | **Tengo** 30 años. | age uses tener |
+| ~~Estoy aburrido~~ (meaning boring) | **Soy** aburrido. | ser = boring, estar = bored |
+| ~~Me gusta los perros.~~ | Me **gustan** los perros. | the verb agrees with the things |
+| ~~La gente son simpáticos.~~ | La gente **es simpática**. | gente is singular |
+| ~~Pienso de ti.~~ | Pienso **en** ti. | pensar en = think about |
+| ~~Estoy excitado.~~ | Estoy **emocionado**. | excitado is sexual |
+| ~~Es un buen tiempo.~~ | Hace buen tiempo. | weather uses hacer |
+| ~~Él es en casa.~~ | Él **está** en casa. | location uses estar |
+| ~~Voy en casa.~~ | Voy **a** casa. · Estoy **en** casa. | a = movement, en = location |
+| ~~Es importante que tú vas.~~ | Es importante que **vayas**. | subjunctive after impersonal phrases |
 
-## 3 · Listen (8 min)
+Skim your [[Spanish Mistakes Log]] too: your own mistakes are the most useful list of all.
+
+**Exercise:** Find and fix the mistake.
+
+1. Soy veinticinco años. → 
+2. Me gusta las películas. → 
+3. La gente son muy amables. → 
+4. Pienso de mi familia. → 
+5. Es frío hoy. → 
+6. Ella es en la oficina. → 
+
+> [!check]- Answers (check after you try)
+> 1. Tengo veinticinco años.
+> 2. Me gustan las películas.
+> 3. La gente es muy amable.
+> 4. Pienso en mi familia.
+> 5. Hace frío hoy.
+> 6. Ella está en la oficina.
+
+## 4 · Listen (5 min)
 **Today's video:** [This or that place?](https://app.dreaming.com/spanish/watch?id=6685108231f92fea3a264d9e) · 15 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **exposición**, **internacional**, **clave**, **cruzar**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +131,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

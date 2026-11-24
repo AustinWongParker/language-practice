@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 830 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **bomba** · **proceso** · **superior** · **habitación** · **preparar** · **citar** · **enfermedad** · **resto** · **político** · **desear**
 
@@ -32,7 +32,7 @@ reflection:
 > - **político** = political; politician ([[039 - Sequence and frequency words|lesson 39]])
 > - **desear** = to wish, to desire ([[039 - Sequence and frequency words|lesson 39]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,44 @@ reflection:
 | 814 | **actitud** | attitude | buena actitud = _good attitude_ |
 | 815 | **raro** | strange, weird; rare | qué raro = _how weird_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Confusing verb pairs
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+| | | |
+|---|---|---|
+| **saber** = know facts, know how | **conocer** = know people, places | **Sé** nadar. **Conozco** Madrid. |
+| **pedir** = ask for something | **preguntar** = ask a question | **Pido** la cuenta. **Pregunto** la hora. |
+| **llevar** = take (away from here) | **traer** = bring (here) | **Llevo** el vino a tu casa. **Trae** el vino aquí. |
+| **ir** = go (there) | **venir** = come (here) | ¡**Voy**! = Coming! (I'm going to you) |
+| **jugar** = play a game or sport | **tocar** = play an instrument; touch | **Juego** al tenis. **Toco** la guitarra. |
+| **salir** = go out, leave a place | **dejar** = leave something behind; let | **Salgo** de casa. **Dejé** las llaves. |
+| **tomar** = take, drink | **llevar** = carry, take someone | **Tomo** el bus. **Llevo** a los niños. |
+| **gastar** = spend money | **pasar** = spend time | **Gasté** mucho. **Pasé** el día allí. |
+| **volver** = return (come back) | **devolver** = return (give back) | **Vuelvo** a las 5. **Devuelvo** el libro. |
 
-## 3 · Listen (8 min)
+**Exercise:** Choose the right verb.
+
+1. Can you ___ (bring) me water? → 
+2. I ___ (play) the piano. → 
+3. I'm going to ___ (ask) a question. → 
+4. I ___ (left) my phone at home. → 
+5. We ___ (spent) a week in Cancún. → 
+6. I have to ___ (return) this book. → 
+
+> [!check]- Answers (check after you try)
+> 1. ¿Puedes traerme agua?
+> 2. Toco el piano.
+> 3. Voy a hacer una pregunta. / Voy a preguntar algo.
+> 4. Dejé el teléfono en casa.
+> 5. Pasamos una semana en Cancún.
+> 6. Tengo que devolver este libro.
+
+## 4 · Listen (5 min)
 **Today's video:** [Easy Spanish: Guess the animal](https://app.dreaming.com/spanish/watch?id=655f02dd4ff79db5c63d03b2) · 18 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **marido**, **diario**, **naturalmente**, **tarea**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +128,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

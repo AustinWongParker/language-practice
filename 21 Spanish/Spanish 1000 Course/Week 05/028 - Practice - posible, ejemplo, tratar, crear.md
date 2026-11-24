@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 240 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **medio** · **alcanzar** · **modo** · **llevar** · **ahora** · **propio**
 
@@ -28,7 +28,7 @@ reflection:
 > - **ahora** = now ([[014 - Practice - mujer, hora, ahora, propio|lesson 14]])
 > - **propio** = own; typical ([[014 - Practice - mujer, hora, ahora, propio|lesson 14]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -44,18 +44,40 @@ reflection:
 | 190 | **venir** | to come | ven conmigo = _come with me_ |
 | 193 | **palabra** | word | una palabra nueva = _a new word_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Pronunciation: r and rr
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+- **Single r** in the middle of a word is a quick tap, like the "tt" in American "butter": **pero**, **cara**, **hora**.
+- **Rolled rr** is a trill (several taps): **perro**, **carro**, **tierra**.
+- A single **r** at the **start** of a word, or after **n, l, s**, is also rolled: **rojo**, **río**, **Enrique**, **alrededor**.
+- Meaning can change: **pero** (but) / **perro** (dog) · **caro** (expensive) / **carro** (car).
+- Can't roll yet? Say "butter" fast, then "butter-butter-butter" faster and faster, keeping the tongue loose. It comes with practice.
 
-## 3 · Listen (8 min)
+**Tongue twister:** *Erre con erre cigarro, erre con erre barril, rápido corren los carros, cargados de azúcar del ferrocarril.*
+
+**Exercise:** Say each pair out loud and make the difference clear. Tap (t) or trill (rr)?
+
+1. pero → 
+2. perro → 
+3. caro → 
+4. carro → 
+5. rojo → 
+6. para → 
+
+> [!check]- Answers (check after you try)
+> 1. tap
+> 2. trill
+> 3. tap
+> 4. trill
+> 5. trill (r at the start)
+> 6. tap
+
+## 4 · Listen (5 min)
 **Today's video:** [Spanish Story for Beginners: "The Christmas Gift”](https://app.dreaming.com/spanish/watch?id=6947f20eb0b7b6f887702dd9) · 9 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **posible**, **ejemplo**, **tratar**, **crear**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -98,6 +120,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

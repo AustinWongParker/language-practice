@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 170 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **eso** · **bajo** · **ahora** · **propio** · **entre** · **pasar**
 
@@ -28,7 +28,7 @@ reflection:
 > - **entre** = between, among ([[005 - Estar for feelings and location|lesson 5]])
 > - **pasar** = to pass, to happen, to spend (time) ([[005 - Estar for feelings and location|lesson 5]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -44,18 +44,40 @@ reflection:
 | 132 | **seguir** | to follow, to keep going | sigue recto = _go straight ahead_ |
 | 133 | **recordar** | to remember | no recuerdo = _I don't remember_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Asking questions
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+- Written questions open with **¿** and close with **?**. The **¿** goes where the question starts, which isn't always the start of the sentence: **Y tú, ¿qué haces?**
+- **Yes/no questions** can keep normal word order; only your voice rises at the end: **¿Tienes tiempo?** · **¿Ana vive aquí?**
+- With a question word, the verb comes right after it, then the subject: **¿Dónde vive Ana?** (not "¿Dónde Ana vive?")
+- Question words always carry an accent: **qué, quién, cuál, cómo, dónde, cuándo, cuánto, por qué**.
+- **¿Qué...?** before a noun or to ask for a definition; **¿Cuál...?** to choose from options: **¿Qué es esto?** · **¿Cuál es tu número?** (not "¿Qué es tu número?")
+- Prepositions go first, never at the end: **¿De dónde eres?** (Where are you from?) · **¿Con quién vives?**
+- Tag questions: **..., ¿no?** / **..., ¿verdad?** = ..., right?
 
-## 3 · Listen (8 min)
+**Exercise:** Turn the answer into a question about the part in bold.
+
+1. Vivo en **Texas**. → 
+2. Soy **de México**. → 
+3. Ana llega **mañana**. → 
+4. Vivo **con mi hermano**. → 
+5. Mi número es **el 555**. → 
+6. Estudio español **porque me gusta**. → 
+
+> [!check]- Answers (check after you try)
+> 1. ¿Dónde vives?
+> 2. ¿De dónde eres?
+> 3. ¿Cuándo llega Ana?
+> 4. ¿Con quién vives?
+> 5. ¿Cuál es tu número?
+> 6. ¿Por qué estudias español?
+
+## 4 · Listen (5 min)
 **Today's video:** [Beginner Spanish: "The Shoe Store"](https://app.dreaming.com/spanish/watch?id=69903d7fb0b7b6f8877034e9) · 8 min · First steps
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **realidad**, **presentar**, **conocer**, **hecho**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -98,6 +120,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

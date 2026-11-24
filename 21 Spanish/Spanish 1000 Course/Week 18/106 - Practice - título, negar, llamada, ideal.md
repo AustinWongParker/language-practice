@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 890 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **seco** · **apoyo** · **hundir** · **éxito** · **exponer** · **letra** · **ayuda** · **ambiente** · **abandonar** · **pieza**
 
@@ -32,7 +32,7 @@ reflection:
 > - **abandonar** = to abandon, to leave ([[046 - Practice - camino, duda, dinero, millón|lesson 46]])
 > - **pieza** = piece; part ([[046 - Practice - camino, duda, dinero, millón|lesson 46]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -48,18 +48,47 @@ reflection:
 | 873 | **debajo** | under, underneath | debajo de la cama = _under the bed_ |
 | 874 | **averiguar** | to find out | averiguar la verdad = _to find out the truth_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Pronunciation: accents around the Spanish-speaking world
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+You'll hear many accents on Dreaming Spanish. All are correct; these are the main differences:
 
-## 3 · Listen (8 min)
+| Feature | Where | Example |
+|---|---|---|
+| **c / z** like "th" (distinción) | most of Spain | **gracias** = GRA-thyas |
+| **c / z** like "s" (seseo) | Latin America, Canary Islands, parts of Spain | **gracias** = GRA-syas |
+| **s** weakened to "h" or dropped | Caribbean, Andalusia, Argentina, Chile | **¿Cómo estás?** = "¿Cómo ehtá?" |
+| **ll / y** like "sh" or "zh" | Argentina, Uruguay | **calle** = CA-she, **yo** = sho |
+| **j** soft like English h | Caribbean, Mexico, Colombia | **mujer** |
+| **j** harsh, from the throat | Spain | **mujer** |
+| **vos** instead of tú (voseo) | Argentina, Uruguay, Central America | **vos tenés** = tú tienes; **vos sos** = tú eres |
+| **vosotros** for plural "you" | Spain | **¿Vosotros venís?** |
+
+- Pick one accent to imitate when you speak, but listen to all of them.
+
+**Exercise:** Which feature are you hearing? Match each to a region.
+
+1. "Vos sabés" → 
+2. "GRA-thyas" → 
+3. "Yo me shamo Ana" → 
+4. "¿Vosotros queréis?" → 
+5. "Lo' amigo'" (los amigos) → 
+6. "GRA-syas" → 
+
+> [!check]- Answers (check after you try)
+> 1. voseo: Argentina, Uruguay or Central America
+> 2. distinción: Spain
+> 3. sh-sound ll/y: Argentina or Uruguay
+> 4. vosotros: Spain
+> 5. dropped s: Caribbean, Andalusia or Chile
+> 6. seseo: Latin America
+
+## 4 · Listen (5 min)
 **Today's video:** [Swallow This, Genius!](https://app.dreaming.com/spanish/watch?id=6750530790855736e2dd777d) · 10 min · Beginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **título**, **negar**, **llamada**, **ideal**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -102,6 +131,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

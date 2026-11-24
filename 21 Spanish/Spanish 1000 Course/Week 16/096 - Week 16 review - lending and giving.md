@@ -75,7 +75,23 @@ reflection:
 
 This week's lessons: [[091 - Practice - recuperar, principal, mirada, duro|Lesson 91]] · [[092 - Practice - exponer, letra, partida, sencillo|Lesson 92]] · [[093 - Two pronouns together - se lo doy|Lesson 93]] · [[094 - Practice - profesor, siquiera, acompañar, labor|Lesson 94]] · [[095 - Practice - motivo, construir, opinión, dominar|Lesson 95]]
 
-## 2 · Talk with your partner (10 min)
+## 2 · Textbook check (4 min)
+One or two questions from each textbook unit this week, plus one from a few weeks ago. Units: [[091 - Practice - recuperar, principal, mirada, duro|Comparisons: review and extra rules]] · [[092 - Practice - exponer, letra, partida, sencillo|Verbs like gustar]] · [[094 - Practice - profesor, siquiera, acompañar, labor|Some, any and none]] · [[095 - Practice - motivo, construir, opinión, dominar|Gender, part 2: tricky nouns]] · [[070 - Practice - sueño, dispuesto, compañero, depender|Preterite: -ir stem changers and the irregular set]]
+
+1. _Say it in Spanish._ I have more than ten cousins. → 
+2. _Say it in Spanish._ "I don't like it." "Me neither." → 
+3. _Fill in the right word._ Is anyone there? → 
+4. _Give the feminine (or the other meaning)._ el estudiante → 
+5. _Put the verb in the preterite._ ella / pedir → 
+
+> [!check]- Answers
+> 1. Tengo más de diez primos.
+> 2. No me gusta. A mí tampoco.
+> 3. ¿Hay alguien?
+> 4. la estudiante
+> 5. pidió
+
+## 3 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 Role-play: you need to borrow things for a trip. Ask your partner for each one, and answer with two pronouns: ¿Me prestas la maleta? → Sí, **te la** presto. ¿Le das el libro a Ana? → Sí, **se lo** doy.
@@ -85,12 +101,13 @@ Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 > [!info]- No partner today?
 > Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
 
-## 3 · Listen (12 min)
+## 4 · Listen (8 min)
 A longer session today. Start with **[This or that celebrity?](https://app.dreaming.com/spanish/watch?id=668500fa31f92fea3a264d9a) · 15 min · Beginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
 ## ✅ Finish
 - [ ] Anki reviews (no new cards)
 - [ ] Week test
+- [ ] Textbook check
 - [ ] 10-minute conversation task, and corrections logged
-- [ ] 12 minutes of listening
+- [ ] 8 minutes of listening
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top

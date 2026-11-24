@@ -16,10 +16,11 @@ These 1000 words make up most of what you hear in everyday Spanish. By the end y
 |---|---|---|
 | 🔁 Review | 5–8 min | **Anki** (spaced repetition): every due card, then today's 10 new ones. Then a **quick recall** of words from 2, 5, 12, 25 and 50 lessons ago. |
 | 📘 Learn | 5–8 min | A grammar point (3 days a week), and **10 new words**, each in a short phrase. Read them out loud. |
-| 🎧 Listen | 7–8 min | A [Dreaming Spanish](https://www.dreaming.com/spanish) video at your level. Understand from context; don't translate. |
+| 📝 Textbook | 4–5 min | Practice and review days only: a short **textbook unit** (plurals, gender, accents, pronunciation, conjugations, past tenses...) with a 6-question exercise, or a mixed check on review days. See [[Textbook Units]]. |
+| 🎧 Listen | 5–8 min | Today's [Dreaming Spanish](https://www.dreaming.com/spanish) video, linked in the lesson. Understand from context; don't translate. |
 | 🗣️ Talk | 10 min | A **conversation with your partner**: a 3-minute warm-up drill with an answer key, then 7 minutes of real questions. |
 
-**Each week has six lessons:** three grammar days, two practice days and a review day (no new words). The seventh day is free.
+**Each week has six lessons:** three grammar days, two practice days (with a textbook unit) and a review day (no new words, plus a textbook check). The seventh day is free. Toward the end of the course, some grammar days become practice days.
 
 ## How it works
 - Your next lesson appears in Bookmarks under **🎯 Today's Goals**, and in a pop-up when Obsidian opens.
@@ -42,6 +43,8 @@ These 1000 words make up most of what you hear in everyday Spanish. By the end y
 
 ## Reference
 - [[Spanish 1000 Word List]]: all 1000 words, each linked to the lesson that teaches it
+- [[Textbook Units]]: all 50 grammar, spelling and pronunciation units in one list
+- [[Dreaming Spanish Watch List]]: every free Dreaming Spanish video, easiest first
 - [[My Dictionary]] · [[Spanish Mistakes Log]] · [[Pronunciation & Basics]]
 
 ## Lessons

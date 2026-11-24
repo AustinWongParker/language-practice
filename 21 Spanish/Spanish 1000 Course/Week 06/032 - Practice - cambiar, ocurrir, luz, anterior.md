@@ -16,7 +16,7 @@ reflection:
 > Learn 10 new words in context, then use them out loud.
 > **10 new words** · 270 of 1000 after today
 
-## 1 · Review (7 min)
+## 1 · Review (6 min)
 - **Anki:** do every due card, then today's 10 new cards. See [[Anki Setup]].
 - **Quick recall:** say what each word means, and use one in a sentence: **mí** · **pues** · **pueblo** · **cuanto** · **historia** · **mesa** · **su** · **haber**
 
@@ -30,7 +30,7 @@ reflection:
 > - **su** = his, her, their, your (formal) ([[002 - Practice - y, a, no, se|lesson 2]])
 > - **haber** = to have (helper verb); hay = there is/are ([[002 - Practice - y, a, no, se|lesson 2]])
 
-## 2 · Learn (5 min)
+## 2 · Learn (4 min)
 **Today's 10 words** (from the 1000 most common). Read each word and phrase out loud twice.
 
 | # | Spanish | English | In a phrase |
@@ -46,18 +46,51 @@ reflection:
 | 214 | **tomar** | to take; to drink | tomar un café = _to have a coffee_ |
 | 217 | **además** | besides, also | además, es barato = _besides, it's cheap_ |
 
-**Make it yours:** write one short sentence of your own for three of these words. Sentences about your own life stick best.
+## 3 · Textbook (5 min): Ser vs estar, part 1
+Read the rule out loud, do the exercise, then check the answers. All units: [[Textbook Units]].
 
-1. 
-2. 
-3. 
+Both mean "to be". The basic split: **ser** for what something **is**, **estar** for how or where it **is**.
 
-## 3 · Listen (8 min)
+**Ser (DOCTOR):**
+- **D**escription: Ana es alta.
+- **O**ccupation: Soy profesor.
+- **C**haracteristics: Es simpático.
+- **T**ime and dates: Son las tres. Hoy es lunes.
+- **O**rigin: Somos de Texas.
+- **R**elationships: Es mi hermano.
+
+**Estar (PLACE):**
+- **P**osition and location: El libro está en la mesa.
+- **L**ocation of people: Estoy en casa.
+- **A**ction in progress: Estoy comiendo.
+- **C**ondition: La sopa está fría.
+- **E**motion: Estamos contentos.
+
+- Events are an exception: where an event **takes place** uses **ser**: **La fiesta es en mi casa.**
+
+**Exercise:** Ser or estar? Fill in the right form.
+
+1. Mi madre ___ médica. → 
+2. Madrid ___ en España. → 
+3. Hoy ___ martes. → 
+4. (Yo) ___ muy cansado. → 
+5. Nosotros ___ de Texas. → 
+6. La fiesta ___ en el parque. → 
+
+> [!check]- Answers (check after you try)
+> 1. es
+> 2. está
+> 3. es
+> 4. estoy
+> 5. somos
+> 6. es
+
+## 4 · Listen (5 min)
 **Today's video:** [The Airport Nightmare - Easy Spanish Story for Beginners](https://app.dreaming.com/spanish/watch?id=68dce12ae7b66772ed57d35a) · 7 min · Superbeginner
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** any of today's words, especially **cambiar**, **ocurrir**, **luz**, **anterior**.
 
-## 4 · Talk with your partner (10 min)
+## 5 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
 **Warm-up drill (3 min):** your partner reads each English phrase; you say it in Spanish. Get one wrong? Try it again at the end.
@@ -100,6 +133,7 @@ Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 - [ ] Anki: every due card, plus today's new cards
 - [ ] Quick recall
 - [ ] Read today's words and phrases out loud
+- [ ] Textbook exercise, answers checked
 - [ ] Listening
 - [ ] 10-minute conversation, and one correction logged
 - [ ] Log minutes, difficulty (1–5) and a one-line reflection in the properties at the top
