@@ -3,7 +3,7 @@
 Your flashcards are built into Obsidian: a small in-house plugin called **Spanish Flashcards**. It works like Anki, using spaced repetition to show each word just before you'd forget it, but it's tied to the [[Spanish 1000 Course]].
 
 ## Open it
-- Click the **layers** icon (three stacked sheets) in the left sidebar, or
+- Click the **layers** icon at the very top of the thin icon strip on the far left (it looks like three stacked diamonds; hover it to see "Study Spanish flashcards"), or
 - click the card count (**🗂 12 cards**) in the bottom status bar, or
 - press `Ctrl+P` and run **Spanish Flashcards: Study**.
 
