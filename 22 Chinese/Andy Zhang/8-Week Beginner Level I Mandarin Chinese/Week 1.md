@@ -1,0 +1,66 @@
+**Summary**
+- Chinese language history
+- Major differences between English and Chinese
+	- Tones
+	- Syllable
+	- Writing
+- Features of Chinese characters
+	- Pictograms and Ideographs
+- Goals & objective; learning focuses + approaches
+	- Speaking & pronunciation
+	- Literacy
+	- Application
+- Chinese Grammar
+	- 4 Major grammar rules
+- Chinese phonetics
+	- 23 initials, 36 finals & 4+1 tones
+	- [Chinese Phonetic Alphabet Video](https://www.youtube.com/watch?v=wj9JuF02gcM)
+	- ![[Pasted image 20240421182306.png|400]]
+	- ![[Pasted image 20240421182335.png|400]]
+	- ![[Pasted image 20240421182351.png|400]]
+
+Major differences between English and Chinese
+- Major characteristics of Chinese language
+	- Chinese characters are composed of three basic elements:
+		- Initials, finals, and tones
+		- Some of the rules are:
+			- One syllable could contain at most two consonants
+			- Only one consonant cannot independently constitute a syllable.
+			- All syllables must contain at least one vowel
+			- Every syllable has a tone
+			- Syllables which have the same initials and finals use different tones to express different meanings
+			- Every individual Chinese character has one syllable, or one sound, and most have on tone
+		- Vocabulary
+			- Disyllabic words (words composed of two characters)
+				- Represent 80% of the vocab in modern chinese
+				- Monosyllabic and polysllabic words jointly represent remaining 20%
+			- Equivalent to compound words in english
+				- i.e: timetable, letterhead, mailbox, healthcare
+		- Grammar
+			- No tense in chinese language. It's all implicit based on context
+				- i.e: yesterday, today, tomorrow, future, now, already, 5 years ago
+			- No conjugation change in chinese language
+				- i.e - english: I am a teacher
+				- i.e - chinese: he am a teacher
+				- In chinese, you would use the linking verb "to be" 是 (shì)
+					- Use 是 to link any personal pronoun: I, you, he, she, they, etc.
+			- No plural in Mandarin Chinese
+				- i.e - english: 10 dogs, 5 sheeps, 7 owls
+				- i.e - chinese: 10 dog, 5 sheep, 7 owl
+				- Instead, chinese uses 'measure words' / classifiers 
+			- Articles and infinitives do no necessarily exist in Mandarin Chinese Language.
+				- i.e - english: I am a teacher, I plan to come to see you this afternoon
+				- i.e - chinese: I am teacher, I plan come see you this afternoon
+			- Chinese adjectives very often function as verbs
+				- i.e - beautiful, expensive, cold, hot, interesting, tired. Can serve as an adjective or verb depending on context
+				- to be beautiful, to be expensive, to be cold.
+				- No need for linking verb
+			- Verbs and nouns in chinese are mostly the same word
+				- i.e - english: manage/management, generate/generation, satisfy/satisfaction
+				- i.e - chinese: all can be one word for each pair depending on context
+			- Adverbs and adjectives can be used interchangeably in Chinese
+			- Chinese adverbs are required to precede the verbs in most instances
+				- i.e - english: he talks loudly, the baby sleeps soundly, it rained heavily last night
+				- i.e - chinese: i am in my office working, he at 3o'clock today will stop by, our office during christmas time will be closed
+				- note - in chinese, prepositional phrases indicating time and location are considered adverbial phrases and shall be placed before verbs as well
+					- Subject + Time Word + Verb + Object

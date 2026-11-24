@@ -1,0 +1,1 @@
+v in Spanish has a soft inflection to it. It almost sounds like 'b' as in b for boy
