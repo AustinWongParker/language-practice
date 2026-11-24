@@ -19,7 +19,7 @@ Your flashcards are built into Obsidian: a small in-house plugin called **Spanis
 | **Good** | `3` or `Space` | You knew it | Comes back later: 1 day, then about 3, 8, 20 days... |
 | **Easy** | `4` | Instant, effortless | Jumps further ahead |
 
-Press `R` or 🔊 to hear the card again. Each button shows when you'll see the card next. Click **Lesson 12 · #108** on the back of a card to open the lesson that teaches it.
+Press `R` or 🔊 to hear the card again. To turn automatic audio off or on, click **🔊 Audio on / 🔇 Audio off** at the top of the flashcard screen, or press `M`. It remembers your choice. With audio off, nothing plays unless you press 🔊 or `R`. Each button shows when you'll see the card next. Click **Lesson 12 · #108** on the back of a card to open the lesson that teaches it.
 
 ## How it stays in step with your lessons
 - **New words unlock when you reach their lesson.** Open today's lesson and its 10 words are waiting; finish the lesson, and tomorrow's unlock with the next one.
