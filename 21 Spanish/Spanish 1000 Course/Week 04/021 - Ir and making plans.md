@@ -59,18 +59,18 @@ reflection:
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 
-| # | Spanish | English | In a phrase |
-|---|---|---|---|
-| 134 | **cambio** | change | un cambio grande = _a big change_ |
-| 135 | **blanco** | white | vino blanco = _white wine_ |
-| 136 | **sacar** | to take out, to get (a grade, a photo) | sacar fotos = _to take photos_ |
-| 137 | **conseguir** | to get, to manage to | conseguir trabajo = _to get a job_ |
-| 138 | **aquel** | that (over there) | aquel edificio = _that building over there_ |
-| 139 | **empezar** | to begin, to start | empieza a llover = _it's starting to rain_ |
-| 323 | **viaje** | trip | ¡buen viaje! = _have a good trip!_ |
-| 572 | **visitar** | to visit | visitar a mi familia = _to visit my family_ |
-| 641 | **viajar** | to travel | me gusta viajar = _I like to travel_ |
-| 891 | **plan** | plan | ¿cuál es el plan? = _what's the plan?_ |
+| #   | Spanish       | English                                | In a phrase                                 |
+| --- | ------------- | -------------------------------------- | ------------------------------------------- |
+| 134 | **cambio**    | change                                 | un cambio grande = _a big change_           |
+| 135 | **blanco**    | white                                  | vino blanco = _white wine_                  |
+| 136 | **sacar**     | to take out, to get (a grade, a photo) | sacar fotos = _to take photos_              |
+| 137 | **conseguir** | to get, to manage to                   | conseguir trabajo = _to get a job_          |
+| 138 | **aquel**     | that (over there)                      | aquel edificio = _that building over there_ |
+| 139 | **empezar**   | to begin, to start                     | empieza a llover = _it's starting to rain_  |
+| 323 | **viaje**     | trip                                   | ¡buen viaje! = _have a good trip!_          |
+| 572 | **visitar**   | to visit                               | visitar a mi familia = _to visit my family_ |
+| 641 | **viajar**    | to travel                              | me gusta viajar = _I like to travel_        |
+| 891 | **plan**      | plan                                   | ¿cuál es el plan? = _what's the plan?_      |
 
 ## 3 · Listen (7 min)
 **Today's video:** [Beginner Spanish Story: "I Can't Go to School!”](https://app.dreaming.com/spanish/watch?id=6957b73ab0b7b6f887702e8a) · 8 min · First steps

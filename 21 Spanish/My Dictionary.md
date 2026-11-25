@@ -1078,36 +1078,36 @@ Every word from the [[Spanish 1000 Word List]], A to Z. **Say it like** spells e
 
 ## V
 
-| Spanish | English | Say it like | Lesson |
-|---|---|---|---|
-| **valor** | value; courage | bah-LOHR | [[034 - Practice - comprender, mil, programa, distinto\|34]] |
-| **varios** | several, various | BAH-ryohs | [[033 - Stem changers o to ue\|33]] |
-| **vecino** | neighbor | beh-SEE-noh | [[065 - Preterite irregulars - ir, ser, hacer, tener\|65]] |
-| **vehículo** | vehicle | beh-EE-koo-loh | [[087 - Practice - publicar, idioma, aprovechar, conclusión\|87]] |
-| **veinte** | twenty | BAYN-teh | [[110 - Practice - espejo, elemento, matar, cola\|110]] |
-| **vender** | to sell | behn-DEHR | [[013 - Regular -ER verbs\|13]] |
-| **venir** | to come | beh-NEER | [[028 - Practice - posible, ejemplo, tratar, crear\|28]] |
-| **ver** | to see; to watch | behr | [[010 - Practice - algo, ya, momento, menos\|10]] |
-| **verano** | summer | beh-RAH-noh | [[059 - Weather and seasons\|59]] |
-| **verdad** | truth | behr-DAHD | [[022 - Practice - modo, llevar, amigo, tema\|22]] |
-| **verdadero** | true, real | behr-dah-DEH-roh | [[047 - Possessives and family\|47]] |
-| **verde** | green | BEHR-deh | [[061 - Preterite - regular -AR verbs\|61]] |
-| **vez** | time (occasion) | behs | [[010 - Practice - algo, ya, momento, menos\|10]] |
-| **viajar** | to travel | byah-HAHR | [[021 - Ir and making plans\|21]] |
-| **viaje** | trip | BYAH-heh | [[021 - Ir and making plans\|21]] |
-| **vida** | life | BEE-dah | [[016 - Practice - parte, vida, trabajo, nombre\|16]] |
-| **viejo** | old | BYEH-hoh | [[025 - Adjectives and agreement\|25]] |
-| **vino** | wine | BEE-noh | [[029 - Food and ordering\|29]] |
-| **visita** | visit | bee-SEE-tah | [[074 - Practice - ocasión, premio, visita, tu\|74]] |
-| **visitar** | to visit | bee-see-TAHR | [[021 - Ir and making plans\|21]] |
-| **vista** | view, sight | BEES-tah | [[038 - Practice - claro, clase, problema, antiguo\|38]] |
-| **vivir** | to live | bee-BEER | [[015 - Regular -IR verbs\|15]] |
-| **vivo** | alive; lively | BEE-boh | [[088 - Practice - vivo, lucha, daño, intento\|88]] |
-| **volumen** | volume | boh-LOO-mehn | [[079 - Tú commands\|79]] |
-| **voluntad** | will, willpower | boh-loon-TAHD | [[061 - Preterite - regular -AR verbs\|61]] |
-| **volver** | to return, to come back; volver a = to do again | bohl-BEHR | [[016 - Practice - parte, vida, trabajo, nombre\|16]] |
-| **voz** | voice | bohs | [[050 - Practice - humano, físico, convertir, voz\|50]] |
-| **vuelta** | return; turn; walk around | BWEHL-tah | [[092 - Practice - exponer, letra, partida, sencillo\|92]] |
+| Spanish       | English                                         | Say it like      | Lesson                                                            |
+| ------------- | ----------------------------------------------- | ---------------- | ----------------------------------------------------------------- |
+| **valor**     | value; courage                                  | bah-LOHR         | [[034 - Practice - comprender, mil, programa, distinto\|34]]      |
+| **varios**    | several, various                                | BAH-ryohs        | [[033 - Stem changers o to ue\|33]]                               |
+| **vecino**    | neighbor                                        | beh-SEE-noh      | [[065 - Preterite irregulars - ir, ser, hacer, tener\|65]]        |
+| **vehículo**  | vehicle                                         | beh-EE-koo-loh   | [[087 - Practice - publicar, idioma, aprovechar, conclusión\|87]] |
+| **veinte**    | twenty                                          | BAYN-teh         | [[110 - Practice - espejo, elemento, matar, cola\|110]]           |
+| **vender**    | to sell                                         | behn-DEHR        | [[013 - Regular -ER verbs\|13]]                                   |
+| **venir**     | to come                                         | beh-NEER         | [[028 - Practice - posible, ejemplo, tratar, crear\|28]]          |
+| **ver**       | to see; to watch                                | behr             | [[010 - Practice - algo, ya, momento, menos\|10]]                 |
+| **verano**    | summer                                          | beh-RAH-noh      | [[059 - Weather and seasons\|59]]                                 |
+| **verdad**    | truth                                           | behr-DAHD        | [[022 - Practice - modo, llevar, amigo, tema\|22]]                |
+| **verdadero** | true, real                                      | behr-dah-DEH-roh | [[047 - Possessives and family\|47]]                              |
+| **verde**     | green                                           | BEHR-deh         | [[061 - Preterite - regular -AR verbs\|61]]                       |
+| **vez**       | time (occasion)                                 | behs             | [[010 - Practice - algo, ya, momento, menos\|10]]                 |
+| **viajar**    | to travel                                       | byah-HAHR        | [[021 - Ir and making plans\|21]]                                 |
+| **viaje**     | trip                                            | BYAH-heh         | [[021 - Ir and making plans\|21]]                                 |
+| **vida**      | life                                            | BEE-dah          | [[016 - Practice - parte, vida, trabajo, nombre\|16]]             |
+| **viejo**     | old                                             | BYEH-hoh         | [[025 - Adjectives and agreement\|25]]                            |
+| **vino**      | wine                                            | BEE-noh          | [[029 - Food and ordering\|29]]                                   |
+| **visita**    | visit                                           | bee-SEE-tah      | [[074 - Practice - ocasión, premio, visita, tu\|74]]              |
+| **visitar**   | to visit                                        | bee-see-TAHR     | [[021 - Ir and making plans\|21]]                                 |
+| **vista**     | view, sight                                     | BEES-tah         | [[038 - Practice - claro, clase, problema, antiguo\|38]]          |
+| **vivir**     | to live                                         | bee-BEER         | [[015 - Regular -IR verbs\|15]]                                   |
+| **vivo**      | alive; lively                                   | BEE-boh          | [[088 - Practice - vivo, lucha, daño, intento\|88]]               |
+| **volumen**   | volume                                          | boh-LOO-mehn     | [[079 - Tú commands\|79]]                                         |
+| **voluntad**  | will, willpower                                 | boh-loon-TAHD    | [[061 - Preterite - regular -AR verbs\|61]]                       |
+| **volver**    | to return, to come back; volver a = to do again | bohl-BEHR        | [[016 - Practice - parte, vida, trabajo, nombre\|16]]             |
+| **voz**       | voice                                           | bohs             | [[050 - Practice - humano, físico, convertir, voz\|50]]           |
+| **vuelta**    | return; turn; walk around                       | BWEHL-tah        | [[092 - Practice - exponer, letra, partida, sencillo\|92]]        |
 
 ## Y
 
