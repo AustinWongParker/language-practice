@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
+- **Flashcards:** do every card your [flashcards](obsidian://spanish-flashcards) show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **atender** · **ayudar** · **color** · **pasado** · **lista** · **famoso** · **falta** · **joven** · **colegio** · **escuela** · **ocasión** · **premio** · **visita** · **tu** · **dedo** · **quince** · **demostrar** · **existencia** · **mente** · **mayoría** · **conocimiento** · **examen** · **teléfono** · **mío** · **acto** · **rama** · **libre** · **recoger** · **inmediato** · **cuento** · **nivel** · **ciencia** · **ayuda** · **ambiente** · **imponer** · **alemán** · **casar** · **masa** · **clásico** · **futuro** · **loco** · **atención** · **pegar** · **capacidad** · **ambos** · **concreto** · **ocupar** · **entrada** · **objetivo** · **disposición**

@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
+- **Flashcards:** do every card your [flashcards](obsidian://spanish-flashcards) show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **reconocer** · **importante** · **recurso** · **intentar** · **realizar** · **golpe** · **grado** · **morir** · **ojo** · **permitir** · **humano** · **físico** · **convertir** · **voz** · **incluso** · **responsabilidad** · **bastante** · **profundo** · **suelo** · **asegurar** · **brazo** · **uso** · **parecido** · **imagen** · **origen** · **relación** · **apoyar** · **sangre** · **demás** · **igual** · **edad** · **cantidad** · **actuar** · **comprobar** · **según** · **observar** · **frente** · **lograr** · **completo** · **moderno** · **atravesar** · **maestro** · **adelante** · **diferente** · **delante** · **sentido** · **imposible** · **faltar** · **importar** · **preocupar**

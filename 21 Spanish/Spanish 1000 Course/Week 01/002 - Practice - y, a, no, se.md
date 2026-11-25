@@ -17,7 +17,7 @@ reflection:
 > **10 new words** · 20 of 1000 after today
 
 ## 1 · Review (6 min)
-- **Flashcards:** open your [[Spanish Flashcards|flashcards]] (the layers icon in the left sidebar, or the card count in the status bar) and do every card it shows. Today's 10 new words unlock on their own.
+- **Flashcards:** open your [flashcards](obsidian://spanish-flashcards) (the layers icon in the left sidebar, or the card count in the status bar) and do every card it shows. Today's 10 new words unlock on their own.
 - **Quick recall:** nothing to recall yet. From lesson 3 on, words from earlier lessons come back here at growing gaps (2, 5, 12, 25 and 50 lessons later).
 
 ## 2 · Learn (4 min)

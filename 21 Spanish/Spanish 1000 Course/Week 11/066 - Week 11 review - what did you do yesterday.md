@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
+- **Flashcards:** do every card your [flashcards](obsidian://spanish-flashcards) show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **naturaleza** · **popular** · **utilizar** · **voluntad** · **verde** · **extraño** · **accidente** · **económico** · **desaparecer** · **pagar** · **olvidar** · **zona** · **fuera** · **número** · **estado** · **través** · **especie** · **empresa** · **cincuenta** · **nacer** · **lengua** · **usar** · **tamaño** · **revista** · **cerrado** · **frontera** · **animal** · **suceder** · **descubrir** · **romper** · **acción** · **corazón** · **enseñar** · **quitar** · **mensaje** · **analizar** · **bien** · **público** · **elegir** · **región** · **policía** · **comienzo** · **fondo** · **amor** · **resolver** · **vecino** · **actividad** · **diciembre** · **agosto** · **rato**

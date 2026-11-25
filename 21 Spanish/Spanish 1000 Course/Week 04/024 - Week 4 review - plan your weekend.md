@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
+- **Flashcards:** do every card your [flashcards](obsidian://spanish-flashcards) show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **poco** · **durante** · **quien** · **lugar** · **cómo** · **quién** · **dónde** · **cuál** · **cuándo** · **cuánto** · **realidad** · **presentar** · **conocer** · **hecho** · **entonces** · **día** · **salir** · **llamar** · **seguir** · **recordar** · **cambio** · **blanco** · **sacar** · **conseguir** · **aquel** · **empezar** · **viaje** · **visitar** · **viajar** · **plan** · **modo** · **llevar** · **amigo** · **tema** · **dejar** · **existir** · **verdad** · **ciudad** · **general** · **sólo** · **aunque** · **calle** · **parecer** · **manera** · **quedar** · **preguntar** · **hoy** · **mes** · **minuto** · **semana**

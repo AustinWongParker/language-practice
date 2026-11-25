@@ -5,7 +5,10 @@ Your flashcards are built into Obsidian: a small in-house plugin called **Spanis
 ## Open it
 - Click the **layers** icon at the very top of the thin icon strip on the far left (it looks like three stacked diamonds; hover it to see "Study Spanish flashcards"), or
 - click the card count (**🗂 12 cards**) in the bottom status bar, or
-- press `Ctrl+P` and run **Spanish Flashcards: Study**.
+- press `Ctrl+P` and run **Spanish Flashcards: Study**, or
+- click the **flashcards** link in any lesson.
+
+The **ⓘ** button at the top of the flashcard screen brings you back to this page.
 
 ## How a card works
 1. You see the Spanish word and a short phrase, and hear it read aloud.

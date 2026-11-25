@@ -14,7 +14,7 @@ These 1000 words make up most of what you hear in everyday Spanish. By the end y
 ## Your 30 minutes
 | Part | Time | What you do |
 |---|---|---|
-| 🔁 Review | 5–8 min | **[[Spanish Flashcards|Flashcards]]** (spaced repetition, built into Obsidian): every card due today, including today's 10 new words. Then a **quick recall** of words from 2, 5, 12, 25 and 50 lessons ago. |
+| 🔁 Review | 5–8 min | **[Flashcards](obsidian://spanish-flashcards)** (spaced repetition, built into Obsidian; [[Spanish Flashcards|how they work]]): every card due today, including today's 10 new words. Then a **quick recall** of words from 2, 5, 12, 25 and 50 lessons ago. |
 | 📘 Learn | 5–8 min | A grammar point (3 days a week), and **10 new words**, each in a short phrase. Read them out loud. |
 | 📝 Textbook | 4–5 min | Practice and review days only: a short **textbook unit** (plurals, gender, accents, pronunciation, conjugations, past tenses...) with a 6-question exercise, or a mixed check on review days. See [[Textbook Units]]. |
 | 🎧 Listen | 5–8 min | Today's [Dreaming Spanish](https://www.dreaming.com/spanish) video, linked in the lesson. Understand from context; don't translate. |

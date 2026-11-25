@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
+- **Flashcards:** do every card your [flashcards](obsidian://spanish-flashcards) show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **solamente** · **directamente** · **lenguaje** · **ello** · **difícil** · **ofrecer** · **sistema** · **correr** · **cantar** · **llorar** · **enorme** · **realmente** · **social** · **abierto** · **subir** · **evitar** · **superar** · **papel** · **surgir** · **rojo** · **pasado** · **favor** · **siguiente** · **miembro** · **suponer** · **puro** · **carga** · **calor** · **enemigo** · **tender** · **serio** · **mover** · **demasiado** · **ganar** · **lleno** · **altura** · **civil** · **niña** · **cara** · **metro** · **cuidado** · **dios** · **participar** · **explicar** · **libertad** · **sol** · **verano** · **frío** · **temperatura** · **estación**

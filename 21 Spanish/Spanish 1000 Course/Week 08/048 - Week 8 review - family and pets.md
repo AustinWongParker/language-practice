@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
+- **Flashcards:** do every card your [flashcards](obsidian://spanish-flashcards) show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **paso** · **río** · **dirección** · **cuestión** · **derecho** · **principio** · **guerra** · **único** · **avanzar** · **oír** · **lanzar** · **diferencia** · **bueno** · **propiedad** · **indicar** · **capaz** · **todavía** · **joven** · **comenzar** · **idea** · **peso** · **estudio** · **grupo** · **considerar** · **allá** · **mal** · **anunciar** · **sociedad** · **política** · **detener** · **camino** · **duda** · **dinero** · **millón** · **abandonar** · **pieza** · **claro** · **movimiento** · **sitio** · **arriba** · **crecer** · **siglo** · **necesidad** · **verdadero** · **doctor** · **natural** · **contestar** · **mercado** · **madre** · **hermano**

@@ -16,7 +16,7 @@ reflection:
 > No new words. Lock in this week's 50 words and put the week together out loud.
 
 ## 1 · Review (8 min)
-- **Flashcards:** do every card your [[Spanish Flashcards|flashcards]] show. No new words today, so it's reviews only.
+- **Flashcards:** do every card your [flashcards](obsidian://spanish-flashcards) show. No new words today, so it's reviews only.
 - **Week test:** your partner (or you, with the answers hidden) goes down the list. Say what each word means. Circle any you miss and look at their lessons again.
 
 **recuperar** · **principal** · **mirada** · **duro** · **información** · **espíritu** · **artículo** · **trasladar** · **positivo** · **expresión** · **exponer** · **letra** · **partida** · **sencillo** · **apenas** · **estilo** · **perfecto** · **vuelta** · **excepción** · **control** · **esperanza** · **superior** · **habitación** · **manejar** · **representar** · **causa** · **semejante** · **alrededor** · **prestar** · **mandar** · **profesor** · **siquiera** · **acompañar** · **labor** · **trabajador** · **carácter** · **operar** · **obstante** · **sexo** · **documento** · **motivo** · **construir** · **opinión** · **dominar** · **oscuro** · **acordar** · **cadena** · **tras** · **repartir** · **fenómeno**

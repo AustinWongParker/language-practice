@@ -17,7 +17,7 @@ reflection:
 > **10 new words** · 540 of 1000 after today
 
 ## 1 · Review (6 min)
-- **Flashcards:** open your [[Spanish Flashcards|flashcards]] (the layers icon in the left sidebar, or the card count in the status bar) and do every card it shows. Today's 10 new words unlock on their own.
+- **Flashcards:** open your [flashcards](obsidian://spanish-flashcards) (the layers icon in the left sidebar, or the card count in the status bar) and do every card it shows. Today's 10 new words unlock on their own.
 - **Quick recall:** say what each word means, and use one in a sentence: **estado** · **través** · **civil** · **niña** · **suelo** · **asegurar** · **comprender** · **mil** · **todo** · **más**
 
 > [!check]- Recall answers
