@@ -53,18 +53,18 @@ reflection:
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 
-| # | Spanish | English | In a phrase |
-|---|---|---|---|
-| 1 | **la** | the (fem.); her, it (object) | la casa = _the house_ |
-| 2 | **el** | the (masc.) | el perro = _the dog_ |
-| 3 | **que** | that, which; than | creo que sí = _I think so_ |
-| 4 | **de** | of, from | soy de Texas = _I'm from Texas_ |
-| 5 | **en** | in, on, at | en casa = _at home_ |
-| 63 | **hasta** | until, up to; even | hasta mañana = _see you tomorrow_ |
-| 114 | **bien** | well, fine | estoy bien = _I'm fine_ |
-| 216 | **gracia** | grace; gracias = thank you | muchas gracias = _thank you very much_ |
-| 293 | **noche** | night | buenas noches = _good night_ |
-| 538 | **mañana** | tomorrow; morning | hasta mañana = _see you tomorrow_ |
+| #   | Spanish    | English                      | In a phrase                            |
+| --- | ---------- | ---------------------------- | -------------------------------------- |
+| 1   | **la**     | the (fem.); her, it (object) | la casa = _the house_                  |
+| 2   | **el**     | the (masc.)                  | el perro = _the dog_                   |
+| 3   | **que**    | that, which; than            | creo que sí = _I think so_             |
+| 4   | **de**     | of, from                     | soy de Texas = _I'm from Texas_        |
+| 5   | **en**     | in, on, at                   | en casa = _at home_                    |
+| 63  | **hasta**  | until, up to; even           | hasta mañana = _see you tomorrow_      |
+| 114 | **bien**   | well, fine                   | estoy bien = _I'm fine_                |
+| 216 | **gracia** | grace; gracias = thank you   | muchas gracias = _thank you very much_ |
+| 293 | **noche**  | night                        | buenas noches = _good night_           |
+| 538 | **mañana** | tomorrow; morning            | hasta mañana = _see you tomorrow_      |
 
 ## 3 · Listen (7 min)
 **Today's video:** [What Are You Eating?](https://app.dreaming.com/spanish/watch?id=6720f9c7107cd59f0b4575a6) · 4 min · First steps
