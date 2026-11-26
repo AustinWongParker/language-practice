@@ -71,6 +71,11 @@ reflection:
 Short video? Keep going down the [[Dreaming Spanish Watch List]] until you've listened for the full time. Long one? Stop when time's up, or finish it if you're enjoying it. Don't translate in your head; follow along from the pictures and gestures.
 **Listen for:** greetings like hola, buenos días and ¿cómo estás?
 
+tango hambre - I'm hungry
+dame - give me
+![[Pasted image 20261125232230.png]] - what is in your other hand?
+este - this
+
 ## 4 · Talk with your partner (10 min)
 See the [[Conversation Partner Guide]] for how to run this.
 
