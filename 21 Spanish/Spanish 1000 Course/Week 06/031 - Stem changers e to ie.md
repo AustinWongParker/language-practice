@@ -48,13 +48,13 @@ Same pattern: **querer** (quiero), **empezar** (empiezo), **preferir** (prefiero
 
 | Spanish | English |
 |---|---|
-| pensar | to think |
-| pensar que | to think that |
-| empezar | to start |
-| preferir | to prefer |
-| entender | to understand |
-| cerrar | to close |
-| la película | movie |
+| pensar | <span class="sfc-hide">to think</span> |
+| pensar que | <span class="sfc-hide">to think that</span> |
+| empezar | <span class="sfc-hide">to start</span> |
+| preferir | <span class="sfc-hide">to prefer</span> |
+| entender | <span class="sfc-hide">to understand</span> |
+| cerrar | <span class="sfc-hide">to close</span> |
+| la película | <span class="sfc-hide">movie</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

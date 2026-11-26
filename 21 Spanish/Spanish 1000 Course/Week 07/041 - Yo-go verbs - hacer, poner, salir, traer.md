@@ -47,14 +47,14 @@ These verbs are regular except in the **yo** form, which ends in **-go**:
 
 | Spanish | English |
 |---|---|
-| hacer | to do, make |
-| poner | to put |
-| salir de | to leave (a place) |
-| traer | to bring |
-| hacer ejercicio | to exercise |
-| poner la mesa | to set the table |
-| la tarea | homework |
-| la fiesta | party |
+| hacer | <span class="sfc-hide">to do, make</span> |
+| poner | <span class="sfc-hide">to put</span> |
+| salir de | <span class="sfc-hide">to leave (a place)</span> |
+| traer | <span class="sfc-hide">to bring</span> |
+| hacer ejercicio | <span class="sfc-hide">to exercise</span> |
+| poner la mesa | <span class="sfc-hide">to set the table</span> |
+| la tarea | <span class="sfc-hide">homework</span> |
+| la fiesta | <span class="sfc-hide">party</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

@@ -44,15 +44,15 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| vivir | to live |
-| escribir | to write |
-| abrir | to open |
-| recibir | to receive |
-| compartir | to share |
-| la ciudad | city |
-| el correo | email, mail |
-| la tienda | store |
-| grande | big |
+| vivir | <span class="sfc-hide">to live</span> |
+| escribir | <span class="sfc-hide">to write</span> |
+| abrir | <span class="sfc-hide">to open</span> |
+| recibir | <span class="sfc-hide">to receive</span> |
+| compartir | <span class="sfc-hide">to share</span> |
+| la ciudad | <span class="sfc-hide">city</span> |
+| el correo | <span class="sfc-hide">email, mail</span> |
+| la tienda | <span class="sfc-hide">store</span> |
+| grande | <span class="sfc-hide">big</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

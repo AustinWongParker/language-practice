@@ -45,15 +45,15 @@ Three verbs that take another verb straight after them, in its "to ___" form (th
 
 | Spanish | English |
 |---|---|
-| querer | to want |
-| poder | to be able to, can |
-| tener que | to have to |
-| aprender | to learn |
-| practicar | to practice |
-| salir | to go out, leave |
-| comer | to eat |
-| ahora | now |
-| esta noche | tonight |
+| querer | <span class="sfc-hide">to want</span> |
+| poder | <span class="sfc-hide">to be able to, can</span> |
+| tener que | <span class="sfc-hide">to have to</span> |
+| aprender | <span class="sfc-hide">to learn</span> |
+| practicar | <span class="sfc-hide">to practice</span> |
+| salir | <span class="sfc-hide">to go out, leave</span> |
+| comer | <span class="sfc-hide">to eat</span> |
+| ahora | <span class="sfc-hide">now</span> |
+| esta noche | <span class="sfc-hide">tonight</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

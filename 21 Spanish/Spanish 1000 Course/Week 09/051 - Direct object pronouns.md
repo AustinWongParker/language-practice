@@ -49,12 +49,12 @@ A direct object receives the action (I see **the book**). Replace it with a pron
 
 | Spanish | English |
 |---|---|
-| ver | to see |
-| comprar | to buy |
-| llamar | to call |
-| buscar | to look for |
-| ayudar | to help |
-| el regalo | gift |
+| ver | <span class="sfc-hide">to see</span> |
+| comprar | <span class="sfc-hide">to buy</span> |
+| llamar | <span class="sfc-hide">to call</span> |
+| buscar | <span class="sfc-hide">to look for</span> |
+| ayudar | <span class="sfc-hide">to help</span> |
+| el regalo | <span class="sfc-hide">gift</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

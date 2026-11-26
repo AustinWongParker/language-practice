@@ -43,14 +43,14 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| más | more |
-| menos | less |
-| tan … como | as … as |
-| mejor | better |
-| peor | worse |
-| mayor | older |
-| menor | younger |
-| el chino | Chinese (language) |
+| más | <span class="sfc-hide">more</span> |
+| menos | <span class="sfc-hide">less</span> |
+| tan … como | <span class="sfc-hide">as … as</span> |
+| mejor | <span class="sfc-hide">better</span> |
+| peor | <span class="sfc-hide">worse</span> |
+| mayor | <span class="sfc-hide">older</span> |
+| menor | <span class="sfc-hide">younger</span> |
+| el chino | <span class="sfc-hide">Chinese (language)</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

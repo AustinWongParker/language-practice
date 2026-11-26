@@ -45,14 +45,14 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| estar | to be (state, place) |
-| contento / contenta | happy |
-| triste | sad |
-| ocupado / ocupada | busy |
-| enfermo / enferma | sick |
-| en casa | at home |
-| aquí | here |
-| ¿dónde? | where? |
+| estar | <span class="sfc-hide">to be (state, place)</span> |
+| contento / contenta | <span class="sfc-hide">happy</span> |
+| triste | <span class="sfc-hide">sad</span> |
+| ocupado / ocupada | <span class="sfc-hide">busy</span> |
+| enfermo / enferma | <span class="sfc-hide">sick</span> |
+| en casa | <span class="sfc-hide">at home</span> |
+| aquí | <span class="sfc-hide">here</span> |
+| ¿dónde? | <span class="sfc-hide">where?</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

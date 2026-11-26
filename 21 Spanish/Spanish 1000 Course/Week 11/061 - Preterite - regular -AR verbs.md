@@ -52,14 +52,14 @@ The **preterite** is for finished actions in the past: what happened.
 
 | Spanish | English |
 |---|---|
-| ayer | yesterday |
-| anoche | last night |
-| llegar | to arrive |
-| terminar | to finish |
-| empezar | to start |
-| el proyecto | project |
-| la semana pasada | last week |
-| el curso | course |
+| ayer | <span class="sfc-hide">yesterday</span> |
+| anoche | <span class="sfc-hide">last night</span> |
+| llegar | <span class="sfc-hide">to arrive</span> |
+| terminar | <span class="sfc-hide">to finish</span> |
+| empezar | <span class="sfc-hide">to start</span> |
+| el proyecto | <span class="sfc-hide">project</span> |
+| la semana pasada | <span class="sfc-hide">last week</span> |
+| el curso | <span class="sfc-hide">course</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

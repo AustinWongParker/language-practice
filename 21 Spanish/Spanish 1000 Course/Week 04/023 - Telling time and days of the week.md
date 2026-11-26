@@ -43,14 +43,14 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| la hora | hour, time |
-| y media | half past |
-| y cuarto | quarter past |
-| menos cuarto | quarter to |
-| hoy | today |
-| la semana | week |
-| la clase | class |
-| temprano | early |
+| la hora | <span class="sfc-hide">hour, time</span> |
+| y media | <span class="sfc-hide">half past</span> |
+| y cuarto | <span class="sfc-hide">quarter past</span> |
+| menos cuarto | <span class="sfc-hide">quarter to</span> |
+| hoy | <span class="sfc-hide">today</span> |
+| la semana | <span class="sfc-hide">week</span> |
+| la clase | <span class="sfc-hide">class</span> |
+| temprano | <span class="sfc-hide">early</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

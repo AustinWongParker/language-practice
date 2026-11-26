@@ -51,13 +51,13 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| salí | I went out |
-| escribí | I wrote |
-| aprendí | I learned |
-| volví | I came back |
-| leyó | he / she read |
-| el mensaje | message |
-| la carta | letter |
+| salí | <span class="sfc-hide">I went out</span> |
+| escribí | <span class="sfc-hide">I wrote</span> |
+| aprendí | <span class="sfc-hide">I learned</span> |
+| volví | <span class="sfc-hide">I came back</span> |
+| leyó | <span class="sfc-hide">he / she read</span> |
+| el mensaje | <span class="sfc-hide">message</span> |
+| la carta | <span class="sfc-hide">letter</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

@@ -45,14 +45,14 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| ser | to be (identity) |
-| de | from, of |
-| ¿de dónde? | from where? |
-| programador / programadora | programmer |
-| estudiante | student |
-| amigo / amiga | friend |
-| alto / alta | tall |
-| simpático / simpática | nice, friendly |
+| ser | <span class="sfc-hide">to be (identity)</span> |
+| de | <span class="sfc-hide">from, of</span> |
+| ¿de dónde? | <span class="sfc-hide">from where?</span> |
+| programador / programadora | <span class="sfc-hide">programmer</span> |
+| estudiante | <span class="sfc-hide">student</span> |
+| amigo / amiga | <span class="sfc-hide">friend</span> |
+| alto / alta | <span class="sfc-hide">tall</span> |
+| simpático / simpática | <span class="sfc-hide">nice, friendly</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

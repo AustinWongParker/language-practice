@@ -46,14 +46,14 @@ Fixed phrases with **por**: **por favor** · **por la mañana** · **por fin** �
 
 | Spanish | English |
 |---|---|
-| para | for, in order to |
-| por | for, through, because of |
-| la ayuda | help |
-| viajar | to travel |
-| el dólar | dollar |
-| por eso | that's why |
-| por teléfono | by phone |
-| ti | you (after para, por, etc.) |
+| para | <span class="sfc-hide">for, in order to</span> |
+| por | <span class="sfc-hide">for, through, because of</span> |
+| la ayuda | <span class="sfc-hide">help</span> |
+| viajar | <span class="sfc-hide">to travel</span> |
+| el dólar | <span class="sfc-hide">dollar</span> |
+| por eso | <span class="sfc-hide">that's why</span> |
+| por teléfono | <span class="sfc-hide">by phone</span> |
+| ti | <span class="sfc-hide">you (after para, por, etc.)</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

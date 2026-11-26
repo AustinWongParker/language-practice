@@ -47,12 +47,12 @@ Both mean "to know", but they aren't interchangeable.
 
 | Spanish | English |
 |---|---|
-| saber | to know (facts, how to) |
-| conocer | to know (people, places) |
-| nadar | to swim |
-| la respuesta | answer |
-| el barrio | neighborhood |
-| bien | well |
+| saber | <span class="sfc-hide">to know (facts, how to)</span> |
+| conocer | <span class="sfc-hide">to know (people, places)</span> |
+| nadar | <span class="sfc-hide">to swim</span> |
+| la respuesta | <span class="sfc-hide">answer</span> |
+| el barrio | <span class="sfc-hide">neighborhood</span> |
+| bien | <span class="sfc-hide">well</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

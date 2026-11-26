@@ -41,14 +41,14 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| el pollo | chicken |
-| el arroz | rice |
-| la ensalada | salad |
-| la carne | meat |
-| el pescado | fish |
-| quisiera | I'd like |
-| la cuenta | the check |
-| cenar | to have dinner |
+| el pollo | <span class="sfc-hide">chicken</span> |
+| el arroz | <span class="sfc-hide">rice</span> |
+| la ensalada | <span class="sfc-hide">salad</span> |
+| la carne | <span class="sfc-hide">meat</span> |
+| el pescado | <span class="sfc-hide">fish</span> |
+| quisiera | <span class="sfc-hide">I'd like</span> |
+| la cuenta | <span class="sfc-hide">the check</span> |
+| cenar | <span class="sfc-hide">to have dinner</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

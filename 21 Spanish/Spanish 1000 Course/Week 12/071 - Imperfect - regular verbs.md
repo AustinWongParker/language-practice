@@ -51,12 +51,12 @@ The **imperfect** describes the past as ongoing: what used to happen, what was g
 
 | Spanish | English |
 |---|---|
-| de niño / de niña | as a kid |
-| antes | before, back then |
-| jugar al fútbol | to play soccer |
-| cerca de | near |
-| todos los veranos | every summer |
-| tenía | I had, used to have |
+| de niño / de niña | <span class="sfc-hide">as a kid</span> |
+| antes | <span class="sfc-hide">before, back then</span> |
+| jugar al fútbol | <span class="sfc-hide">to play soccer</span> |
+| cerca de | <span class="sfc-hide">near</span> |
+| todos los veranos | <span class="sfc-hide">every summer</span> |
+| tenía | <span class="sfc-hide">I had, used to have</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

@@ -48,12 +48,12 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| porque | because |
-| con | with |
-| mi / mis | my |
-| tu / tus | your |
-| el hermano | brother |
-| la hermana | sister |
+| porque | <span class="sfc-hide">because</span> |
+| con | <span class="sfc-hide">with</span> |
+| mi / mis | <span class="sfc-hide">my</span> |
+| tu / tus | <span class="sfc-hide">your</span> |
+| el hermano | <span class="sfc-hide">brother</span> |
+| la hermana | <span class="sfc-hide">sister</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

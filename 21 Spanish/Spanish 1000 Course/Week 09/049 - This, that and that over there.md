@@ -45,14 +45,14 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| este / esta | this |
-| ese / esa | that |
-| aquel / aquella | that (over there) |
-| esto / eso | this / that (idea) |
-| la camisa | shirt |
-| el edificio | building |
-| cerca | near |
-| lejos | far |
+| este / esta | <span class="sfc-hide">this</span> |
+| ese / esa | <span class="sfc-hide">that</span> |
+| aquel / aquella | <span class="sfc-hide">that (over there)</span> |
+| esto / eso | <span class="sfc-hide">this / that (idea)</span> |
+| la camisa | <span class="sfc-hide">shirt</span> |
+| el edificio | <span class="sfc-hide">building</span> |
+| cerca | <span class="sfc-hide">near</span> |
+| lejos | <span class="sfc-hide">far</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

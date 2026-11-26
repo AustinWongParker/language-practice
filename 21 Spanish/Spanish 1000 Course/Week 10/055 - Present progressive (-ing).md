@@ -45,13 +45,13 @@ Add what you learn to your [[-ing]] pattern note.
 
 | Spanish | English |
 |---|---|
-| ahora mismo | right now |
-| esperar | to wait (for) |
-| mirar | to look at, watch |
-| el autobús | bus |
-| la tele | TV |
-| limpiar | to clean |
-| llover (llueve) | to rain (it rains) |
+| ahora mismo | <span class="sfc-hide">right now</span> |
+| esperar | <span class="sfc-hide">to wait (for)</span> |
+| mirar | <span class="sfc-hide">to look at, watch</span> |
+| el autobús | <span class="sfc-hide">bus</span> |
+| la tele | <span class="sfc-hide">TV</span> |
+| limpiar | <span class="sfc-hide">to clean</span> |
+| llover (llueve) | <span class="sfc-hide">to rain (it rains)</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

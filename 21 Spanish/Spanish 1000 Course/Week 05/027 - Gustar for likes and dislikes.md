@@ -40,14 +40,14 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| gustar | to like (be pleasing) |
-| el café | coffee |
-| el té | tea |
-| la música | music |
-| la comida | food |
-| también | also, too |
-| tampoco | neither |
-| mucho | a lot |
+| gustar | <span class="sfc-hide">to like (be pleasing)</span> |
+| el café | <span class="sfc-hide">coffee</span> |
+| el té | <span class="sfc-hide">tea</span> |
+| la música | <span class="sfc-hide">music</span> |
+| la comida | <span class="sfc-hide">food</span> |
+| también | <span class="sfc-hide">also, too</span> |
+| tampoco | <span class="sfc-hide">neither</span> |
+| mucho | <span class="sfc-hide">a lot</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

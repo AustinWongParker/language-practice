@@ -45,14 +45,14 @@ Don't mix these up with **tener calor / frío** from lesson 43: **hace frío** i
 
 | Spanish | English |
 |---|---|
-| el tiempo | weather |
-| hace calor | it's hot |
-| hace frío | it's cold |
-| hace sol | it's sunny |
-| llueve | it's raining |
-| nieva | it's snowing |
-| el verano | summer |
-| el invierno | winter |
+| el tiempo | <span class="sfc-hide">weather</span> |
+| hace calor | <span class="sfc-hide">it's hot</span> |
+| hace frío | <span class="sfc-hide">it's cold</span> |
+| hace sol | <span class="sfc-hide">it's sunny</span> |
+| llueve | <span class="sfc-hide">it's raining</span> |
+| nieva | <span class="sfc-hide">it's snowing</span> |
+| el verano | <span class="sfc-hide">summer</span> |
+| el invierno | <span class="sfc-hide">winter</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

@@ -50,14 +50,14 @@ Reflexive verbs are actions you do to yourself. They end in **-se** and put a pr
 
 | Spanish | English |
 |---|---|
-| levantarse | to get up |
-| despertarse | to wake up |
-| ducharse | to shower |
-| vestirse | to get dressed |
-| acostarse | to go to bed |
-| lavarse | to wash (yourself) |
-| cepillarse los dientes | to brush your teeth |
-| rápido | quickly |
+| levantarse | <span class="sfc-hide">to get up</span> |
+| despertarse | <span class="sfc-hide">to wake up</span> |
+| ducharse | <span class="sfc-hide">to shower</span> |
+| vestirse | <span class="sfc-hide">to get dressed</span> |
+| acostarse | <span class="sfc-hide">to go to bed</span> |
+| lavarse | <span class="sfc-hide">to wash (yourself)</span> |
+| cepillarse los dientes | <span class="sfc-hide">to brush your teeth</span> |
+| rápido | <span class="sfc-hide">quickly</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

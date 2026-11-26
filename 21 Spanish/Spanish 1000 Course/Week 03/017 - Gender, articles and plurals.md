@@ -44,14 +44,14 @@ Every noun is masculine or feminine, and the little words around it match.
 
 | Spanish | English |
 |---|---|
-| el día | day |
-| el problema | problem |
-| la mano | hand |
-| la mesa | table |
-| el lápiz | pencil |
-| el coche | car |
-| la ventana | window |
-| la pregunta | question |
+| el día | <span class="sfc-hide">day</span> |
+| el problema | <span class="sfc-hide">problem</span> |
+| la mano | <span class="sfc-hide">hand</span> |
+| la mesa | <span class="sfc-hide">table</span> |
+| el lápiz | <span class="sfc-hide">pencil</span> |
+| el coche | <span class="sfc-hide">car</span> |
+| la ventana | <span class="sfc-hide">window</span> |
+| la pregunta | <span class="sfc-hide">question</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

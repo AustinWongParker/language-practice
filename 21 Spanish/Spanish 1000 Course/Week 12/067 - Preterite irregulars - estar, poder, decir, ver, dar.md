@@ -55,13 +55,13 @@ The first group follows one pattern: an irregular stem plus **-e, -iste, -o, -im
 
 | Spanish | English |
 |---|---|
-| estuve | I was (somewhere) |
-| pude | I managed to, could |
-| dije | I said |
-| vi | I saw |
-| di | I gave |
-| todo el día | all day |
-| no pude | I couldn't |
+| estuve | <span class="sfc-hide">I was (somewhere)</span> |
+| pude | <span class="sfc-hide">I managed to, could</span> |
+| dije | <span class="sfc-hide">I said</span> |
+| vi | <span class="sfc-hide">I saw</span> |
+| di | <span class="sfc-hide">I gave</span> |
+| todo el día | <span class="sfc-hide">all day</span> |
+| no pude | <span class="sfc-hide">I couldn't</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

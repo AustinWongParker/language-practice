@@ -44,15 +44,15 @@ Tip: -ar verbs use **a** in their endings, -er verbs use **e**: **hablas** vs **
 
 | Spanish | English |
 |---|---|
-| comer | to eat |
-| beber | to drink |
-| leer | to read |
-| aprender | to learn |
-| correr | to run |
-| comprender | to understand |
-| vender | to sell |
-| el agua | water |
-| el parque | park |
+| comer | <span class="sfc-hide">to eat</span> |
+| beber | <span class="sfc-hide">to drink</span> |
+| leer | <span class="sfc-hide">to read</span> |
+| aprender | <span class="sfc-hide">to learn</span> |
+| correr | <span class="sfc-hide">to run</span> |
+| comprender | <span class="sfc-hide">to understand</span> |
+| vender | <span class="sfc-hide">to sell</span> |
+| el agua | <span class="sfc-hide">water</span> |
+| el parque | <span class="sfc-hide">park</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

@@ -52,13 +52,13 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| anteayer | the day before yesterday |
-| hace … | … ago |
-| el mes | month |
-| el año pasado | last year |
-| de repente | suddenly |
-| al final | in the end |
-| por fin | finally, at last |
+| anteayer | <span class="sfc-hide">the day before yesterday</span> |
+| hace … | <span class="sfc-hide">… ago</span> |
+| el mes | <span class="sfc-hide">month</span> |
+| el año pasado | <span class="sfc-hide">last year</span> |
+| de repente | <span class="sfc-hide">suddenly</span> |
+| al final | <span class="sfc-hide">in the end</span> |
+| por fin | <span class="sfc-hide">finally, at last</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

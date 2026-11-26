@@ -49,14 +49,14 @@ An indirect object is who something is given, said or done **to** or **for**: I 
 
 | Spanish | English |
 |---|---|
-| dar (doy) | to give (I give) |
-| encantar | to love (things) |
-| interesar | to interest |
-| importar | to matter |
-| doler | to hurt |
-| la cabeza | head |
-| la espalda | back |
-| la muñeca | wrist |
+| dar (doy) | <span class="sfc-hide">to give (I give)</span> |
+| encantar | <span class="sfc-hide">to love (things)</span> |
+| interesar | <span class="sfc-hide">to interest</span> |
+| importar | <span class="sfc-hide">to matter</span> |
+| doler | <span class="sfc-hide">to hurt</span> |
+| la cabeza | <span class="sfc-hide">head</span> |
+| la espalda | <span class="sfc-hide">back</span> |
+| la muñeca | <span class="sfc-hide">wrist</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

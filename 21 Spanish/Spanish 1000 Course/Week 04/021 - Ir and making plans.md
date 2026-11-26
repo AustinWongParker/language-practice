@@ -48,14 +48,14 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| ir | to go |
-| el gimnasio | gym |
-| el trabajo | work, job |
-| el supermercado | supermarket |
-| la playa | beach |
-| el fin de semana | weekend |
-| mañana | tomorrow |
-| hacer | to do, make |
+| ir | <span class="sfc-hide">to go</span> |
+| el gimnasio | <span class="sfc-hide">gym</span> |
+| el trabajo | <span class="sfc-hide">work, job</span> |
+| el supermercado | <span class="sfc-hide">supermarket</span> |
+| la playa | <span class="sfc-hide">beach</span> |
+| el fin de semana | <span class="sfc-hide">weekend</span> |
+| mañana | <span class="sfc-hide">tomorrow</span> |
+| hacer | <span class="sfc-hide">to do, make</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

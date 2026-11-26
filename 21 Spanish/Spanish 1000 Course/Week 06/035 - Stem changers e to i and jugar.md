@@ -50,14 +50,14 @@ Same pattern: **servir** (sirvo), **repetir** (repito), **seguir** (sigo; note t
 
 | Spanish | English |
 |---|---|
-| pedir | to ask for, order |
-| servir | to serve |
-| repetir | to repeat |
-| seguir | to follow, keep going |
-| jugar | to play (games, sports) |
-| siempre | always |
-| el restaurante | restaurant |
-| el plan | plan |
+| pedir | <span class="sfc-hide">to ask for, order</span> |
+| servir | <span class="sfc-hide">to serve</span> |
+| repetir | <span class="sfc-hide">to repeat</span> |
+| seguir | <span class="sfc-hide">to follow, keep going</span> |
+| jugar | <span class="sfc-hide">to play (games, sports)</span> |
+| siempre | <span class="sfc-hide">always</span> |
+| el restaurante | <span class="sfc-hide">restaurant</span> |
+| el plan | <span class="sfc-hide">plan</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

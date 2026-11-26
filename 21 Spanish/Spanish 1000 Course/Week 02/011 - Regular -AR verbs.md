@@ -45,15 +45,15 @@ Most verbs end in **-ar**. Drop the -ar and add the ending for who's doing it:
 
 | Spanish | English |
 |---|---|
-| hablar | to speak |
-| trabajar | to work |
-| estudiar | to study |
-| caminar | to walk |
-| pasear al perro | to walk the dog |
-| cocinar | to cook |
-| necesitar | to need |
-| todos los días | every day |
-| la cena | dinner |
+| hablar | <span class="sfc-hide">to speak</span> |
+| trabajar | <span class="sfc-hide">to work</span> |
+| estudiar | <span class="sfc-hide">to study</span> |
+| caminar | <span class="sfc-hide">to walk</span> |
+| pasear al perro | <span class="sfc-hide">to walk the dog</span> |
+| cocinar | <span class="sfc-hide">to cook</span> |
+| necesitar | <span class="sfc-hide">to need</span> |
+| todos los días | <span class="sfc-hide">every day</span> |
+| la cena | <span class="sfc-hide">dinner</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

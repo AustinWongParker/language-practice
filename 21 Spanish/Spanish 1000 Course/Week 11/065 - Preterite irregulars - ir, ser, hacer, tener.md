@@ -50,13 +50,13 @@ The most common verbs are irregular in the preterite, and these forms have **no 
 
 | Spanish | English |
 |---|---|
-| fui | I went, I was |
-| hice | I did, made |
-| tuve | I had |
-| el viaje | trip |
-| el examen | exam |
-| divertido / divertida | fun |
-| pasado / pasada | last (week, weekend) |
+| fui | <span class="sfc-hide">I went, I was</span> |
+| hice | <span class="sfc-hide">I did, made</span> |
+| tuve | <span class="sfc-hide">I had</span> |
+| el viaje | <span class="sfc-hide">trip</span> |
+| el examen | <span class="sfc-hide">exam</span> |
+| divertido / divertida | <span class="sfc-hide">fun</span> |
+| pasado / pasada | <span class="sfc-hide">last (week, weekend)</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

@@ -47,14 +47,14 @@ Three common verbs with a **-go** yo form *and* a stem change:
 
 | Spanish | English |
 |---|---|
-| tener hambre | to be hungry |
-| tener sed | to be thirsty |
-| tener sueño | to be sleepy |
-| tener prisa | to be in a hurry |
-| tener razón | to be right |
-| venir | to come |
-| decir | to say, tell |
-| la verdad | truth |
+| tener hambre | <span class="sfc-hide">to be hungry</span> |
+| tener sed | <span class="sfc-hide">to be thirsty</span> |
+| tener sueño | <span class="sfc-hide">to be sleepy</span> |
+| tener prisa | <span class="sfc-hide">to be in a hurry</span> |
+| tener razón | <span class="sfc-hide">to be right</span> |
+| venir | <span class="sfc-hide">to come</span> |
+| decir | <span class="sfc-hide">to say, tell</span> |
+| la verdad | <span class="sfc-hide">truth</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

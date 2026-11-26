@@ -48,14 +48,14 @@ Same pattern: **poder** (puedo), **volver** (vuelvo), **encontrar** (encuentro),
 
 | Spanish | English |
 |---|---|
-| dormir | to sleep |
-| volver | to come back |
-| encontrar | to find |
-| costar | to cost |
-| almorzar | to have lunch |
-| recordar | to remember |
-| las llaves | keys |
-| el mediodía | noon |
+| dormir | <span class="sfc-hide">to sleep</span> |
+| volver | <span class="sfc-hide">to come back</span> |
+| encontrar | <span class="sfc-hide">to find</span> |
+| costar | <span class="sfc-hide">to cost</span> |
+| almorzar | <span class="sfc-hide">to have lunch</span> |
+| recordar | <span class="sfc-hide">to remember</span> |
+| las llaves | <span class="sfc-hide">keys</span> |
+| el mediodía | <span class="sfc-hide">noon</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

@@ -51,14 +51,14 @@ Only three verbs are irregular in the imperfect:
 
 | Spanish | English |
 |---|---|
-| era | was (describing) |
-| iba | used to go |
-| veía | used to watch, see |
-| cuando era niño / niña | when I was a kid |
-| la escuela | school |
-| los dibujos animados | cartoons |
-| tímido / tímida | shy |
-| feliz | happy |
+| era | <span class="sfc-hide">was (describing)</span> |
+| iba | <span class="sfc-hide">used to go</span> |
+| veía | <span class="sfc-hide">used to watch, see</span> |
+| cuando era niño / niña | <span class="sfc-hide">when I was a kid</span> |
+| la escuela | <span class="sfc-hide">school</span> |
+| los dibujos animados | <span class="sfc-hide">cartoons</span> |
+| tímido / tímida | <span class="sfc-hide">shy</span> |
+| feliz | <span class="sfc-hide">happy</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

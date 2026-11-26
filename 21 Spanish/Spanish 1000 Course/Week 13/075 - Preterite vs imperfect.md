@@ -47,14 +47,14 @@ They often appear together: the imperfect sets the scene, the preterite interrup
 
 | Spanish | English |
 |---|---|
-| mientras | while |
-| de repente | suddenly |
-| una vez | once |
-| sonar | to ring |
-| quedarse | to stay |
-| así que | so |
-| limpiar | to clean |
-| entrar | to come in |
+| mientras | <span class="sfc-hide">while</span> |
+| de repente | <span class="sfc-hide">suddenly</span> |
+| una vez | <span class="sfc-hide">once</span> |
+| sonar | <span class="sfc-hide">to ring</span> |
+| quedarse | <span class="sfc-hide">to stay</span> |
+| así que | <span class="sfc-hide">so</span> |
+| limpiar | <span class="sfc-hide">to clean</span> |
+| entrar | <span class="sfc-hide">to come in</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

@@ -40,14 +40,14 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| tener … años | to be … years old |
-| hay | there is, there are |
-| ¿cuántos? / ¿cuántas? | how many? |
-| el año | year |
-| el perro | dog |
-| el libro | book |
-| la casa | house |
-| la persona | person |
+| tener … años | <span class="sfc-hide">to be … years old</span> |
+| hay | <span class="sfc-hide">there is, there are</span> |
+| ¿cuántos? / ¿cuántas? | <span class="sfc-hide">how many?</span> |
+| el año | <span class="sfc-hide">year</span> |
+| el perro | <span class="sfc-hide">dog</span> |
+| el libro | <span class="sfc-hide">book</span> |
+| la casa | <span class="sfc-hide">house</span> |
+| la persona | <span class="sfc-hide">person</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

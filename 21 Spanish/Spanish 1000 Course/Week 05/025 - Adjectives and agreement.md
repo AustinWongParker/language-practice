@@ -44,14 +44,14 @@ Adjectives usually go **after** the noun and match it in gender and number:
 
 | Spanish | English |
 |---|---|
-| grande | big |
-| pequeño / pequeña | small |
-| nuevo / nueva | new |
-| viejo / vieja | old |
-| fácil | easy |
-| difícil | hard, difficult |
-| bonito / bonita | pretty, nice |
-| rápido / rápida | fast |
+| grande | <span class="sfc-hide">big</span> |
+| pequeño / pequeña | <span class="sfc-hide">small</span> |
+| nuevo / nueva | <span class="sfc-hide">new</span> |
+| viejo / vieja | <span class="sfc-hide">old</span> |
+| fácil | <span class="sfc-hide">easy</span> |
+| difícil | <span class="sfc-hide">hard, difficult</span> |
+| bonito / bonita | <span class="sfc-hide">pretty, nice</span> |
+| rápido / rápida | <span class="sfc-hide">fast</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

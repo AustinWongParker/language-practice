@@ -47,14 +47,14 @@ Attach pronouns to the end, adding an accent to keep the stress: **llama â†’ llÃ
 
 | Spanish | English |
 |---|---|
-| escucha | listen |
-| mira | look |
-| espera | wait |
-| ven | come |
-| haz | do, make |
-| dime | tell me |
-| despacio | slowly |
-| un momento | a moment |
+| escucha | <span class="sfc-hide">listen</span> |
+| mira | <span class="sfc-hide">look</span> |
+| espera | <span class="sfc-hide">wait</span> |
+| ven | <span class="sfc-hide">come</span> |
+| haz | <span class="sfc-hide">do, make</span> |
+| dime | <span class="sfc-hide">tell me</span> |
+| despacio | <span class="sfc-hide">slowly</span> |
+| un momento | <span class="sfc-hide">a moment</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

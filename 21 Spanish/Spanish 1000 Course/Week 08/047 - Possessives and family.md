@@ -47,14 +47,14 @@ The possessive matches the thing owned, not the owner: **nuestra casa, mis herma
 
 | Spanish | English |
 |---|---|
-| los padres | parents |
-| el hermano / la hermana | brother / sister |
-| el hijo / la hija | son / daughter |
-| el abuelo / la abuela | grandfather / grandmother |
-| la pareja | partner |
-| la mascota | pet |
-| otro / otra | other, another |
-| llamarse | to be called |
+| los padres | <span class="sfc-hide">parents</span> |
+| el hermano / la hermana | <span class="sfc-hide">brother / sister</span> |
+| el hijo / la hija | <span class="sfc-hide">son / daughter</span> |
+| el abuelo / la abuela | <span class="sfc-hide">grandfather / grandmother</span> |
+| la pareja | <span class="sfc-hide">partner</span> |
+| la mascota | <span class="sfc-hide">pet</span> |
+| otro / otra | <span class="sfc-hide">other, another</span> |
+| llamarse | <span class="sfc-hide">to be called</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

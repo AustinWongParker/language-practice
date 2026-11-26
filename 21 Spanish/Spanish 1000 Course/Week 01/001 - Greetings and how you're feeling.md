@@ -42,14 +42,14 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| hola | hello |
-| buenos días | good morning |
-| buenas noches | good evening, good night |
-| ¿cómo estás? | how are you? |
-| bien | well, fine |
-| cansado / cansada | tired |
-| mucho gusto | nice to meet you |
-| hasta luego | see you later |
+| hola | <span class="sfc-hide">hello</span> |
+| buenos días | <span class="sfc-hide">good morning</span> |
+| buenas noches | <span class="sfc-hide">good evening, good night</span> |
+| ¿cómo estás? | <span class="sfc-hide">how are you?</span> |
+| bien | <span class="sfc-hide">well, fine</span> |
+| cansado / cansada | <span class="sfc-hide">tired</span> |
+| mucho gusto | <span class="sfc-hide">nice to meet you</span> |
+| hasta luego | <span class="sfc-hide">see you later</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 

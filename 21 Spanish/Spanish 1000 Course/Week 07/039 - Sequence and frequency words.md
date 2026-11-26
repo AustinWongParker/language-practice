@@ -52,14 +52,14 @@ reflection:
 
 | Spanish | English |
 |---|---|
-| primero | first |
-| luego | then |
-| después de | after |
-| antes de | before |
-| a veces | sometimes |
-| nunca | never |
-| normalmente | usually |
-| por último | finally |
+| primero | <span class="sfc-hide">first</span> |
+| luego | <span class="sfc-hide">then</span> |
+| después de | <span class="sfc-hide">after</span> |
+| antes de | <span class="sfc-hide">before</span> |
+| a veces | <span class="sfc-hide">sometimes</span> |
+| nunca | <span class="sfc-hide">never</span> |
+| normalmente | <span class="sfc-hide">usually</span> |
+| por último | <span class="sfc-hide">finally</span> |
 
 **Today's 10 words** (from the 1000 most common; read each phrase out loud)
 
