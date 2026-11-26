@@ -96,9 +96,6 @@ Play a guessing game: describe a person, place or thing without saying its name,
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[Colombian Girl REACTS to Japanese Snacks](https://app.dreaming.com/spanish/watch?id=660f6ff012ff04264d87b6e4) · 16 min · Beginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

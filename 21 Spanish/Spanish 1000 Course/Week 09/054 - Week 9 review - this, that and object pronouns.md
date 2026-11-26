@@ -98,9 +98,6 @@ Point at things around the room: **¿Qué es esto? ¿Y eso? ¿Y aquello?** Then 
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[Beginner Spanish Story: "Clueless at Harvard”](https://app.dreaming.com/spanish/watch?id=6a186e8d4a6295f32ed34f24) · 6 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

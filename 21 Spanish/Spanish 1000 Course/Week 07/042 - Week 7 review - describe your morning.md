@@ -98,9 +98,6 @@ Walk your partner through this morning, step by step: **primero, luego, después
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[Spanish Story for Complete Beginners: "A Horrible Hotel”](https://app.dreaming.com/spanish/watch?id=69de1e3ab0b7b6f88770387e) · 9 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

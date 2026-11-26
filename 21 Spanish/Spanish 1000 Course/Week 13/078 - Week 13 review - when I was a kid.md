@@ -98,9 +98,6 @@ Talk about your childhood with the imperfect: where you lived, what you were lik
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[Easy Spanish Story for Beginners: "Panic at the Airport" (A1-A2)](https://app.dreaming.com/spanish/watch?id=6ab4ef9ac98eef07ed0d0040) · 10 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

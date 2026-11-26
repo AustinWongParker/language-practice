@@ -97,9 +97,6 @@ Then swap: you ask the questions. Finish by counting to 20 together, taking turn
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[The shower](https://app.dreaming.com/spanish/watch?id=6508ba09bfa14e2f3435e2a5) · 2 min · First steps**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

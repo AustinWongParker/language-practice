@@ -105,9 +105,6 @@ See the [[Conversation Partner Guide]] for how to run this.
 
 Afterwards, add the best correction you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Answer the questions out loud anyway and record yourself on your phone. Listen back once and note one thing to fix. Or book a session with a tutor (italki, Preply) or a language exchange partner (Tandem, HelloTalk).
-
 ## ✅ Finish
 - [ ] Flashcards: every card due today
 - [ ] Quick recall

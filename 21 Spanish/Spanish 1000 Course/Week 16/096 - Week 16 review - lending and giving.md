@@ -98,9 +98,6 @@ Role-play: you need to borrow things for a trip. Ask your partner for each one, 
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[This or that celebrity?](https://app.dreaming.com/spanish/watch?id=668500fa31f92fea3a264d9a) · 15 min · Beginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

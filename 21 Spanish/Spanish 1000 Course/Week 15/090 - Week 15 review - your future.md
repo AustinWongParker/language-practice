@@ -96,9 +96,6 @@ Talk about the future: what you'll do next year (**haré, viajaré**) and what y
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[My Family](https://app.dreaming.com/spanish/watch?id=5e4d11e8aac87f3820954c01) · 10 min · Beginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

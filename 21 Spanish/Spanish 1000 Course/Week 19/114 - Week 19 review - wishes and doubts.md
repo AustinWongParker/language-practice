@@ -96,9 +96,6 @@ Talk about the coming year: what you hope happens (**espero que, ojalá**), what
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[The giraffe loves cacti](https://app.dreaming.com/spanish/watch?id=5eeb91a3ff90b6218c6e3e3c) · 4 min · Beginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

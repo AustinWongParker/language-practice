@@ -98,9 +98,6 @@ Your partner asks rapid-fire questions with stem-changing verbs: ¿Qué quieres?
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[The Tinder date masterplan](https://app.dreaming.com/spanish/watch?id=643e5d61847dcc80ff097985) · 7 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

@@ -96,9 +96,6 @@ Teach your partner how to do something you're good at (a recipe, a workout, a ga
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[Laura can't find a husband](https://app.dreaming.com/spanish/watch?id=621868a1fe13d101ffe7ec41) · 10 min · Beginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

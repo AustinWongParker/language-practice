@@ -98,9 +98,6 @@ Compare two cities you know: size, weather, food, people (**más... que, menos..
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[Easy Spanish Story: Renting an Apartment](https://app.dreaming.com/spanish/watch?id=688cfd0ca96f7e266f6be870) · 10 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

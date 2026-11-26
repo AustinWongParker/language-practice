@@ -98,9 +98,6 @@ Tell your partner everything you did yesterday, in order, using the preterite. Y
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[Spanish Story for Beginners:  "My First Time at a Starbucks... in Spain!”](https://app.dreaming.com/spanish/watch?id=6911c3dfb0b7b6f887702afc) · 6 min · Superbeginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 

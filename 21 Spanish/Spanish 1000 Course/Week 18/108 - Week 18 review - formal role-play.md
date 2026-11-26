@@ -98,9 +98,6 @@ Role-play with **usted**: checking into a hotel, then a visit to the doctor. Use
 
 Afterwards, add the corrections you got to [[Spanish Mistakes Log]].
 
-> [!info]- No partner today?
-> Do the task alone out loud and record it on your phone. Or book a tutor (italki, Preply) or a language exchange (Tandem, HelloTalk).
-
 ## 4 · Listen (8 min)
 A longer session today. Start with **[The Job Interview - Easy Spanish Story (Comprehensible Input)](https://app.dreaming.com/spanish/watch?id=690dde33b0b7b6f887702ae2) · 9 min · Beginner**, then keep going down the [[Dreaming Spanish Watch List]]. Or listen to an episode of **Coffee Break Spanish** (free in any podcast app).
 
