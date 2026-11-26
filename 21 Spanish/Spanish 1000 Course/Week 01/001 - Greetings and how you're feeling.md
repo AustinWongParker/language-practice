@@ -3,11 +3,11 @@ type: lesson
 course: Spanish 1000 Course
 lesson: 1
 week: 1
-status: todo
-done_on:
-minutes:
-difficulty:
-reflection:
+status: done
+done_on: 2026-11-25
+minutes: 27
+difficulty: 1
+reflection: overall easy, some small words i messed up like te and llamas
 ---
 # Lesson 1 · Greetings and how you're feeling
 **Week 1 · Foundations** · about 30 min · [[Spanish 1000 Course|Course overview]] · [[002 - Practice - y, a, no, se|Lesson 2]] →
